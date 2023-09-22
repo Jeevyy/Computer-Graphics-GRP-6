@@ -1,4 +1,4 @@
-# Computer-Graphics: ICSD 3C - Group 6
+# Computer-Graphics: ICS 3C - Group 6
 ## About
 
 This Python project demonstrates how to process student data from an Excel file. It includes functions for generating email addresses, separating students by gender, identifying special characters in names, merging data into one file, and shuffling the data.
