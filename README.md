@@ -1,20 +1,19 @@
-# Computer-Graphics: ICS 3C - Group 6
+# Computer-Graphics: ICS 3C - Group 6 CAT 1
 ## About
 
-This Python project demonstrates how to process student data from an Excel file. It includes functions for generating email addresses, separating students by gender, identifying special characters in names, merging data into one file, and shuffling the data.
+This Python3 development project establishes an environment for data processing and file manipulation. It structures a PyCharm project, imports a massive dataset, and accomplishes three main tasks. It creates language-specific files and a comprehensive translation dataset ensurimg clean file management with GitHub integration.
 
-## Files
+## Python Files
 
-- `functions.py`: Contains functions for generating email addresses and checking special characters.
-- `constraints.py`: Placeholder for constraints or configurations (if needed).
+- `functions.py`: Contains functions to answer the queations for generating files from Excel to Jsonl.
 - `main.py`: The main program file that loads, processes, and analyzes student data.
 
-## Data
+## Data Produced
 
-- `testfile.xlsx`: The input Excel file containing student data.
-- `merged_students.xlsx`: The merged Excel file with all student data.
-- `shuffled_students.json`: JSON file containing shuffled student data.
-- `output_emailF.xlsx`: Excel file with generated email addresses.
+- `Excel_Files`: The output excel files thats contains id's of all langauges.
+- `JSONL_Files`: The jsonl files that contain the pretty printed jsonl formatted for each language.
+- `JSONL_Output`: Contains DE, SW and EN jsonl files.
+- `translations.json`: Large json file showing all the translations from en to xx with id and utt for all the train sets.
 
 ## Usage
 
