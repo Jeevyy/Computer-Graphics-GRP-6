@@ -1,0 +1,1652 @@
+{"id":16375,"utt":"compose an email to bob","annot_utt":"compose an email to [person : bob]"}
+{"id":15970,"utt":"what was the subject of the last email from mom","annot_utt":"what was the subject of the last email from [relation : mom]"}
+{"id":6503,"utt":"i was chased by a dog","annot_utt":"i was chased by a dog"}
+{"id":5919,"utt":"what is the latest update on the new york bridge proposal","annot_utt":"what is the latest update on the [news_topic : new york bridge proposal]"}
+{"id":5296,"utt":"olly get me the popular news from b. b. c.","annot_utt":"olly get me the popular news from [media_type : b. b. c.]"}
+{"id":13754,"utt":"tell me the current price of exxon mobil stock","annot_utt":"tell me the current price of [business_name : exxon mobil] stock"}
+{"id":5160,"utt":"could you please play the song of michael jackson","annot_utt":"could you please play the song of [artist_name : michael jackson]"}
+{"id":2812,"utt":"can you make me a cup of coffee","annot_utt":"can you make me a cup of coffee"}
+{"id":16519,"utt":"i need to add a new email to my contacts","annot_utt":"i need to add a new email to my contacts"}
+{"id":6221,"utt":"i do not know how to answer this question you left a word or two out","annot_utt":"i do not know how to answer this question you left a word or two out"}
+{"id":5414,"utt":"will you put on the music","annot_utt":"will you put on the music"}
+{"id":6024,"utt":"should i take a sweater or a coat to work today","annot_utt":"should i take a [weather_descriptor : sweater] or a [weather_descriptor : coat] to work [date : today]"}
+{"id":10985,"utt":"delete my to do's for this week","annot_utt":"delete my [list_name : to do's] for [date : this week]"}
+{"id":6372,"utt":"plant based news","annot_utt":"[news_topic : plant based] news"}
+{"id":16642,"utt":"check mail for anything from shelly","annot_utt":"check mail for anything from [person : shelly]"}
+{"id":17043,"utt":"send email to tim at hotmail dot com","annot_utt":"send email to [email_address : tim at hotmail dot com]"}
+{"id":9942,"utt":"what all goes into a red velvet cake","annot_utt":"what all goes into a [food_type : red velvet cake]"}
+{"id":861,"utt":"my set alarms","annot_utt":"my set alarms"}
+{"id":7087,"utt":"cancel the tomorrow's meeting from my calendar","annot_utt":"cancel the [date : tomorrow's] [event_name : meeting] from my calendar"}
+{"id":11798,"utt":"what's the next event at the library","annot_utt":"what's the next event at the [place_name : library]"}
+{"id":6134,"utt":"find out what song this is and tell me the name","annot_utt":"find out what song this is and tell me the name"}
+{"id":9519,"utt":"play any pop f. m. channel","annot_utt":"play any [music_genre : pop] [radio_name : f. m.] channel"}
+{"id":10216,"utt":"search in the web for buying bakeware for muffins","annot_utt":"search in the web for buying bakeware for muffins"}
+{"id":13400,"utt":"send a funny message to all of my friends","annot_utt":"send a funny message to all of my friends"}
+{"id":6014,"utt":"what artist is this","annot_utt":"what artist is this"}
+{"id":2451,"utt":"seven hundred","annot_utt":"seven hundred"}
+{"id":12618,"utt":"how much is a round trip train ticket to go to new york","annot_utt":"how much is a round trip [transport_type : train] ticket to go to [place_name : new york]"}
+{"id":4377,"utt":"what's the current weather","annot_utt":"what's the current weather"}
+{"id":399,"utt":"remove the first alarm","annot_utt":"remove the first alarm"}
+{"id":8868,"utt":"remind me to call mom every tuesday at ten am","annot_utt":"remind me to [event_name : call mom] [general_frequency : every tuesday] at [time : ten am]"}
+{"id":3582,"utt":"mute please","annot_utt":"mute please"}
+{"id":14700,"utt":"what exactly is a resin tooth filling","annot_utt":"what exactly is a [definition_word : resin tooth filling]"}
+{"id":8390,"utt":"remind me of my meeting on","annot_utt":"remind me of my [event_name : meeting] on"}
+{"id":14308,"utt":"what is leonardo dicaprio's networth","annot_utt":"what is leonardo dicaprio's networth"}
+{"id":16892,"utt":"start and email to john smith","annot_utt":"start and email to [person : john smith]"}
+{"id":4130,"utt":"is my reminder alarm set for dance class","annot_utt":"is my reminder alarm set for [event_name : dance class]"}
+{"id":1427,"utt":"change the lights to blue olly","annot_utt":"change the lights to [color_type : blue] olly"}
+{"id":827,"utt":"play bob dylan playlist","annot_utt":"play [artist_name : bob dylan] playlist"}
+{"id":11650,"utt":"both young drivers and provisional drivers crash more often than other drivers because they have not yet had the wide range of experiences they need to drive safely by themselves research has shown that driving experience is a major factor in reducing road crashes and that the safest time for young drivers is when they are driving under supervision while learning","annot_utt":"both young drivers and provisional drivers crash more often than other drivers because they have not yet had the wide range of experiences they need to drive safely by themselves research has shown that driving experience is a major factor in reducing road crashes and that the safest time for young drivers is when they are driving under supervision while learning"}
+{"id":15181,"utt":"do i have any new friend requests","annot_utt":"do i have any new friend requests"}
+{"id":2237,"utt":"read me the latest international news","annot_utt":"read me the latest [place_name : international] news"}
+{"id":12121,"utt":"book me a taxi to leith in half an hour","annot_utt":"book me a [transport_type : taxi] to [place_name : leith] in [time : half an hour]"}
+{"id":426,"utt":"power up the plug socket one","annot_utt":"power up the [device_type : plug socket one]"}
+{"id":13486,"utt":"can you show me a list of all my recent commands","annot_utt":"can you show me a list of all my recent commands"}
+{"id":4137,"utt":"could you please confirm if paradise does takeaway","annot_utt":"could you please confirm if [business_name : paradise] does [order_type : takeaway]"}
+{"id":4212,"utt":"am i going to be able to mow the grass this evening","annot_utt":"am i going to be able to [weather_descriptor : mow the grass] [timeofday : this evening]"}
+{"id":4268,"utt":"move to the next song in the list","annot_utt":"[player_setting : move] to the next song in the list"}
+{"id":7916,"utt":"remind me to take out the garbage at six p. m.","annot_utt":"remind me to take out the garbage at [time : six p. m.]"}
+{"id":2775,"utt":"discontinue use of lights","annot_utt":"discontinue use of lights"}
+{"id":8579,"utt":"what information should i know for my meetings today","annot_utt":"what information should i know for my [event_name : meetings] [date : today]"}
+{"id":14444,"utt":"what was the first movie of morgan freeman","annot_utt":"what was the first movie of [person : morgan freeman]"}
+{"id":6013,"utt":"who is this on the radio","annot_utt":"who is this on the radio"}
+{"id":10743,"utt":"remove that item","annot_utt":"remove that item"}
+{"id":15094,"utt":"look up the number of people living in miami florida","annot_utt":"look up the number of people living in [place_name : miami florida]"}
+{"id":16712,"utt":"do i have any new email","annot_utt":"do i have any new email"}
+{"id":7499,"utt":"make new schedule for tomorrow meeting","annot_utt":"make new schedule for [date : tomorrow] [event_name : meeting]"}
+{"id":7502,"utt":"what is on the agenda for the four p. m. meeting with joe","annot_utt":"what is on the agenda for the [time : four p. m.] meeting with [person : joe]"}
+{"id":8825,"utt":"send me a reminder of my meeting with tom next friday","annot_utt":"send me a reminder of my [event_name : meeting] with [person : tom] next [date : friday]"}
+{"id":2588,"utt":"what's the latest news from c. n. n. please","annot_utt":"what's the latest news from [media_type : c. n. n.] please"}
+{"id":5062,"utt":"please play me songs from the eighties","annot_utt":"please play me songs from the [music_genre : eighties]"}
+{"id":7680,"utt":"in my calendar delete all of my golf events for the current month","annot_utt":"in my calendar delete all of my [event_name : golf events] for the current [date : month]"}
+{"id":17081,"utt":"create an email for my company worker with my recently saved documents","annot_utt":"create an email for my [relation : company worker] with my recently saved documents"}
+{"id":6489,"utt":"web searches","annot_utt":"web searches"}
+{"id":5888,"utt":"power off please","annot_utt":"power off please"}
+{"id":334,"utt":"i wish to know the weather in san fransico","annot_utt":"i wish to know the weather in [place_name : san fransico]"}
+{"id":10893,"utt":"make a grocery list please","annot_utt":"make a [list_name : grocery] list please"}
+{"id":14539,"utt":"find geographic details of this place","annot_utt":"find geographic details of this place"}
+{"id":9656,"utt":"play me an upbeat song through your speakers","annot_utt":"play me an [music_descriptor : upbeat] song through your speakers"}
+{"id":10756,"utt":"clear out the shopping list","annot_utt":"clear out the [list_name : shopping] list"}
+{"id":4383,"utt":"what will the weather be tomorrow","annot_utt":"what will the weather be [date : tomorrow]"}
+{"id":4183,"utt":"current time new york","annot_utt":"current [time_zone : time] [place_name : new york]"}
+{"id":19,"utt":"olly turn the lights off in the bedroom","annot_utt":"olly turn the lights off in the [house_place : bedroom]"}
+{"id":47,"utt":"what's the time in australia","annot_utt":"what's the time in [place_name : australia]"}
+{"id":2322,"utt":"what's the weather like tomorrow","annot_utt":"what's the weather like [date : tomorrow]"}
+{"id":7666,"utt":"will you mark that i have a meeting with tom at three tomorrow","annot_utt":"will you mark that i have a [event_name : meeting] with [person : tom] at [time : three] [date : tomorrow]"}
+{"id":16158,"utt":"remember this email","annot_utt":"remember this email"}
+{"id":3785,"utt":"turn off the bathroom light please","annot_utt":"turn off the [house_place : bathroom] light please"}
+{"id":15186,"utt":"wedding wishes","annot_utt":"[event_name : wedding] wishes"}
+{"id":297,"utt":"shuffle songs by coldplay","annot_utt":"[player_setting : shuffle] songs by [artist_name : coldplay]"}
+{"id":14449,"utt":"does pink have a new baby","annot_utt":"does [person : pink] have a new baby"}
+{"id":6074,"utt":"turn off bedroom light at nine thirty p. m.","annot_utt":"turn off [house_place : bedroom] light at [time : nine thirty p. m.]"}
+{"id":2890,"utt":"current weather","annot_utt":"current weather"}
+{"id":329,"utt":"seven years","annot_utt":"[song_name : seven years]"}
+{"id":16373,"utt":"have i received any emails with tracking numbers","annot_utt":"have i received any emails with tracking numbers"}
+{"id":5707,"utt":"listen to my favorites","annot_utt":"listen to my favorites"}
+{"id":14304,"utt":"what's the rate between pesos and yen","annot_utt":"what's the rate between [currency_name : pesos] and [currency_name : yen]"}
+{"id":2384,"utt":"what's happening around the world","annot_utt":"what's happening around the [place_name : world]"}
+{"id":9620,"utt":"can i get delilah on the radio in the bedroom","annot_utt":"can i get delilah on the radio in the [house_place : bedroom]"}
+{"id":10349,"utt":"let's play you'll be the keeper and never change position","annot_utt":"let's play you'll be the keeper and never change position"}
+{"id":14239,"utt":"how much is the us dollar versus the pound","annot_utt":"how much is the [currency_name : us dollar] versus the [currency_name : pound]"}
+{"id":5554,"utt":"is this song ed sheeran","annot_utt":"is this song [artist_name : ed sheeran]"}
+{"id":16048,"utt":"show me recent emails","annot_utt":"show me recent emails"}
+{"id":8767,"utt":"is jessica's birthday on april twelfth","annot_utt":"is [person : jessica's] birthday on [date : april twelfth]"}
+{"id":12066,"utt":"what shops are near me","annot_utt":"what [business_type : shops] are near me"}
+{"id":3349,"utt":"where is the car","annot_utt":"where is the car"}
+{"id":12604,"utt":"how do i book a train ticket online","annot_utt":"how do i book a [transport_type : train] ticket online"}
+{"id":6928,"utt":"erase all the events","annot_utt":"erase all the events"}
+{"id":2573,"utt":"play my spotify dance play list","annot_utt":"play my spotify dance play list"}
+{"id":14342,"utt":"what is the stock price of hdfc","annot_utt":"what is the stock price of [business_name : hdfc]"}
+{"id":8358,"utt":"remind me about this","annot_utt":"remind me about this"}
+{"id":2611,"utt":"current weather forecast","annot_utt":"current weather forecast"}
+{"id":14919,"utt":"how have megatel shares done last week","annot_utt":"how have [business_name : megatel] shares done [date : last week]"}
+{"id":3669,"utt":"tell me the time in someplace","annot_utt":"tell me the time in someplace"}
+{"id":2690,"utt":"turn off the socket","annot_utt":"turn off the [device_type : socket]"}
+{"id":7567,"utt":"birthday","annot_utt":"[event_name : birthday]"}
+{"id":12722,"utt":"order a train ticket to boston","annot_utt":"order a [transport_type : train] ticket to [place_name : boston]"}
+{"id":4436,"utt":"what jacket should i wear","annot_utt":"what [weather_descriptor : jacket] should i wear"}
+{"id":7662,"utt":"can you list out my meetings today","annot_utt":"can you list out my [event_name : meetings] [date : today]"}
+{"id":4174,"utt":"hey olly chance the current light settings","annot_utt":"hey olly chance the current light settings"}
+{"id":1294,"utt":"fast me the news of academy awards","annot_utt":"fast me the news of [news_topic : academy awards]"}
+{"id":14820,"utt":"more stock price","annot_utt":"more stock price"}
+{"id":7111,"utt":"what time is my doctor appointment on march thirty first","annot_utt":"what time is my [event_name : doctor appointment] on [date : march thirty first]"}
+{"id":124,"utt":"olly tell me a joke","annot_utt":"olly tell me a joke"}
+{"id":16703,"utt":"i would like to reply to the most recent email","annot_utt":"i would like to reply to the most recent email"}
+{"id":3161,"utt":"do i have any alarms set for six am tomorrow","annot_utt":"do i have any alarms set for [time : six am] [date : tomorrow]"}
+{"id":8294,"utt":"add to calendar and repeat","annot_utt":"add to calendar and repeat"}
+{"id":13744,"utt":"please pull up the wikipedia article on glass blowing","annot_utt":"please pull up the wikipedia article on glass blowing"}
+{"id":3011,"utt":"retrieve the light for me","annot_utt":"retrieve the light for me"}
+{"id":1014,"utt":"what time is it in london right now","annot_utt":"what time is it in [place_name : london] right now"}
+{"id":14382,"utt":"how big is the empire state building","annot_utt":"how big is the empire state building"}
+{"id":3750,"utt":"olly if any new news comes out about the flood can you let me know right away","annot_utt":"olly if any new news comes out about the [news_topic : flood] can you let me know right away"}
+{"id":2128,"utt":"color of light should be dimmed bright","annot_utt":"color of light should be dimmed bright"}
+{"id":1744,"utt":"what do you think","annot_utt":"what do you think"}
+{"id":10296,"utt":"could you please play temple run game for me","annot_utt":"could you please play [game_name : temple run] game for me"}
+{"id":13926,"utt":"what is the birthday of hemingway","annot_utt":"what is the birthday of [person : hemingway]"}
+{"id":1607,"utt":"tell me current time in los angels","annot_utt":"tell me current time in [place_name : los angels]"}
+{"id":6617,"utt":"what do you think about future","annot_utt":"what do you think about future"}
+{"id":5339,"utt":"low cooling condition","annot_utt":"low cooling condition"}
+{"id":15350,"utt":"i'm unhappy with tesco please help me","annot_utt":"i'm unhappy with [business_name : tesco] please help me"}
+{"id":13881,"utt":"please give me information on michael jackson","annot_utt":"please give me information on [artist_name : michael jackson]"}
+{"id":9941,"utt":"how do i cook butter chicken","annot_utt":"how do i [cooking_type : cook] [food_type : butter chicken]"}
+{"id":1750,"utt":"turn off all lights","annot_utt":"turn off [device_type : all lights]"}
+{"id":7291,"utt":"block one hour from ten tomorrow morning","annot_utt":"block [time : one hour] from [time : ten] [date : tomorrow] [timeofday : morning]"}
+{"id":7565,"utt":"meeting reminder","annot_utt":"[event_name : meeting] reminder"}
+{"id":6417,"utt":"my day is going well add a memo","annot_utt":"my day is going well add a memo"}
+{"id":12294,"utt":"show me the train schedules to the metropolitan opera house","annot_utt":"show me the [transport_type : train] schedules to the [place_name : metropolitan opera house]"}
+{"id":6506,"utt":"ask trivia questions","annot_utt":"ask trivia questions"}
+{"id":8520,"utt":"add event to calendar app","annot_utt":"add event to calendar app"}
+{"id":10770,"utt":"remove cereal from my shopping list","annot_utt":"remove cereal from my [list_name : shopping] list"}
+{"id":15651,"utt":"send report to consumer service","annot_utt":"send report to [business_name : consumer service]"}
+{"id":8107,"utt":"set a birthday event for martin","annot_utt":"set a [event_name : birthday] event for [person : martin]"}
+{"id":914,"utt":"please turn lights off","annot_utt":"please turn lights off"}
+{"id":16992,"utt":"has jane doe emailed me","annot_utt":"has [person : jane doe] emailed me"}
+{"id":13370,"utt":"what's the sum of the two numbers four and six","annot_utt":"what's the sum of the two numbers four and six"}
+{"id":8975,"utt":"what are meeting scheduled for today","annot_utt":"what are [event_name : meeting] scheduled for [date : today]"}
+{"id":2396,"utt":"start celine dion songs","annot_utt":"start [artist_name : celine dion] songs"}
+{"id":16024,"utt":"send an email to rohit saying i am busy tomorrow","annot_utt":"send an email to [person : rohit] saying i am busy tomorrow"}
+{"id":7293,"utt":"schedule a one hour appointment for saturday","annot_utt":"schedule a [time : one hour] appointment for [date : saturday]"}
+{"id":14138,"utt":"please tell me what is the definition of cylinder","annot_utt":"please tell me what is the definition of [definition_word : cylinder]"}
+{"id":14767,"utt":"how would you describe a ball","annot_utt":"how would you describe a [definition_word : ball]"}
+{"id":6083,"utt":"create an alarm for today at ten am","annot_utt":"create an alarm for [date : today] at [time : ten am]"}
+{"id":10927,"utt":"let me hear my list","annot_utt":"let me hear my list"}
+{"id":9669,"utt":"i want to listen to be more chill by ned vizzini","annot_utt":"i want to listen to [audiobook_name : be more chill] by [audiobook_author : ned vizzini]"}
+{"id":1467,"utt":"play slayer","annot_utt":"play [artist_name : slayer]"}
+{"id":6159,"utt":"clean the floor","annot_utt":"clean the [house_place : floor]"}
+{"id":6424,"utt":"hello how is your day","annot_utt":"hello how is your day"}
+{"id":7199,"utt":"set a notification for three two and one hours before next week's english final","annot_utt":"set a notification for three two and one hours before [date : next week's] [event_name : english final]"}
+{"id":4955,"utt":"would you love to see","annot_utt":"would you love to see"}
+{"id":9095,"utt":"remove tonights dinner with shelly","annot_utt":"remove [event_name : tonights dinner with shelly]"}
+{"id":2840,"utt":"the second of next mont lands on what day","annot_utt":"the [event_name : second of next mont lands] on what day"}
+{"id":15095,"utt":"what region is miami located","annot_utt":"what region is [place_name : miami] located"}
+{"id":11177,"utt":"add a wrist watch to the shopping list","annot_utt":"add a wrist watch to the [list_name : shopping list]"}
+{"id":12839,"utt":"take me to layfayette saint and canal","annot_utt":"take me to [place_name : layfayette saint and canal]"}
+{"id":4554,"utt":"can you make some coffee","annot_utt":"can you make some coffee"}
+{"id":4784,"utt":"do i need a jacket","annot_utt":"do i need a [weather_descriptor : jacket]"}
+{"id":15271,"utt":"post this to my facebook l. o. l.","annot_utt":"post this to my [media_type : facebook] l. o. l."}
+{"id":1425,"utt":"let me know when you hear about france","annot_utt":"let me know when you hear about [news_topic : france]"}
+{"id":5156,"utt":"turn the light off in the living room","annot_utt":"turn the light off in the [house_place : living room]"}
+{"id":3167,"utt":"turn my bedroom lights off","annot_utt":"turn my [house_place : bedroom] lights off"}
+{"id":7778,"utt":"remind me what i am doing on sunday afternoon","annot_utt":"remind me what i am doing on [date : sunday] [timeofday : afternoon]"}
+{"id":14229,"utt":"what movies has emma watson acted in","annot_utt":"what movies has [person : emma watson] acted in"}
+{"id":15275,"utt":"post i am happy to facebook","annot_utt":"post i am happy to [media_type : facebook]"}
+{"id":588,"utt":"what is new news for today","annot_utt":"what is new news for [date : today]"}
+{"id":9460,"utt":"play nineties hip hop","annot_utt":"play [music_genre : nineties hip hop]"}
+{"id":355,"utt":"what day of the week is first april","annot_utt":"what day of the week is [date : first april]"}
+{"id":13734,"utt":"what is terranova stock going for","annot_utt":"what is [business_name : terranova] stock going for"}
+{"id":13154,"utt":"do you know jessica snout's phone number","annot_utt":"do you know [person : jessica snout's] phone number"}
+{"id":103,"utt":"tell me the weather this week","annot_utt":"tell me the weather [date : this week]"}
+{"id":3178,"utt":"what year did this song come out","annot_utt":"what year did this song come out"}
+{"id":15610,"utt":"post a tweet as follows very bad follow up by a. b. c. company not satisfied in my account","annot_utt":"post a [media_type : tweet] as follows very bad follow up by a. b. c. company not satisfied in my account"}
+{"id":7768,"utt":"please add practice on feb four at king's park at two p. m.","annot_utt":"please add practice on [date : feb four] at [place_name : king's park] at [time : two p. m.]"}
+{"id":3595,"utt":"brighter","annot_utt":"brighter"}
+{"id":3894,"utt":"read that back","annot_utt":"read that back"}
+{"id":3,"utt":"quiet","annot_utt":"quiet"}
+{"id":11331,"utt":"show me the best podcast of rock songs having good rating","annot_utt":"show me the best podcast of [podcast_descriptor : rock songs having good rating]"}
+{"id":1533,"utt":"what news has happened on c. n. n. today","annot_utt":"what news has happened on [media_type : c. n. n.] [date : today]"}
+{"id":11612,"utt":"what gun shows are in tulsa","annot_utt":"what [event_name : gun shows] are in [place_name : tulsa]"}
+{"id":7902,"utt":"set a meeting between myself and john at two p. m. tomorrow","annot_utt":"set a [event_name : meeting] between myself and [person : john] at [time : two p. m.] [date : tomorrow]"}
+{"id":4058,"utt":"i would like to hear some rap music","annot_utt":"i would like to hear some [music_genre : rap] music"}
+{"id":7894,"utt":"give me an update on the election in one hour","annot_utt":"give me an update on the [event_name : election] in [time : one hour]"}
+{"id":3364,"utt":"knock knock","annot_utt":"knock knock"}
+{"id":197,"utt":"what time is it","annot_utt":"what time is it"}
+{"id":15056,"utt":"how old is emma watson newest boyfriend","annot_utt":"how old is [person : emma watson] newest boyfriend"}
+{"id":6623,"utt":"who are your developers","annot_utt":"who are your developers"}
+{"id":10455,"utt":"what's on my to-do list","annot_utt":"what's on my [list_name : to-do] list"}
+{"id":10931,"utt":"what is on my playlist","annot_utt":"what is on my playlist"}
+{"id":944,"utt":"what is the time difference between here and japan","annot_utt":"what is the time difference between here and [place_name : japan]"}
+{"id":6267,"utt":"what is your name","annot_utt":"what is your name"}
+{"id":12008,"utt":"are there any fun events in la today","annot_utt":"are there any fun events in [place_name : la] [date : today]"}
+{"id":9149,"utt":"what time is the black tie gala dinner supposed to begin","annot_utt":"what time is the [event_name : black tie gala dinner] supposed to begin"}
+{"id":2258,"utt":"do i need a sweater today","annot_utt":"do i need a [weather_descriptor : sweater] [date : today]"}
+{"id":3606,"utt":"what is the time in beijing","annot_utt":"what is the time in [place_name : beijing]"}
+{"id":12377,"utt":"get me a uber","annot_utt":"get me a [transport_agency : uber]"}
+{"id":7563,"utt":"remind me about the meeting tomorrow one hour before","annot_utt":"remind me about the [event_name : meeting] [date : tomorrow] one hour before"}
+{"id":4236,"utt":"is it afternoon yet","annot_utt":"is it afternoon yet"}
+{"id":15849,"utt":"send an email to my boss","annot_utt":"send an email to my [relation : boss]"}
+{"id":2721,"utt":"do you have a funny joke for me","annot_utt":"do you have a [joke_type : funny] joke for me"}
+{"id":1072,"utt":"please turn up the screen brightness all the way","annot_utt":"please turn up the [device_type : screen] brightness [change_amount : all the way]"}
+{"id":3774,"utt":"disable smart socket","annot_utt":"disable [device_type : smart socket]"}
+{"id":11802,"utt":"are there any good pizza places around here","annot_utt":"are there any good [business_type : pizza places] around here"}
+{"id":5823,"utt":"decrease twenty percent","annot_utt":"decrease [change_amount : twenty percent]"}
+{"id":10451,"utt":"what i am going to do today","annot_utt":"what i am going to do [date : today]"}
+{"id":6747,"utt":"how many reminders do i have","annot_utt":"how many reminders do i have"}
+{"id":3967,"utt":"rap","annot_utt":"[music_genre : rap]"}
+{"id":12020,"utt":"tell me what clothing stores are within five miles of me","annot_utt":"tell me what [business_type : clothing stores] are within five miles of me"}
+{"id":6593,"utt":"start a gossip","annot_utt":"start a gossip"}
+{"id":10100,"utt":"do you know recipe for risotto","annot_utt":"do you know recipe for [food_type : risotto]"}
+{"id":10858,"utt":"new list","annot_utt":"new list"}
+{"id":4254,"utt":"what time is it on the east coast of the united states","annot_utt":"what time is it on the [time_zone : east coast] of the [place_name : united states]"}
+{"id":3433,"utt":"new pop music","annot_utt":"new [music_genre : pop] music"}
+{"id":9321,"utt":"make the radio turn on now","annot_utt":"make the radio turn on now"}
+{"id":16813,"utt":"beep when i get an email from john","annot_utt":"beep when i get an email from [person : john]"}
+{"id":3522,"utt":"please turn on my balcony lights","annot_utt":"please turn on my [house_place : balcony] lights"}
+{"id":5917,"utt":"make a coffee please","annot_utt":"make a coffee please"}
+{"id":10027,"utt":"instructions to make a meal","annot_utt":"instructions to make a meal"}
+{"id":1554,"utt":"turn off the lamps","annot_utt":"turn off the [device_type : lamps]"}
+{"id":14163,"utt":"search the locality","annot_utt":"search the locality"}
+{"id":8260,"utt":"please alert me a day before jeff's birthday","annot_utt":"please alert me [date : a day before] [person : jeff's] [event_name : birthday]"}
+{"id":7316,"utt":"do i have any appointments","annot_utt":"do i have any [event_name : appointments]"}
+{"id":13064,"utt":"explain quantum physics to me in language i understand","annot_utt":"explain quantum physics to me in language i understand"}
+{"id":4776,"utt":"please tell me what alarms are on","annot_utt":"please tell me what alarms are on"}
+{"id":3683,"utt":"olly save all the songs i have listened to more than once","annot_utt":"olly save all the songs i have listened to more than once"}
+{"id":12856,"utt":"directions please","annot_utt":"directions please"}
+{"id":366,"utt":"please tell me the latest news","annot_utt":"please tell me the latest news"}
+{"id":12402,"utt":"when does the next train traveling the city leave here","annot_utt":"when does the next [transport_type : train] traveling the city leave here"}
+{"id":14661,"utt":"what is the birth year of barack obama","annot_utt":"what is the birth year of [person : barack obama]"}
+{"id":12607,"utt":"i need to get a ticket via train to orlando from hwood","annot_utt":"i need to get a ticket via [transport_type : train] to [place_name : orlando from hwood]"}
+{"id":2638,"utt":"show me news about trump","annot_utt":"show me news about [news_topic : trump]"}
+{"id":10440,"utt":"any special events on my list","annot_utt":"any special events on my list"}
+{"id":14939,"utt":"i need some details about bruce lee please assist","annot_utt":"i need some details about [person : bruce lee] please assist"}
+{"id":5871,"utt":"hows mysore climate today","annot_utt":"hows [weather_descriptor : mysore climate] [date : today]"}
+{"id":7851,"utt":"i have a meeting at noon today","annot_utt":"i have a [event_name : meeting] at [timeofday : noon] [date : today]"}
+{"id":10213,"utt":"list of famous biryani recipes","annot_utt":"list of famous [food_type : biryani] recipes"}
+{"id":2824,"utt":"what day is december thirteenth","annot_utt":"what day is [date : december thirteenth]"}
+{"id":8618,"utt":"remind me to water my plants every tuesday thursday and saturday","annot_utt":"remind me to [event_name : water my plants] [general_frequency : every tuesday thursday and saturday]"}
+{"id":16314,"utt":"send an email to margaret","annot_utt":"send an email to [person : margaret]"}
+{"id":2220,"utt":"weather in paris","annot_utt":"weather in [place_name : paris]"}
+{"id":8230,"utt":"how long will my lunch meeting be on tuesday","annot_utt":"how long will my [event_name : lunch meeting] be on [date : tuesday]"}
+{"id":8300,"utt":"save event for five p. m. to six p. m. on march eighteenth","annot_utt":"save event for [time : five p. m. to six p. m.] on [date : march eighteenth]"}
+{"id":15880,"utt":"please check my mails","annot_utt":"please check my mails"}
+{"id":16701,"utt":"i would like to reply to sarah's email","annot_utt":"i would like to reply to [person : sarah's] email"}
+{"id":3543,"utt":"i want the light to be a little more red ish","annot_utt":"i want the light to be a little more [color_type : red ish]"}
+{"id":4362,"utt":"what time is it in cleveland","annot_utt":"what time is it in [place_name : cleveland]"}
+{"id":9364,"utt":"let's play music hits","annot_utt":"let's play music hits"}
+{"id":730,"utt":"turn the lights off","annot_utt":"turn the lights off"}
+{"id":8033,"utt":"what day does easter fall on","annot_utt":"what day does [event_name : easter] fall on"}
+{"id":6322,"utt":"please tell me the score of the game","annot_utt":"please tell me the score of the game"}
+{"id":8119,"utt":"where is mary's birthday party being held","annot_utt":"where is [person : mary's] [event_name : birthday party] being held"}
+{"id":8055,"utt":"erase my appointment for march seven","annot_utt":"erase my [event_name : appointment] for [date : march seven]"}
+{"id":4375,"utt":"review all alarms","annot_utt":"review all alarms"}
+{"id":9275,"utt":"only nine hundred and ninety nine f. m. is to be played on the radio","annot_utt":"only [radio_name : nine hundred and ninety nine f. m.] is to be played on the radio"}
+{"id":11023,"utt":"remove shopping list","annot_utt":"remove [list_name : shopping] list"}
+{"id":89,"utt":"could you order sushi for tonight dinner","annot_utt":"could you order [food_type : sushi] for [timeofday : tonight] [meal_type : dinner]"}
+{"id":9707,"utt":"open media play jingle bells","annot_utt":"open media play [song_name : jingle bells]"}
+{"id":15957,"utt":"email alice to let her know we are on the way","annot_utt":"email [person : alice] to let her know we are on the way"}
+{"id":11460,"utt":"i want to listen to a sports podcast","annot_utt":"i want to listen to a [podcast_name : sports podcast]"}
+{"id":2957,"utt":"is there an alarm for ten am","annot_utt":"is there an alarm for [time : ten am]"}
+{"id":12835,"utt":"what time does the train to place leave","annot_utt":"what time does the [transport_type : train] to place leave"}
+{"id":16710,"utt":"how many of my contacts live or work in detroit","annot_utt":"how many of my contacts live or work in [place_name : detroit]"}
+{"id":5085,"utt":"what is the forecast for saturday","annot_utt":"what is the forecast for [date : saturday]"}
+{"id":13693,"utt":"where is the prime meridian","annot_utt":"where is the prime meridian"}
+{"id":4772,"utt":"tell me the time in this time zone","annot_utt":"tell me the time in [time_zone : this time zone]"}
+{"id":14001,"utt":"tell me everything you know about sloths","annot_utt":"tell me everything you know about sloths"}
+{"id":16518,"utt":"add a new email for julie smith","annot_utt":"add a new email for [person : julie smith]"}
+{"id":258,"utt":"i can't hear you","annot_utt":"i can't hear you"}
+{"id":3702,"utt":"olly do i have an alarm set for tomorrow","annot_utt":"olly do i have an alarm set for [date : tomorrow]"}
+{"id":6337,"utt":"olly i have to tell you about my day","annot_utt":"olly i have to tell you about my day"}
+{"id":13340,"utt":"i would like it to be able to compute answer from search results like wolfram alpha does","annot_utt":"i would like it to be able to compute answer from search results like wolfram alpha does"}
+{"id":4088,"utt":"turn off overhead light","annot_utt":"turn off overhead light"}
+{"id":13604,"utt":"tell me where steve jobs was born","annot_utt":"tell me where [person : steve jobs] was born"}
+{"id":5401,"utt":"music","annot_utt":"music"}
+{"id":150,"utt":"i like this song","annot_utt":"i like this song"}
+{"id":4312,"utt":"will the weather be less than ten degree in paris","annot_utt":"will the weather be [weather_descriptor : less than ten degree] in [place_name : paris]"}
+{"id":6229,"utt":"i had a bad day","annot_utt":"i had a bad day"}
+{"id":12951,"utt":"what is the highest building in the world","annot_utt":"what is the highest building in the [place_name : world]"}
+{"id":8635,"utt":"can you remind me to order the turkey three weeks before thanksgiving","annot_utt":"can you remind me to [event_name : order the turkey] three weeks before thanksgiving"}
+{"id":2962,"utt":"please play a song by bruno mars","annot_utt":"please play a song by [artist_name : bruno mars]"}
+{"id":4662,"utt":"the news from c. b. s. alexa","annot_utt":"the news from [media_type : c. b. s.] alexa"}
+{"id":15032,"utt":"how much is one dollar in pounds","annot_utt":"how much is one [currency_name : dollar] in [currency_name : pounds]"}
+{"id":3590,"utt":"speak loudly","annot_utt":"speak loudly"}
+{"id":6064,"utt":"don't speak for an hour","annot_utt":"don't speak for [time : an hour]"}
+{"id":16874,"utt":"how many phone numbers do i have for brenden","annot_utt":"how many [personal_info : phone numbers] do i have for [person : brenden]"}
+{"id":2965,"utt":"turn office lights off","annot_utt":"turn [house_place : office] lights off"}
+{"id":10684,"utt":"what lists do i have queried","annot_utt":"what lists do i have queried"}
+{"id":12212,"utt":"call city cab to airport","annot_utt":"call city [transport_type : cab] to [place_name : airport]"}
+{"id":296,"utt":"play a nirvana playlist","annot_utt":"play a [playlist_name : nirvana playlist]"}
+{"id":7026,"utt":"what events are going in my town this week","annot_utt":"what events are going in my [place_name : town] [date : this week]"}
+{"id":16719,"utt":"let me know any new emails i've received","annot_utt":"let me know any new emails i've received"}
+{"id":11423,"utt":"go backward thirty seconds","annot_utt":"[player_setting : go backward] [time : thirty seconds]"}
+{"id":14272,"utt":"hey what's a book","annot_utt":"hey what's a [definition_word : book]"}
+{"id":13888,"utt":"what is the temperature in indianapolis indiana","annot_utt":"what is the temperature in [place_name : indianapolis indiana]"}
+{"id":16410,"utt":"compose email","annot_utt":"compose email"}
+{"id":7955,"utt":"put this event in a repeating pattern on my calendar","annot_utt":"put this event in a repeating pattern on my calendar"}
+{"id":15311,"utt":"tell me what's going on with facebook","annot_utt":"tell me what's going on with [media_type : facebook]"}
+{"id":9674,"utt":"can you play my favorite audio book of tarzan","annot_utt":"can you play my favorite audio book of [audiobook_name : tarzan]"}
+{"id":1874,"utt":"add song to running list","annot_utt":"add song to [playlist_name : running] list"}
+{"id":3213,"utt":"set a new alarm for that time","annot_utt":"set a new alarm for that time"}
+{"id":6177,"utt":"will i need an umbrella today","annot_utt":"will i need an [weather_descriptor : umbrella] [date : today]"}
+{"id":4334,"utt":"what does my facebook feed look like","annot_utt":"what does my [media_type : facebook] feed look like"}
+{"id":13516,"utt":"why are whales big","annot_utt":"why are whales big"}
+{"id":14437,"utt":"find exchange rate for u. s. d. to pound","annot_utt":"find exchange rate for [currency_name : u. s. d.] to [currency_name : pound]"}
+{"id":3912,"utt":"i'd like to listen to hear a music of dance and country","annot_utt":"i'd like to listen to hear a music of [music_genre : dance and country]"}
+{"id":4654,"utt":"set an alarm for six thirty am","annot_utt":"set an alarm for [time : six thirty am]"}
+{"id":13363,"utt":"when will the world end","annot_utt":"when will the world end"}
+{"id":8460,"utt":"show me my events","annot_utt":"show me my events"}
+{"id":443,"utt":"raise volume","annot_utt":"raise volume"}
+{"id":4799,"utt":"please turn on the wemo plug socket","annot_utt":"please turn on the [device_type : wemo plug socket]"}
+{"id":15177,"utt":"please retweet this post on twitter","annot_utt":"please retweet this post on [media_type : twitter]"}
+{"id":9619,"utt":"play prairie home companion on the car radio","annot_utt":"play prairie home companion on the [device_type : car radio]"}
+{"id":6600,"utt":"health","annot_utt":"health"}
+{"id":6041,"utt":"hey olly turn off the light please","annot_utt":"hey olly turn off the light please"}
+{"id":9617,"utt":"play me this mornings show from one hundred and one point nine","annot_utt":"play me this mornings show from [radio_name : one hundred and one point nine]"}
+{"id":4121,"utt":"what time have you set the alarm","annot_utt":"what time have you set the alarm"}
+{"id":14608,"utt":"what new movie is jennifer lawrence working on","annot_utt":"what new movie is [person : jennifer lawrence] working on"}
+{"id":14904,"utt":"were the stocks rising or declining","annot_utt":"were the stocks rising or declining"}
+{"id":14116,"utt":"describe rock sand","annot_utt":"describe [definition_word : rock sand]"}
+{"id":9969,"utt":"what ingredient can be used instead of saffron","annot_utt":"what ingredient can be used instead of [ingredient : saffron]"}
+{"id":7542,"utt":"please remind me about this tomorrow","annot_utt":"please remind me about this [date : tomorrow]"}
+{"id":14874,"utt":"check stock price for dinky donuts","annot_utt":"check stock price for [business_name : dinky donuts]"}
+{"id":9114,"utt":"make a repeating reminder for this calendar event","annot_utt":"make a repeating reminder for this calendar event"}
+{"id":13766,"utt":"two by two is","annot_utt":"two by two is"}
+{"id":8667,"utt":"within the past three months how many meetings did i have with mr. richards","annot_utt":"within the [time : past three months] how many [event_name : meetings] did i have with [person : mr. richards]"}
+{"id":5010,"utt":"make my usual","annot_utt":"make my [coffee_type : usual]"}
+{"id":3060,"utt":"what is the news from that newsource","annot_utt":"what is the news from that [media_type : newsource]"}
+{"id":11417,"utt":"start the next episode","annot_utt":"start the [podcast_descriptor : next episode]"}
+{"id":14378,"utt":"definition of velocity","annot_utt":"definition of [definition_word : velocity]"}
+{"id":16593,"utt":"that last email needs to be answer a. s. a. p.","annot_utt":"that last email needs to be answer a. s. a. p."}
+{"id":16801,"utt":"has cassie sent me any emails about tom","annot_utt":"has [person : cassie] sent me any emails about [person : tom]"}
+{"id":6973,"utt":"add a reminder of a conference for tomorrow in new york","annot_utt":"add a reminder of a [event_name : conference] for [date : tomorrow] in [place_name : new york]"}
+{"id":16120,"utt":"help is to be sent only to jane","annot_utt":"help is to be sent only to [person : jane]"}
+{"id":4618,"utt":"enable smart socket","annot_utt":"enable [device_type : smart socket]"}
+{"id":7847,"utt":"alert me when registration opens","annot_utt":"alert me when [event_name : registration] opens"}
+{"id":16248,"utt":"please check my mail","annot_utt":"please check my mail"}
+{"id":14306,"utt":"explain the geographical location of india","annot_utt":"explain the geographical location of [place_name : india]"}
+{"id":13513,"utt":"how many legs does a dog have","annot_utt":"how many legs does a dog have"}
+{"id":8496,"utt":"tell my meetings for tomorrow morning","annot_utt":"tell my [event_name : meetings] for [date : tomorrow] [timeofday : morning]"}
+{"id":14347,"utt":"what is a hypothesis","annot_utt":"what is a [definition_word : hypothesis]"}
+{"id":1924,"utt":"turn on vacuum cleaner","annot_utt":"turn on [device_type : vacuum cleaner]"}
+{"id":14549,"utt":"make a list about selena gomez concert schedule","annot_utt":"make a list about [person : selena gomez] concert schedule"}
+{"id":5912,"utt":"cut the songs in this musics","annot_utt":"cut the songs in this musics"}
+{"id":4084,"utt":"make a coffee","annot_utt":"make a coffee"}
+{"id":15503,"utt":"new tweet to consumer service","annot_utt":"new [media_type : tweet] to [business_name : consumer service]"}
+{"id":11141,"utt":"please find all name start with alphabetic of a and create a list","annot_utt":"please find all name start with alphabetic of a and create a list"}
+{"id":15721,"utt":"tweet a disgusted face about mcdonalds","annot_utt":"[media_type : tweet] a disgusted face about [business_name : mcdonalds]"}
+{"id":14115,"utt":"give details of rock sand","annot_utt":"give details of [definition_word : rock sand]"}
+{"id":14315,"utt":"is this the least or most important moment in history ever","annot_utt":"is this the least or most important moment in history ever"}
+{"id":16005,"utt":"send email to joseph at gmail dot com","annot_utt":"send email to [email_address : joseph at gmail dot com]"}
+{"id":4798,"utt":"i want coffee everyday","annot_utt":"i want coffee [date : everyday]"}
+{"id":1630,"utt":"raise the volume of the current music","annot_utt":"raise the volume of the current music"}
+{"id":10048,"utt":"how do i make a turkey","annot_utt":"how do i make a [food_type : turkey]"}
+{"id":290,"utt":"start a vacuum cleaner","annot_utt":"start a [device_type : vacuum cleaner]"}
+{"id":5497,"utt":"what is the time difference between california and new york","annot_utt":"what is the time difference between [place_name : california] and [place_name : new york]"}
+{"id":5658,"utt":"play for me the music by the beatles","annot_utt":"play for me the music by [artist_name : the beatles]"}
+{"id":16914,"utt":"do i have emails from this sender","annot_utt":"do i have emails from this sender"}
+{"id":4266,"utt":"what is todays weather","annot_utt":"what is [date : todays] weather"}
+{"id":16698,"utt":"write a reply to my mother's email","annot_utt":"write a reply to my [relation : mother's] email"}
+{"id":15039,"utt":"olly where do the rocky mountains start","annot_utt":"olly where do [place_name : the rocky mountains] start"}
+{"id":16916,"utt":"hey reply a mail which i received","annot_utt":"hey reply a mail which i received"}
+{"id":8968,"utt":"tell me something to remind this week","annot_utt":"tell me something to remind [date : this week]"}
+{"id":6559,"utt":"hey olly do you like my girlfriend","annot_utt":"hey olly do you like my [relation : girlfriend]"}
+{"id":2548,"utt":"anything interesting from bob's news","annot_utt":"anything interesting from [media_type : bob's news]"}
+{"id":2355,"utt":"which film the music comes from what is the name of the music","annot_utt":"which film the music comes from what is the name of the music"}
+{"id":11770,"utt":"any events this weekend in pondichery","annot_utt":"any events [date : this weekend] in [place_name : pondichery]"}
+{"id":14355,"utt":"can many seashells did sally sell by the seashore","annot_utt":"can many seashells did sally sell by the seashore"}
+{"id":17108,"utt":"give me my latest email","annot_utt":"give me my latest email"}
+{"id":7978,"utt":"what reminders do i have scheduled before noon tomorrow","annot_utt":"what reminders do i have scheduled before [timeofday : noon] [date : tomorrow]"}
+{"id":6974,"utt":"i have a function at washington tomorrow remind it","annot_utt":"i have a [event_name : function] at [place_name : washington] [date : tomorrow] remind it"}
+{"id":1551,"utt":"turn on wemo","annot_utt":"turn on [device_type : wemo]"}
+{"id":16535,"utt":"can you write an email to chelsea","annot_utt":"can you write an email to [person : chelsea]"}
+{"id":4957,"utt":"what day of the week is the twenty third of this month","annot_utt":"what day of the week is [date : the twenty third of this month]"}
+{"id":3503,"utt":"what is the weather in pittsburgh","annot_utt":"what is the weather in [place_name : pittsburgh]"}
+{"id":13175,"utt":"check celebrity where abouts","annot_utt":"check celebrity where abouts"}
+{"id":16846,"utt":"please add an email for john doe to my contacts johndoe at yahoo dot com","annot_utt":"please add an email for [person : john doe] to my contacts [email_address : johndoe at yahoo dot com]"}
+{"id":6485,"utt":"what i like today","annot_utt":"what i like [date : today]"}
+{"id":15062,"utt":"info on lisa ann please","annot_utt":"info on [person : lisa ann] please"}
+{"id":3306,"utt":"what is the forecast for the week","annot_utt":"what is the forecast for the [date : week]"}
+{"id":10636,"utt":"create a list that is available","annot_utt":"create a list that is available"}
+{"id":16163,"utt":"who mailed me yesterday","annot_utt":"who mailed me [date : yesterday]"}
+{"id":9918,"utt":"how do i make a pizza","annot_utt":"how do i make a [food_type : pizza]"}
+{"id":16666,"utt":"do i have any incoming emails","annot_utt":"do i have any incoming emails"}
+{"id":1205,"utt":"disable alarm for three p. m.","annot_utt":"disable alarm for [time : three p. m.]"}
+{"id":1774,"utt":"turn off the alarm","annot_utt":"turn off the alarm"}
+{"id":2316,"utt":"alexa give me the headline news","annot_utt":"alexa give me the headline news"}
+{"id":14742,"utt":"what's euro u. s. d. right now","annot_utt":"what's [currency_name : euro u. s. d.] right now"}
+{"id":5318,"utt":"please play only are rehman's songs","annot_utt":"please play only are [artist_name : rehman's] songs"}
+{"id":15839,"utt":"topic","annot_utt":"topic"}
+{"id":6575,"utt":"plants","annot_utt":"plants"}
+{"id":8498,"utt":"let's go through all pending reminders","annot_utt":"let's go through all pending reminders"}
+{"id":8539,"utt":"remind me about","annot_utt":"remind me about"}
+{"id":14330,"utt":"where was steve jobs born","annot_utt":"where was [person : steve jobs] born"}
+{"id":15963,"utt":"do i have any new emails from kellogg","annot_utt":"do i have any new emails from [person : kellogg]"}
+{"id":11905,"utt":"olly tell me about activities in my area this weekend","annot_utt":"olly tell me about activities in my area [date : this weekend]"}
+{"id":11598,"utt":"please let me know the dog shows events going on in my home town","annot_utt":"please let me know the [event_name : dog shows] events going on in my [place_name : home town]"}
+{"id":5221,"utt":"turn the vibrate off from speaker","annot_utt":"turn the vibrate off from speaker"}
+{"id":686,"utt":"what is the time now in new york","annot_utt":"what is the time now in [place_name : new york]"}
+{"id":12383,"utt":"find a taxi to book","annot_utt":"find a [transport_type : taxi] to book"}
+{"id":9155,"utt":"on friday please put dentist appointment at three","annot_utt":"on [date : friday] please put [event_name : dentist appointment] at [time : three]"}
+{"id":7216,"utt":"a good first impression","annot_utt":"a good first impression"}
+{"id":15857,"utt":"please send to new email address listed","annot_utt":"please send to new email address listed"}
+{"id":11067,"utt":"please add oranges to my grocery list","annot_utt":"please add oranges to my [list_name : grocery] list"}
+{"id":10503,"utt":"add the post office to my list of errands for saturday","annot_utt":"add the post office to my list of [list_name : errands] for [date : saturday]"}
+{"id":2205,"utt":"silence for two hours","annot_utt":"silence for [time : two hours]"}
+{"id":441,"utt":"what are the latest news headlines","annot_utt":"what are the latest news headlines"}
+{"id":10523,"utt":"delete from playlist my old english songs list","annot_utt":"delete from playlist my [list_name : old english] songs list"}
+{"id":2434,"utt":"start robot vacuum cleaner","annot_utt":"start [device_type : robot vacuum cleaner]"}
+{"id":8431,"utt":"get rid of all my scheduled events","annot_utt":"get rid of all my scheduled events"}
+{"id":7524,"utt":"how much mehta willing to invest in my company in meeting which held today at five hundred and twenty p. m.","annot_utt":"how much [person : mehta] willing to invest in my company in [event_name : meeting] which held [date : today] at [time : five hundred and twenty p. m.]"}
+{"id":11341,"utt":"find the latest disney podcast","annot_utt":"find the latest [podcast_name : disney] podcast"}
+{"id":3734,"utt":"turn the lights to red color","annot_utt":"turn the lights to [color_type : red] color"}
+{"id":16563,"utt":"olly check my email","annot_utt":"olly check my email"}
+{"id":9760,"utt":"stop play","annot_utt":"[player_setting : stop play]"}
+{"id":4258,"utt":"what's the latest news","annot_utt":"what's the latest news"}
+{"id":2780,"utt":"are there any upcoming concerts by","annot_utt":"are there any upcoming [event_name : concerts] by"}
+{"id":13342,"utt":"i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month","annot_utt":"i want it to be able to tell me statistics about things it's done for me like how often i've eaten out [date : this month]"}
+{"id":11871,"utt":"recommend a movie playing in my area","annot_utt":"recommend a movie playing in my area"}
+{"id":15401,"utt":"open twitter send message","annot_utt":"open [business_name : twitter] send message"}
+{"id":8474,"utt":"add jane's birthday party for tomorrow two p. m. at one hundred and twenty three main on my calendar","annot_utt":"add [person : jane's] [event_name : birthday party] for [date : tomorrow] [time : two p. m.] at [place_name : one hundred and twenty three main] on my calendar"}
+{"id":8856,"utt":"delete all events in calendar","annot_utt":"delete all events in calendar"}
+{"id":1449,"utt":"when is easter in the year two thousand and eighteen","annot_utt":"when is [event_name : easter] in the year [date : two thousand and eighteen]"}
+{"id":13796,"utt":"what is the exchange rate between us and mexico","annot_utt":"what is the exchange rate between [currency_name : us] and [currency_name : mexico]"}
+{"id":13124,"utt":"how big is the cosmos","annot_utt":"how big is the cosmos"}
+{"id":1640,"utt":"turn it up olly","annot_utt":"turn it up olly"}
+{"id":8494,"utt":"what does my schedule look like today","annot_utt":"what does my schedule look like [date : today]"}
+{"id":13683,"utt":"what brand hair spray does donald trump use","annot_utt":"what brand hair spray does [person : donald trump] use"}
+{"id":5525,"utt":"mute for one hour","annot_utt":"mute for [time : one hour]"}
+{"id":9137,"utt":"at what time is the italian cafe closed between lunch and dinner","annot_utt":"at what time is the [business_name : italian cafe] closed between lunch and dinner"}
+{"id":6382,"utt":"hey what has been happening interesting in sports lately","annot_utt":"hey what has been happening interesting in sports lately"}
+{"id":3581,"utt":"turn off sound","annot_utt":"turn off sound"}
+{"id":17142,"utt":"what's in my inbox since we last looked","annot_utt":"what's in my [email_folder : inbox] since we last looked"}
+{"id":10099,"utt":"do you know how to cook risotto","annot_utt":"do you know how to cook [food_type : risotto]"}
+{"id":14412,"utt":"describe the new football game rules","annot_utt":"describe the new football game rules"}
+{"id":2178,"utt":"what is the current weather condition in my place","annot_utt":"what is the current weather condition in [place_name : my place]"}
+{"id":3586,"utt":"what is the weather in beijing","annot_utt":"what is the weather in [place_name : beijing]"}
+{"id":14509,"utt":"where did mahatma gandhi born","annot_utt":"where did [person : mahatma gandhi] born"}
+{"id":2113,"utt":"tell me all the current events in my hometown","annot_utt":"tell me all the current events in my [place_name : hometown]"}
+{"id":11162,"utt":"i want to remove apples from list","annot_utt":"i want to remove apples from list"}
+{"id":16317,"utt":"did i get new emails from sarah","annot_utt":"did i get new emails from [person : sarah]"}
+{"id":1093,"utt":"go to the washington post website","annot_utt":"go to the [media_type : washington post] website"}
+{"id":7697,"utt":"set a reminder for this","annot_utt":"set a reminder for this"}
+{"id":3413,"utt":"do you know the eta of my order","annot_utt":"do you know the eta of my order"}
+{"id":1400,"utt":"i mostly pay attention","annot_utt":"i mostly pay attention"}
+{"id":13855,"utt":"what are lady gagas most popular songs","annot_utt":"what are [artist_name : lady gagas] most popular songs"}
+{"id":6027,"utt":"turn on favorite songs","annot_utt":"turn on favorite songs"}
+{"id":15756,"utt":"please email my team","annot_utt":"please email my [relation : team]"}
+{"id":10078,"utt":"what should i cook for supper","annot_utt":"what should i cook for [event_name : supper]"}
+{"id":86,"utt":"what date is it today","annot_utt":"what date is it [date : today]"}
+{"id":102,"utt":"what's this week's weather","annot_utt":"what's [date : this week's] weather"}
+{"id":9827,"utt":"resume the song from the audiobook by the beatles","annot_utt":"[player_setting : resume] the song from the [media_type : audiobook] by the [artist_name : beatles]"}
+{"id":4240,"utt":"switch on the roomba","annot_utt":"switch on the [device_type : roomba]"}
+{"id":5176,"utt":"what kind of weather should i expect this week","annot_utt":"what kind of weather should i expect [date : this week]"}
+{"id":8449,"utt":"set a reminder for my daughters birthday","annot_utt":"set a reminder for my [relation : daughters] [event_name : birthday]"}
+{"id":16754,"utt":"dictate email","annot_utt":"dictate email"}
+{"id":3568,"utt":"set my coffee machine","annot_utt":"set my [device_type : coffee machine]"}
+{"id":3295,"utt":"does the nearby dominoes have delivery","annot_utt":"does the nearby [business_name : dominoes] have delivery"}
+{"id":3694,"utt":"i need an alarm set for five hundred and thirty am tomorrow","annot_utt":"i need an alarm set for [time : five hundred and thirty am] [date : tomorrow]"}
+{"id":14475,"utt":"detail for stock price","annot_utt":"detail for stock price"}
+{"id":13974,"utt":"where is laos located","annot_utt":"where is [place_name : laos] located"}
+{"id":11157,"utt":"please create new list","annot_utt":"please create new list"}
+{"id":14605,"utt":"did angelina jolie leave brad pitt","annot_utt":"did [person : angelina jolie] leave [person : brad pitt]"}
+{"id":11720,"utt":"swimming","annot_utt":"[event_name : swimming]"}
+{"id":6694,"utt":"hey i am having a bad day today what can i watch to cheer me up","annot_utt":"hey i am having a bad day [date : today] what can i watch to cheer me up"}
+{"id":9691,"utt":"open audio book history of rome","annot_utt":"open audio book [audiobook_name : history of rome]"}
+{"id":5332,"utt":"time between us and canada","annot_utt":"time between [place_name : us] and [place_name : canada]"}
+{"id":11607,"utt":"give the list of theaters in the vicinity","annot_utt":"give the list of [business_type : theaters] in the [place_name : vicinity]"}
+{"id":4587,"utt":"play my favorites","annot_utt":"play my favorites"}
+{"id":2320,"utt":"what is the weather this friday","annot_utt":"what is the weather this [date : friday]"}
+{"id":7181,"utt":"wake me at six am thursday so i have time for the meeting","annot_utt":"wake me at [time : six am] [date : thursday] so i have time for the [event_name : meeting]"}
+{"id":9964,"utt":"knowledge about food processing","annot_utt":"knowledge about food processing"}
+{"id":1872,"utt":"great song for the commute","annot_utt":"great song for the commute"}
+{"id":4244,"utt":"olly turn on the coffee machine to make me some coffee","annot_utt":"olly turn on the [device_type : coffee machine] to make me some coffee"}
+{"id":13099,"utt":"who was the current prime minister of britain","annot_utt":"who was the current prime minister of [place_name : britain]"}
+{"id":751,"utt":"don't talk until i ask you to","annot_utt":"don't talk until i ask you to"}
+{"id":7975,"utt":"is there valet service at the event","annot_utt":"is there [relation : valet service] at the event"}
+{"id":10444,"utt":"delete item","annot_utt":"delete item"}
+{"id":9216,"utt":"play my station","annot_utt":"play my station"}
+{"id":11844,"utt":"anything interesting going on in the bay area","annot_utt":"anything interesting going on in the [place_name : bay area]"}
+{"id":939,"utt":"set my alarm for seven am","annot_utt":"set my alarm for [time : seven am]"}
+{"id":11166,"utt":"open google keep","annot_utt":"open [app_name : google keep]"}
+{"id":7890,"utt":"clear haircut today","annot_utt":"clear [event_name : haircut] [date : today]"}
+{"id":7981,"utt":"send an alert before meeting","annot_utt":"send an alert before [event_name : meeting]"}
+{"id":14555,"utt":"let me know up and down in stock price of this company stock","annot_utt":"let me know up and down in stock price of this company stock"}
+{"id":310,"utt":"what day is new year's eve this year","annot_utt":"what day is new year's eve [date : this year]"}
+{"id":6860,"utt":"is there any upcoming events","annot_utt":"is there any upcoming events"}
+{"id":14544,"utt":"please find out the share price of microsoft in nasdaq","annot_utt":"please find out the share price of [business_name : microsoft] in nasdaq"}
+{"id":6195,"utt":"what's on your mind","annot_utt":"what's on your mind"}
+{"id":10696,"utt":"replace","annot_utt":"replace"}
+{"id":11681,"utt":"please show me marathon nearby me","annot_utt":"please show me [event_name : marathon] nearby me"}
+{"id":16082,"utt":"send an email to peter and ask him how is he now can i do something to help him","annot_utt":"send an email to [person : peter] and ask him how is he now can i do something to help him"}
+{"id":7232,"utt":"what are the events next week","annot_utt":"what are the events [date : next week]"}
+{"id":2960,"utt":"start the vacuum","annot_utt":"start the [device_type : vacuum]"}
+{"id":5229,"utt":"i like music","annot_utt":"i like music"}
+{"id":4024,"utt":"please power down","annot_utt":"please power down"}
+{"id":13758,"utt":"how old is marian carey","annot_utt":"how old is [person : marian carey]"}
+{"id":14011,"utt":"what is dolly parton's birthday","annot_utt":"what is [person : dolly parton's] [event_name : birthday]"}
+{"id":13044,"utt":"i want tickets to the sold out concert on saturday night","annot_utt":"i want tickets to the sold out concert on [date : saturday] [timeofday : night]"}
+{"id":2684,"utt":"is the last order is ready","annot_utt":"is the last order is ready"}
+{"id":10534,"utt":"how the to do list for today","annot_utt":"how the to do list for [date : today]"}
+{"id":2412,"utt":"could you tell me the time in london","annot_utt":"could you tell me the time in [place_name : london]"}
+{"id":9931,"utt":"olly how long should i boil the egg","annot_utt":"olly how long should i [cooking_type : boil] the [food_type : egg]"}
+{"id":7278,"utt":"remind me of rita's birthday twenty four hours in advance","annot_utt":"remind me of [person : rita's] [event_name : birthday] [time : twenty four hours in advance]"}
+{"id":14190,"utt":"how much is starbuck's stock these days","annot_utt":"how much is [business_name : starbuck's] stock these days"}
+{"id":13694,"utt":"biography of person","annot_utt":"biography of person"}
+{"id":11345,"utt":"play next episode of podcast","annot_utt":"play [podcast_descriptor : next episode] of podcast"}
+{"id":6596,"utt":"when i came back from this place","annot_utt":"when i came back from [place_name : this place]"}
+{"id":9014,"utt":"please set a notification on twenty third october about meeting with my colleague","annot_utt":"please set a notification on [date : twenty third october] about [event_name : meeting] with my [relation : colleague]"}
+{"id":3819,"utt":"please rate current song as five stars","annot_utt":"please rate current song as five stars"}
+{"id":6650,"utt":"alexa how much do you know about me","annot_utt":"alexa how much do you know about me"}
+{"id":16613,"utt":"send email to boss saying i will be late","annot_utt":"send email to [relation : boss] saying i will be late"}
+{"id":3742,"utt":"do you know the name of the song that is playing","annot_utt":"do you know the name of the song that is playing"}
+{"id":10679,"utt":"what is on my to do list today","annot_utt":"what is on my [list_name : to do] list [date : today]"}
+{"id":3406,"utt":"what is the ten day forecast","annot_utt":"what is the [date : ten day] forecast"}
+{"id":9426,"utt":"i want to hear a station that plays r. & b.","annot_utt":"i want to hear a [radio_name : station that plays r. & b.]"}
+{"id":8140,"utt":"set a reminder for the thirteenth that i have a lunch with dale","annot_utt":"set a reminder for the [date : thirteenth] that i have a [meal_type : lunch] with dale"}
+{"id":13031,"utt":"what is the nearest pizza shop","annot_utt":"what is the nearest [business_type : pizza shop]"}
+{"id":17135,"utt":"any lighting news emails","annot_utt":"any lighting news emails"}
+{"id":12689,"utt":"book a train ticket from here to charleston west virginia at eight am today","annot_utt":"book a [transport_type : train] ticket from here to [place_name : charleston west virginia] at [time : eight am] [date : today]"}
+{"id":625,"utt":"please play the radio gaga song","annot_utt":"please play the radio [artist_name : gaga] song"}
+{"id":3481,"utt":"play the most popular song by given artist","annot_utt":"play the most popular song by given artist"}
+{"id":1413,"utt":"can you make me some coffee olly","annot_utt":"can you make me some coffee olly"}
+{"id":59,"utt":"cancel my seven am alarm","annot_utt":"cancel my [time : seven am] alarm"}
+{"id":2016,"utt":"lower lights in kitchen","annot_utt":"lower lights in [house_place : kitchen]"}
+{"id":15133,"utt":"how is i. b. m. doing","annot_utt":"how is [business_name : i. b. m.] doing"}
+{"id":8150,"utt":"do i have any remainder about birthday party","annot_utt":"do i have any remainder about [event_name : birthday party]"}
+{"id":4833,"utt":"clear data","annot_utt":"clear data"}
+{"id":13625,"utt":"what is the largest desk","annot_utt":"what is the [definition_word : largest desk]"}
+{"id":2387,"utt":"who wrote this song","annot_utt":"who wrote this song"}
+{"id":15213,"utt":"what is the trending now","annot_utt":"what is the trending now"}
+{"id":3566,"utt":"what is the current time in chennai","annot_utt":"what is the current time in [place_name : chennai]"}
+{"id":6633,"utt":"video games","annot_utt":"video games"}
+{"id":11954,"utt":"where is a theater in my area","annot_utt":"where is a [business_type : theater] in my area"}
+{"id":14877,"utt":"what are the climatic conditions in that area","annot_utt":"what are the climatic conditions in that area"}
+{"id":4216,"utt":"tell me the funniest joke that was ever told","annot_utt":"tell me the [joke_type : funniest] joke that was ever told"}
+{"id":4177,"utt":"give me the latest political headlines across the world","annot_utt":"give me the latest [news_topic : political] headlines across the [place_name : world]"}
+{"id":6683,"utt":"economic affairs","annot_utt":"economic affairs"}
+{"id":767,"utt":"could you please find me the latest news from a source that i do not usually go to","annot_utt":"could you please find me the latest news from a source that i do not usually go to"}
+{"id":10462,"utt":"get rid of a list","annot_utt":"get rid of a list"}
+{"id":5966,"utt":"can you please order some food for me","annot_utt":"can you please order some food for me"}
+{"id":10846,"utt":"i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon wishlist","annot_utt":"i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon wishlist"}
+{"id":2773,"utt":"how long until my order is ready","annot_utt":"how long until my order is ready"}
+{"id":12851,"utt":"show me direction to my home","annot_utt":"show me direction to my [place_name : home]"}
+{"id":13630,"utt":"where's the closest zoo to where i'm at","annot_utt":"where's the closest zoo to where i'm at"}
+{"id":9554,"utt":"play romantic music in nash f. m. ninety two point seven","annot_utt":"play [music_genre : romantic] [media_type : music] in [radio_name : nash f. m. ninety two point seven]"}
+{"id":14323,"utt":"what color is a dragon fruit","annot_utt":"what color is a dragon fruit"}
+{"id":6178,"utt":"should i wear a jacket","annot_utt":"should i wear a [weather_descriptor : jacket]"}
+{"id":3822,"utt":"find me info on cars","annot_utt":"find me info on [news_topic : cars]"}
+{"id":3907,"utt":"play me last year's hits","annot_utt":"play me last year's hits"}
+{"id":6072,"utt":"how many minutes do i need to wait to pick up my food from china on the go","annot_utt":"how many minutes do i need to wait to pick up my food from [business_name : china on the go]"}
+{"id":14015,"utt":"what are the coordinates of the equator","annot_utt":"what are the coordinates of [place_name : the equator]"}
+{"id":468,"utt":"change the lights to dim","annot_utt":"change the lights to dim"}
+{"id":3050,"utt":"change my light color to blue and please turn off the kitchen light","annot_utt":"change my light color to [color_type : blue] and please turn off the [house_place : kitchen] light"}
+{"id":1832,"utt":"play coldplay album","annot_utt":"play [playlist_name : coldplay] album"}
+{"id":9676,"utt":"resume my audio book from karl pilkington","annot_utt":"[player_setting : resume] my audio book from [audiobook_author : karl pilkington]"}
+{"id":9358,"utt":"start radio channel eight hundred and eighty nine","annot_utt":"start radio channel [radio_name : eight hundred and eighty nine]"}
+{"id":3852,"utt":"what kind of weather are they having in orange tx right now","annot_utt":"what kind of weather are they having in [place_name : orange tx] right now"}
+{"id":4013,"utt":"let's suck out the dust","annot_utt":"let's suck out the dust"}
+{"id":11915,"utt":"i need a drink","annot_utt":"i need a drink"}
+{"id":6025,"utt":"will i need sunscreen this afternoon","annot_utt":"will i need [weather_descriptor : sunscreen] [timeofday : this afternoon]"}
+{"id":3886,"utt":"any alarms currently listed","annot_utt":"any alarms currently listed"}
+{"id":15598,"utt":"open company name and find complaints","annot_utt":"open [business_name : company name] and find complaints"}
+{"id":16089,"utt":"have i received new emails in the last ten minutes","annot_utt":"have i received new emails in the [time : last ten minutes]"}
+{"id":16103,"utt":"send an email to my brother and say wedding anniversary","annot_utt":"send an email to my [relation : brother] and say [event_name : wedding anniversary]"}
+{"id":7528,"utt":"thirteenth june is a day of election result please set it","annot_utt":"[date : thirteenth june] is a day of [event_name : election result] please set it"}
+{"id":10808,"utt":"delete last item listed","annot_utt":"delete last item listed"}
+{"id":3020,"utt":"does louie's do take out","annot_utt":"does [business_name : louie's] do take out"}
+{"id":8409,"utt":"delete my dinner tomorrow","annot_utt":"delete my [meal_type : dinner] [date : tomorrow]"}
+{"id":14859,"utt":"what is the exchange rate with in one british pound","annot_utt":"what is the exchange rate with in one [currency_name : british pound]"}
+{"id":16131,"utt":"this new email should be added to my contact","annot_utt":"this new email should be added to my contact"}
+{"id":17136,"utt":"please read my new mails","annot_utt":"please read my new mails"}
+{"id":6761,"utt":"remove from my calendar meeting at nine am","annot_utt":"remove from my calendar [event_name : meeting] at [time : nine am]"}
+{"id":1784,"utt":"turn off the dining room","annot_utt":"turn off the [house_place : dining room]"}
+{"id":11349,"utt":"olly start the podcast over that i started last night","annot_utt":"olly start the podcast over that i [podcast_descriptor : started last night]"}
+{"id":16907,"utt":"jay's phone number","annot_utt":"[person : jay's] [personal_info : phone number]"}
+{"id":8958,"utt":"open meeting time","annot_utt":"open [event_name : meeting] time"}
+{"id":9568,"utt":"play britney spears live concert series","annot_utt":"play britney spears live concert series"}
+{"id":15561,"utt":"please look in to the matter","annot_utt":"please look in to the matter"}
+{"id":3103,"utt":"don't play this song again","annot_utt":"don't play this song again"}
+{"id":6994,"utt":"remind me at","annot_utt":"remind me at"}
+{"id":9885,"utt":"please play the notebook audio","annot_utt":"please play [audiobook_name : the notebook] audio"}
+{"id":7690,"utt":"what do i have coming up","annot_utt":"what do i have coming up"}
+{"id":3884,"utt":"list current set alarms","annot_utt":"list current set alarms"}
+{"id":14653,"utt":"what is the population of russia","annot_utt":"what is the population of [place_name : russia]"}
+{"id":8058,"utt":"do i have a sales meeting today","annot_utt":"do i have a [event_name : sales meeting] [date : today]"}
+{"id":9857,"utt":"my choice to play an audio from first","annot_utt":"my choice to play an audio from first"}
+{"id":11180,"utt":"my party planning","annot_utt":"my [event_name : party] planning"}
+{"id":2057,"utt":"put that song in my favorite list","annot_utt":"put that song in my favorite list"}
+{"id":11272,"utt":"play next","annot_utt":"play next"}
+{"id":8730,"utt":"please set a reminder in my calendar for my meeting on march twenty five","annot_utt":"please set a reminder in my calendar for my [event_name : meeting] on [date : march twenty five]"}
+{"id":5292,"utt":"fix alarm","annot_utt":"fix alarm"}
+{"id":8653,"utt":"remind me of the event in my calendar","annot_utt":"remind me of the event in my calendar"}
+{"id":7194,"utt":"i am having a meeting on tomorrow set it","annot_utt":"i am having a [event_name : meeting] on [date : tomorrow] set it"}
+{"id":15686,"utt":"hello my item which i bought from some one has gone out of order","annot_utt":"hello my item which i bought from some one has gone out of order"}
+{"id":393,"utt":"play a retro song in my playlist","annot_utt":"play a [music_genre : retro] song in my playlist"}
+{"id":7878,"utt":"erase my calendar","annot_utt":"erase my calendar"}
+{"id":2887,"utt":"please show me any articles related to weather in the morning news","annot_utt":"please show me any articles related to [news_topic : weather] in the [media_type : morning news]"}
+{"id":4606,"utt":"find information on today's stocks","annot_utt":"find information on [date : today's] stocks"}
+{"id":2365,"utt":"what song is on the radio","annot_utt":"what song is on the radio"}
+{"id":494,"utt":"what's a good joke","annot_utt":"what's a [joke_type : good] joke"}
+{"id":7151,"utt":"for every odd numbered sunday set a reminder for","annot_utt":"for every [general_frequency : odd numbered sunday] set a reminder for"}
+{"id":4580,"utt":"what is the time in chicago","annot_utt":"what is the time in [place_name : chicago]"}
+{"id":5635,"utt":"ensure i have to get up at six in morning","annot_utt":"ensure i have to get up at [time : six] in [timeofday : morning]"}
+{"id":2770,"utt":"olly play music from the jazz genre","annot_utt":"olly play music from the [music_genre : jazz] genre"}
+{"id":7712,"utt":"hey olly cancel all my other meetings and calls for second march as it is jim's birthday tag it as an event in your calendar","annot_utt":"hey olly cancel all my other meetings and calls for [date : second march] as it is [person : jim's] [event_name : birthday] tag it as an event in your calendar"}
+{"id":15229,"utt":"is there any post from my friend mike in facebook","annot_utt":"is there any post from my [relation : friend] [person : mike] in [media_type : facebook]"}
+{"id":7693,"utt":"do i have anything planned for the twenty first","annot_utt":"do i have anything planned for the [date : twenty first]"}
+{"id":897,"utt":"make the house lights amber at six p. m.","annot_utt":"make the [house_place : house] lights [color_type : amber] at [time : six p. m.]"}
+{"id":1047,"utt":"i need a good cry can you play me sad rock songs","annot_utt":"i need a good cry can you play me [music_descriptor : sad] [music_genre : rock] songs"}
+{"id":6166,"utt":"please mute for five minutes","annot_utt":"please mute for [time : five minutes]"}
+{"id":4890,"utt":"set notifications on the current weather disasters in america","annot_utt":"set notifications on the current [event_name : weather disasters] in [place_name : america]"}
+{"id":170,"utt":"do they deliver home","annot_utt":"do they [order_type : deliver] home"}
+{"id":14368,"utt":"how much will be the world population after twenty years","annot_utt":"how much will be the world population after twenty years"}
+{"id":9187,"utt":"research the clients that will attend the meeting","annot_utt":"research the clients that will attend [event_name : the meeting]"}
+{"id":2816,"utt":"set the living room lights to fifty percent","annot_utt":"set the [house_place : living room] lights [change_amount : to fifty percent]"}
+{"id":9269,"utt":"tune in to eight hundred and ninety seven f. m.","annot_utt":"tune in to [radio_name : eight hundred and ninety seven f. m.]"}
+{"id":6539,"utt":"mark today as the start of my diet","annot_utt":"mark [date : today] as [event_name : the start of my diet]"}
+{"id":13685,"utt":"has the dollar rate increased","annot_utt":"has the dollar rate increased"}
+{"id":16995,"utt":"send email to jessica","annot_utt":"send email to [person : jessica]"}
+{"id":10851,"utt":"what are my available lists","annot_utt":"what are my available lists"}
+{"id":10957,"utt":"remind me of how many lists i have","annot_utt":"remind me of how many lists i have"}
+{"id":13986,"utt":"top model car","annot_utt":"top model car"}
+{"id":2230,"utt":"turn off kitchen light","annot_utt":"turn off [house_place : kitchen] light"}
+{"id":9694,"utt":"resume the playback of a child called it","annot_utt":"[player_setting : resume] the playback of a child called it"}
+{"id":7606,"utt":"meet with joe tomorrow at three","annot_utt":"meet with [person : joe] [date : tomorrow] at [time : three]"}
+{"id":1710,"utt":"change the music mode to rock","annot_utt":"[player_setting : change] the music mode to [music_genre : rock]"}
+{"id":9577,"utt":"change the station to eighty two point four","annot_utt":"change the station to [radio_name : eighty two point four]"}
+{"id":16280,"utt":"please send an email to cassy who is there on my family and friend list","annot_utt":"please send an email to [person : cassy] who is there on my [relation : family] and [relation : friend] list"}
+{"id":7817,"utt":"is this true about this date","annot_utt":"is this true about this date"}
+{"id":2733,"utt":"start a pot of coffee please","annot_utt":"start a pot of coffee please"}
+{"id":2423,"utt":"please give me todays forecast for new york city","annot_utt":"please give me [date : todays] forecast for [place_name : new york city]"}
+{"id":10565,"utt":"delete all lists","annot_utt":"delete all lists"}
+{"id":6268,"utt":"if you had to kill someone to save three people would you do it and if so why","annot_utt":"if you had to kill someone to save three people would you do it and if so why"}
+{"id":4391,"utt":"what are the headlines on c. n. n.","annot_utt":"what are the headlines on [media_type : c. n. n.]"}
+{"id":254,"utt":"olly play a good track from my favorite jazz player","annot_utt":"olly play a good track from my favorite [music_genre : jazz] player"}
+{"id":16273,"utt":"how do i reach sarah","annot_utt":"how do i [personal_info : reach] [person : sarah]"}
+{"id":14995,"utt":"what does situation mean","annot_utt":"what does [definition_word : situation] mean"}
+{"id":9640,"utt":"open spotify and open workout","annot_utt":"open spotify and open workout"}
+{"id":2338,"utt":"make an order for noodles one pack make it as takeaway order","annot_utt":"make an order for [food_type : noodles] one pack make it as [order_type : takeaway] order"}
+{"id":16886,"utt":"reply this mail","annot_utt":"reply this mail"}
+{"id":151,"utt":"play it again please","annot_utt":"play it again please"}
+{"id":3031,"utt":"i want to play the song again","annot_utt":"i want to play the song again"}
+{"id":14170,"utt":"does kim kardashian wear converse","annot_utt":"does [person : kim kardashian] wear converse"}
+{"id":12723,"utt":"buy me a ticket to boston","annot_utt":"buy me a ticket to [place_name : boston]"}
+{"id":360,"utt":"what is the current time","annot_utt":"what is the current time"}
+{"id":8553,"utt":"add a meeting to my calendar for nine am with tom","annot_utt":"add a [event_name : meeting] to my calendar for [time : nine am] with [person : tom]"}
+{"id":3492,"utt":"let's play my most played song list","annot_utt":"let's play my most played song list"}
+{"id":15708,"utt":"post complaint about service a","annot_utt":"post complaint about service a"}
+{"id":2098,"utt":"what's going on in the world these days","annot_utt":"what's going on in the [place_name : world] these days"}
+{"id":10150,"utt":"how to make taco","annot_utt":"how to make [food_type : taco]"}
+{"id":7556,"utt":"set my calendar to remind me to buy groceries every friday","annot_utt":"set my calendar to remind me to [event_name : buy groceries] [general_frequency : every friday]"}
+{"id":4347,"utt":"cease operating lights","annot_utt":"cease operating lights"}
+{"id":6055,"utt":"did i leave the light on in the garage","annot_utt":"did i leave the light on in the [house_place : garage]"}
+{"id":765,"utt":"could you please give me up to date news headlines from my newest provider","annot_utt":"could you please give me up to date news headlines from my [media_type : newest provider]"}
+{"id":6789,"utt":"set meeting with joanna on saturday four p. m.","annot_utt":"set meeting with [person : joanna] on [date : saturday] [time : four p. m.]"}
+{"id":9175,"utt":"has my calendar been updated in the last ten minutes","annot_utt":"has my calendar been updated in the [time : last ten minutes]"}
+{"id":1160,"utt":"how cold will it get each night this week","annot_utt":"how [weather_descriptor : cold] will it get [general_frequency : each night] [date : this week]"}
+{"id":9193,"utt":"please set this date to repeat","annot_utt":"please set this date to repeat"}
+{"id":12818,"utt":"how much is a train ticket to chicago","annot_utt":"how much is a [transport_type : train] ticket to [place_name : chicago]"}
+{"id":7613,"utt":"what's was the upcoming event","annot_utt":"what's was the upcoming event"}
+{"id":6836,"utt":"remind me about the meeting tomorrow at six","annot_utt":"remind me about the [event_name : meeting] [date : tomorrow] at [time : six]"}
+{"id":3654,"utt":"what kind of music do you think i like","annot_utt":"what kind of music do you think i like"}
+{"id":9940,"utt":"find me a chocolate cake recipe","annot_utt":"find me a [food_type : chocolate cake] recipe"}
+{"id":6371,"utt":"veganism","annot_utt":"veganism"}
+{"id":15560,"utt":"post to facebook i'm hungry","annot_utt":"post to [media_type : facebook] i'm hungry"}
+{"id":14253,"utt":"how much is amazon stock","annot_utt":"how much is [business_name : amazon] stock"}
+{"id":16583,"utt":"does my company worker have a home phone number","annot_utt":"does my [relation : company worker] have a [personal_info : home phone number]"}
+{"id":6101,"utt":"are there any alarms currently set","annot_utt":"are there any alarms currently set"}
+{"id":7870,"utt":"delete event from calendar","annot_utt":"delete event from calendar"}
+{"id":6118,"utt":"hey what time is it in dallas texas","annot_utt":"hey what time is it in [place_name : dallas texas]"}
+{"id":9233,"utt":"open pandora","annot_utt":"open [app_name : pandora]"}
+{"id":9955,"utt":"show me a video on cooking fried chicken","annot_utt":"show me a [media_type : video] on cooking [food_type : fried chicken]"}
+{"id":4023,"utt":"what's in the news","annot_utt":"what's in the news"}
+{"id":1071,"utt":"brighten the lights in the hallway","annot_utt":"brighten the lights in the [house_place : hallway]"}
+{"id":9380,"utt":"i want you to go to hot one hundred and five on the radio","annot_utt":"i want you to go to [radio_name : hot one hundred and five] on the radio"}
+{"id":11474,"utt":"resume series podcast","annot_utt":"resume [podcast_descriptor : series podcast]"}
+{"id":4874,"utt":"enter song suggestion","annot_utt":"enter song suggestion"}
+{"id":6615,"utt":"parenting","annot_utt":"parenting"}
+{"id":4081,"utt":"i want to set an alarm when i'm driving home tomorrow to remember to stop at the store and get food","annot_utt":"i want to set an alarm when i'm driving home [date : tomorrow] to remember to [event_name : stop at the store and get food]"}
+{"id":7257,"utt":"please remind me to call mom in half an hour","annot_utt":"please remind me to [event_name : call] [relation : mom] [time : in half an hour]"}
+{"id":13197,"utt":"i wish it could give me advice","annot_utt":"i wish it could give me advice"}
+{"id":12999,"utt":"how old is mariah carey","annot_utt":"how old is [person : mariah carey]"}
+{"id":6865,"utt":"set up a notification about tomorrow's meeting at ten","annot_utt":"set up a notification about [date : tomorrow's] [event_name : meeting] at [time : ten]"}
+{"id":11610,"utt":"give me the list of circus shows going on in the city right now","annot_utt":"give me the list of [event_name : circus] shows going on in the [place_name : city] right now"}
+{"id":11677,"utt":"locate me the amazon restaurants","annot_utt":"locate me the [business_name : amazon] [business_type : restaurants]"}
+{"id":15326,"utt":"please read my facebook feed","annot_utt":"please read my [media_type : facebook] feed"}
+{"id":3326,"utt":"turn the plug off","annot_utt":"turn the plug off"}
+{"id":10940,"utt":"make a new shopping list","annot_utt":"make a new [list_name : shopping] list"}
+{"id":12930,"utt":"look up the map to stores near me","annot_utt":"look up the map to [business_type : stores] near me"}
+{"id":11867,"utt":"is there a sporting event tomorrow in chicago","annot_utt":"is there a [event_name : sporting event] [date : tomorrow] in [place_name : chicago]"}
+{"id":7013,"utt":"when is the event going to start","annot_utt":"when is the event going to start"}
+{"id":9871,"utt":"play my favorite book","annot_utt":"play my favorite book"}
+{"id":13984,"utt":"consequences to actions","annot_utt":"consequences to actions"}
+{"id":10164,"utt":"how long do i cook maccoroni","annot_utt":"how long do i cook maccoroni"}
+{"id":15655,"utt":"tweet to google costumer service my new nexus phone stop working help please","annot_utt":"[media_type : tweet] to google costumer service my new nexus phone stop working help please"}
+{"id":9043,"utt":"upcoming events in calendar","annot_utt":"[event_name : upcoming events] in calendar"}
+{"id":5278,"utt":"please play only music of pop mix","annot_utt":"please play only music of [music_genre : pop mix]"}
+{"id":761,"utt":"i want to know about this song","annot_utt":"i want to know about this song"}
+{"id":555,"utt":"play mf doom anything","annot_utt":"play [artist_name : mf doom] anything"}
+{"id":13524,"utt":"i would like it to help analyze ideas","annot_utt":"i would like it to help analyze ideas"}
+{"id":1156,"utt":"latest new on international women's day","annot_utt":"latest new on [news_topic : international women's day]"}
+{"id":11733,"utt":"how is the new movie swat","annot_utt":"how is the new movie [movie_name : swat]"}
+{"id":17123,"utt":"email form for regional v. p.","annot_utt":"email form for [relation : regional v. p.]"}
+{"id":8302,"utt":"remove next monday's meeting","annot_utt":"remove [date : next monday's] [event_name : meeting]"}
+{"id":2859,"utt":"olly what time is it in this city","annot_utt":"olly what time is it in [place_name : this city]"}
+{"id":1510,"utt":"quiet mode on until i am home from work","annot_utt":"quiet mode on until i am home from work"}
+{"id":4400,"utt":"what are the trending articles on the new york times","annot_utt":"what are the trending articles on the [media_type : new york times]"}
+{"id":9053,"utt":"set a meeting event reminder with mona on tuesday","annot_utt":"set a [event_name : meeting] event reminder with [person : mona] on [date : tuesday]"}
+{"id":15731,"utt":"olly tweet a message to a. t. & t. and tell them my service is bad","annot_utt":"olly [media_type : tweet] a message to [business_name : a. t. & t.] and tell them my service is bad"}
+{"id":12019,"utt":"find gluten free bakery near me","annot_utt":"find [business_type : gluten free bakery] near me"}
+{"id":11839,"utt":"what's happening around me","annot_utt":"what's happening around me"}
+{"id":16630,"utt":"send a reply to the last email","annot_utt":"send a reply to the last email"}
+{"id":5225,"utt":"what is the date next wednesday","annot_utt":"what is the date next [date : wednesday]"}
+{"id":15847,"utt":"how we can get credit","annot_utt":"how we can get credit"}
+{"id":7170,"utt":"it's my mother's birthday today send me a notification every year on this date","annot_utt":"it's my [relation : mother's] [event_name : birthday] [date : today] send me a notification [general_frequency : every year] on this date"}
+{"id":2350,"utt":"put dark colors instead of light ones in the house","annot_utt":"put [color_type : dark] colors instead of light ones in the [house_place : house]"}
+{"id":13473,"utt":"when was the us got freedom","annot_utt":"when was the [place_name : us] got freedom"}
+{"id":13722,"utt":"list exchange rate information for the day for u. s. d. to jpy","annot_utt":"list exchange rate information for the day for [currency_name : u. s. d.] to [currency_name : jpy]"}
+{"id":4837,"utt":"is there any news olly","annot_utt":"is there any news olly"}
+{"id":8882,"utt":"make an alarm for the meeting with bob at seven today","annot_utt":"make an alarm for the [event_name : meeting] with [person : bob] at [time : seven] [date : today]"}
+{"id":6515,"utt":"how has your day been today","annot_utt":"how has your day been [date : today]"}
+{"id":10853,"utt":"take that off there","annot_utt":"take that off there"}
+{"id":484,"utt":"who is the singer of song","annot_utt":"who is the singer of song"}
+{"id":9542,"utt":"let me listen the latest news program on radio","annot_utt":"let me listen the latest news program on radio"}
+{"id":2704,"utt":"let's hear some indie rock okay","annot_utt":"let's hear some [music_genre : indie rock] okay"}
+{"id":8043,"utt":"what time is my next appointment","annot_utt":"what time is my next [event_name : appointment]"}
+{"id":12073,"utt":"refer local current events","annot_utt":"refer [event_name : local current events]"}
+{"id":16532,"utt":"make a call to","annot_utt":"make a call to"}
+{"id":428,"utt":"turn off the bathroom lights","annot_utt":"turn off the [house_place : bathroom] lights"}
+{"id":1715,"utt":"lower volume by fifty percent","annot_utt":"lower volume [change_amount : by fifty percent]"}
+{"id":2255,"utt":"can i order take out from licari's","annot_utt":"can i order [order_type : take out] from [business_name : licari's]"}
+{"id":8044,"utt":"what's my schedule today","annot_utt":"what's my schedule [date : today]"}
+{"id":3214,"utt":"what is the current state of the investigation into trump's ties with russia","annot_utt":"what is the current state of the [news_topic : investigation into trump's ties] with [place_name : russia]"}
+{"id":17119,"utt":"check any mail from amazon","annot_utt":"check any mail from [person : amazon]"}
+{"id":12685,"utt":"what is the traffic like right now","annot_utt":"what is the traffic like right now"}
+{"id":2594,"utt":"tell me about the latest environmental news","annot_utt":"tell me about the latest [news_topic : environmental] news"}
+{"id":11361,"utt":"shadi special podcast play it","annot_utt":"[podcast_name : shadi special] podcast play it"}
+{"id":3695,"utt":"i want an alarm for three today","annot_utt":"i want an alarm for [time : three] [date : today]"}
+{"id":5270,"utt":"what is currently breaking news","annot_utt":"what is currently breaking news"}
+{"id":7463,"utt":"inform my group that the new meeting date is tomorrow","annot_utt":"inform my group that the new [event_name : meeting] date is [date : tomorrow]"}
+{"id":3434,"utt":"best rap music","annot_utt":"best [music_genre : rap] music"}
+{"id":11265,"utt":"play the next one","annot_utt":"play the next one"}
+{"id":14023,"utt":"describe hell","annot_utt":"describe [definition_word : hell]"}
+{"id":6448,"utt":"trump","annot_utt":"trump"}
+{"id":7751,"utt":"remind me every monday to take out the trash","annot_utt":"remind me [general_frequency : every monday] to take out the trash"}
+{"id":3174,"utt":"play music playlist","annot_utt":"play music playlist"}
+{"id":13140,"utt":"tell me all about hurricane","annot_utt":"tell me all about [definition_word : hurricane]"}
+{"id":6801,"utt":"show me my meetings this friday","annot_utt":"show me my meetings [date : this friday]"}
+{"id":5570,"utt":"find food and order","annot_utt":"find food and order"}
+{"id":8906,"utt":"set event date in calendar with others","annot_utt":"set event date in calendar with others"}
+{"id":8769,"utt":"delete upcoming event","annot_utt":"delete upcoming event"}
+{"id":783,"utt":"play love songs","annot_utt":"play [song_name : love songs]"}
+{"id":9341,"utt":"alexa change the radio station","annot_utt":"alexa change the radio station"}
+{"id":7908,"utt":"do i need to do anything today","annot_utt":"do i need to do anything [date : today]"}
+{"id":540,"utt":"play the song sung by katy perry","annot_utt":"play the song sung by [artist_name : katy perry]"}
+{"id":3320,"utt":"please activate my coffee pot for me","annot_utt":"please activate my [device_type : coffee pot] for me"}
+{"id":16229,"utt":"which contact haven't i called in twelve months","annot_utt":"which contact haven't i called in [time : twelve months]"}
+{"id":128,"utt":"what's the date","annot_utt":"what's the date"}
+{"id":8948,"utt":"add event for meeting with james","annot_utt":"add event for [event_name : meeting] with [person : james]"}
+{"id":13221,"utt":"what does priyanka chopra do to look beautiful","annot_utt":"what does [person : priyanka chopra] do to look beautiful"}
+{"id":2056,"utt":"i never want to hear that song again","annot_utt":"i never want to hear that song again"}
+{"id":16398,"utt":"please send the email to jeff","annot_utt":"please send the email to [person : jeff]"}
+{"id":14406,"utt":"give the stock price details of motorolla","annot_utt":"give the stock price details of [business_name : motorolla]"}
+{"id":8990,"utt":"make event","annot_utt":"make event"}
+{"id":5573,"utt":"please set the brightness of lightness appropriately in kitchen","annot_utt":"please set the brightness of lightness appropriately in [house_place : kitchen]"}
+{"id":100,"utt":"what's the week's forecast","annot_utt":"what's the [time : week's] forecast"}
+{"id":10738,"utt":"can you please add an item to my grocery list","annot_utt":"can you please add an item to my [list_name : grocery] list"}
+{"id":1794,"utt":"will trump visit russia anytime soon","annot_utt":"will [person : trump] visit [place_name : russia] anytime soon"}
+{"id":15546,"utt":"tweet about cold pizza to papa johns","annot_utt":"[media_type : tweet] about cold pizza to [business_name : papa johns]"}
+{"id":13854,"utt":"when did elvis die","annot_utt":"when did [person : elvis] die"}
+{"id":10709,"utt":"add this to the list","annot_utt":"add this to the list"}
+{"id":2035,"utt":"olly where is my food","annot_utt":"olly where is my food"}
+{"id":16377,"utt":"send mom an email now","annot_utt":"send [relation : mom] an email now"}
+{"id":12261,"utt":"tell me my options for a train to los angles next wednesday or thursday","annot_utt":"tell me my options for a [transport_type : train] to [place_name : los angles] next [date : wednesday] or [date : thursday]"}
+{"id":4871,"utt":"how is it outside","annot_utt":"how is it outside"}
+{"id":5911,"utt":"replay the musics","annot_utt":"[player_setting : replay] the musics"}
+{"id":7918,"utt":"calendar event send invite bill malinda","annot_utt":"calendar event send invite [person : bill malinda]"}
+{"id":12623,"utt":"do you have the train times for beaumont tx","annot_utt":"do you have the [transport_type : train] times for [place_name : beaumont tx]"}
+{"id":11932,"utt":"what should i watch today","annot_utt":"what should i watch [date : today]"}
+{"id":1127,"utt":"play all songs on shuffle","annot_utt":"play all songs on [player_setting : shuffle]"}
+{"id":13900,"utt":"the definition of life","annot_utt":"the definition of [definition_word : life]"}
+{"id":1677,"utt":"what music is currently playing on","annot_utt":"what music is currently playing on"}
+{"id":8366,"utt":"make march eighteen a repeating appointment for pearl's birthday","annot_utt":"make [date : march eighteen] a repeating [event_name : appointment for pearl's birthday]"}
+{"id":7836,"utt":"delete all events","annot_utt":"delete all events"}
+{"id":16100,"utt":"please check email contain job listing","annot_utt":"please check email contain job listing"}
+{"id":15138,"utt":"check my social networks","annot_utt":"check my [media_type : social networks]"}
+{"id":8681,"utt":"is it any ones birthday","annot_utt":"is it any ones [event_name : birthday]"}
+{"id":3623,"utt":"what is going on in the world today","annot_utt":"what is going on in the world [date : today]"}
+{"id":4248,"utt":"house lights blue","annot_utt":"house lights [color_type : blue]"}
+{"id":14317,"utt":"what is the size of the united states","annot_utt":"what is the size of the united states"}
+{"id":13464,"utt":"why are we here","annot_utt":"why are we here"}
+{"id":6432,"utt":"today the following happened to me i had a meeting with george","annot_utt":"[date : today] the following happened to me i had a [event_name : meeting] with [person : george]"}
+{"id":2985,"utt":"cancel alarm","annot_utt":"cancel alarm"}
+{"id":5026,"utt":"please make the lights natural","annot_utt":"please make the lights natural"}
+{"id":16361,"utt":"do i have any new emails in the last hour","annot_utt":"do i have any new emails in the [time : last hour]"}
+{"id":15348,"utt":"who is doing facebook live right now","annot_utt":"who is doing [media_type : facebook live] right now"}
+{"id":2753,"utt":"i need a cup of coffee","annot_utt":"i need a cup of coffee"}
+{"id":13188,"utt":"tell me how are the results of assembly elections in delhi going to come out","annot_utt":"tell me how are the results of assembly elections in [place_name : delhi] going to come out"}
+{"id":15706,"utt":"tweet at","annot_utt":"[media_type : tweet] at"}
+{"id":14356,"utt":"i think i can travel the whole world in a day","annot_utt":"i think i can travel the whole world in a day"}
+{"id":1904,"utt":"get me match highlights","annot_utt":"get me [news_topic : match highlights]"}
+{"id":15556,"utt":"let's tweet a complaint","annot_utt":"let's [media_type : tweet] a complaint"}
+{"id":9601,"utt":"play country radio","annot_utt":"play [radio_name : country radio]"}
+{"id":4486,"utt":"give me the weather forecast for this week","annot_utt":"give me the weather forecast for [date : this week]"}
+{"id":14354,"utt":"what's the answer to the universe","annot_utt":"what's the answer to the universe"}
+{"id":11678,"utt":"i would like to know the best rating pubs in the local area","annot_utt":"i would like to know the best rating [business_type : pubs] in the local area"}
+{"id":2163,"utt":"hows the food order going","annot_utt":"hows the food order going"}
+{"id":3725,"utt":"today is which date","annot_utt":"[date : today] is which date"}
+{"id":506,"utt":"open songs from major lazer","annot_utt":"open songs from [artist_name : major lazer]"}
+{"id":10805,"utt":"please show me the list that i have","annot_utt":"please show me the list that i have"}
+{"id":8939,"utt":"hayathis daughter baby shower","annot_utt":"[person : hayathis] [event_name : daughter baby shower]"}
+{"id":5544,"utt":"who is the music director of this song","annot_utt":"who is the music director of this song"}
+{"id":9494,"utt":"could you please play the f. m. station which plays pop songs","annot_utt":"could you please play the [radio_name : f. m.] station which plays [music_genre : pop] songs"}
+{"id":1803,"utt":"which teams are playing today in the premier league","annot_utt":"which teams are playing [date : today] in the [news_topic : premier league]"}
+{"id":2796,"utt":"silence volume on speakers","annot_utt":"silence volume on speakers"}
+{"id":7185,"utt":"when is my next appointment with doctor smith","annot_utt":"when is my next [event_name : appointment] with [person : doctor smith]"}
+{"id":8415,"utt":"add a meeting at the office with brian for three p. m. on tuesday","annot_utt":"add a [event_name : meeting] at the [place_name : office] with [person : brian] for [time : three p. m.] on [date : tuesday]"}
+{"id":15296,"utt":"read me new post on my feed","annot_utt":"read me new post on my feed"}
+{"id":13023,"utt":"show me recipes","annot_utt":"show me recipes"}
+{"id":3539,"utt":"please play shake it off by taylor swiftm","annot_utt":"please play [song_name : shake it off] by [artist_name : taylor swiftm]"}
+{"id":9726,"utt":"stop audiobook","annot_utt":"[player_setting : stop] [media_type : audiobook]"}
+{"id":3614,"utt":"it is a sunny day today right","annot_utt":"it is a [weather_descriptor : sunny] day [date : today] right"}
+{"id":10220,"utt":"what ingredients do i need to bake a large cake","annot_utt":"what ingredients do i need to [cooking_type : bake] a large [food_type : cake]"}
+{"id":3741,"utt":"what song is playing right now","annot_utt":"what song is playing right now"}
+{"id":4319,"utt":"i need to get up at ten tomorrow","annot_utt":"i need to get up at [time : ten] [date : tomorrow]"}
+{"id":17115,"utt":"read list of new emails","annot_utt":"read list of new emails"}
+{"id":4361,"utt":"give me some good sounds","annot_utt":"give me some good sounds"}
+{"id":13896,"utt":"from dollar to euro","annot_utt":"from [currency_name : dollar] to [currency_name : euro]"}
+{"id":16711,"utt":"are my contacts mostly female or male","annot_utt":"are my contacts mostly female or male"}
+{"id":12629,"utt":"what time does the first train depart from chicago","annot_utt":"what time does the first [transport_type : train] depart from [place_name : chicago]"}
+{"id":8762,"utt":"tell me my schedule for later this afternoon","annot_utt":"tell me my schedule for later [timeofday : this afternoon]"}
+{"id":6918,"utt":"delete events from calendar","annot_utt":"delete events from calendar"}
+{"id":14417,"utt":"which ocean touches at our continent","annot_utt":"which ocean touches at our continent"}
+{"id":2082,"utt":"raise the light","annot_utt":"raise the light"}
+{"id":768,"utt":"tell me about the latest political news","annot_utt":"tell me about the latest [news_topic : political] news"}
+{"id":16165,"utt":"did charlotte responded","annot_utt":"did [person : charlotte] responded"}
+{"id":12789,"utt":"can you tell me about the traffic","annot_utt":"can you tell me about the traffic"}
+{"id":5856,"utt":"turn off smart plug socket","annot_utt":"turn off [device_type : smart plug socket]"}
+{"id":6331,"utt":"i bought pre season baseball tickets","annot_utt":"i bought [event_name : pre season baseball] tickets"}
+{"id":15185,"utt":"birthday wishes","annot_utt":"[event_name : birthday] wishes"}
+{"id":6034,"utt":"coffee","annot_utt":"coffee"}
+{"id":15732,"utt":"tweet samsung and tell them to stop killing people with their products","annot_utt":"[media_type : tweet] [business_name : samsung] and tell them to stop killing people with their products"}
+{"id":4854,"utt":"shut down the sound","annot_utt":"shut down the sound"}
+{"id":7057,"utt":"schedule a lunch meeting with brent on wednesday at noon","annot_utt":"schedule a [event_name : lunch meeting] with [person : brent] on [date : wednesday] at [timeofday : noon]"}
+{"id":5204,"utt":"convert eight am manila time to new york time","annot_utt":"convert [time : eight am] [place_name : manila] time to [place_name : new york] time"}
+{"id":3980,"utt":"please play shape of you by said sheeran","annot_utt":"please play [song_name : shape of you] by [artist_name : said sheeran]"}
+{"id":7686,"utt":"include mike and jack to festival calendar","annot_utt":"include [person : mike] and [person : jack] to [event_name : festival] calendar"}
+{"id":7820,"utt":"erase all the events in the calendar","annot_utt":"erase all the events in the calendar"}
+{"id":14074,"utt":"one dolla equals how much inr","annot_utt":"one [currency_name : dolla] equals how much [currency_name : inr]"}
+{"id":6201,"utt":"my day was full of work olly","annot_utt":"my day was full of work olly"}
+{"id":4550,"utt":"hey olly i like music by sigur ros","annot_utt":"hey olly i like music by [artist_name : sigur ros]"}
+{"id":13298,"utt":"what does celebrity do","annot_utt":"what does celebrity do"}
+{"id":1546,"utt":"play my summer jams playlist","annot_utt":"play my [playlist_name : summer jams playlist]"}
+{"id":2146,"utt":"what's the date of the winter solstice two years from now","annot_utt":"what's the date of the [event_name : winter solstice] [time : two years] from now"}
+{"id":16730,"utt":"please check new email from andy","annot_utt":"please check new email from [person : andy]"}
+{"id":9855,"utt":"start audio playback of twilight again","annot_utt":"[player_setting : start] audio playback of [audiobook_name : twilight] again"}
+{"id":12354,"utt":"give me the train time","annot_utt":"give me the [transport_type : train] time"}
+{"id":15998,"utt":"check my emails for something from name","annot_utt":"check my emails for something from name"}
+{"id":5017,"utt":"can you please make a coffee","annot_utt":"can you please make a coffee"}
+{"id":11782,"utt":"are there any special events near me this weekend","annot_utt":"are there any special events near me [date : this weekend]"}
+{"id":8436,"utt":"please set lunch meeting at twelve p. m. for every wednesday in march","annot_utt":"please set [event_name : lunch meeting] at [time : twelve p. m.] for [general_frequency : every wednesday] in [date : march]"}
+{"id":16603,"utt":"what does the email say that was sent thirty minutes ago from mom","annot_utt":"what does the email say that was sent [time : thirty minutes] ago from [relation : mom]"}
+{"id":2264,"utt":"light color for study room","annot_utt":"light color for [house_place : study room]"}
+{"id":5774,"utt":"current time in cpt","annot_utt":"current time in [place_name : cpt]"}
+{"id":9720,"utt":"resume harry potter book four","annot_utt":"[player_setting : resume] [audiobook_name : harry potter book four]"}
+{"id":12150,"utt":"olly book me a ticket to paris on eurostar this weekend","annot_utt":"olly book me a ticket to [place_name : paris] on [transport_name : eurostar] [date : this weekend]"}
+{"id":6290,"utt":"what would you recommend for me to read","annot_utt":"what would you recommend for me to read"}
+{"id":9680,"utt":"resume harry potter from the place i have stopped listening to last time","annot_utt":"[player_setting : resume] [audiobook_name : harry potter] from the place i have stopped listening to last time"}
+{"id":5198,"utt":"tag this song with five stars","annot_utt":"tag this song with five stars"}
+{"id":8073,"utt":"schedule a sales meeting for wednesday at eleven am","annot_utt":"schedule a [event_name : sales meeting] for [date : wednesday] at [time : eleven am]"}
+{"id":15464,"utt":"i didn't get the product on time send a tweet to jcpenney","annot_utt":"i didn't get the product on time send a [media_type : tweet] to [business_name : jcpenney]"}
+{"id":16766,"utt":"check new email","annot_utt":"check new email"}
+{"id":16694,"utt":"locate the email to giant eagle and put it into my contact list","annot_utt":"locate the email to [business_name : giant eagle] and put it into my [list_name : contact list]"}
+{"id":5584,"utt":"please turn the lights off","annot_utt":"please turn the lights off"}
+{"id":8442,"utt":"please modify my calendar with this event","annot_utt":"please modify my calendar with this event"}
+{"id":14142,"utt":"how much is the british pound","annot_utt":"how much is the [currency_name : british pound]"}
+{"id":702,"utt":"hi can you please turn lower the lights","annot_utt":"hi can you please turn lower the lights"}
+{"id":4831,"utt":"speaker volume increase","annot_utt":"speaker volume increase"}
+{"id":9738,"utt":"could you please play the classical music for me","annot_utt":"could you please play the [music_genre : classical] music for me"}
+{"id":2531,"utt":"alexa play a mi song of rap and rock one after the other","annot_utt":"alexa play a mi song of [music_genre : rap] and [music_genre : rock] one after the other"}
+{"id":8129,"utt":"what reminders do i still have","annot_utt":"what reminders do i still have"}
+{"id":9250,"utt":"i want to listen radio","annot_utt":"i want to listen radio"}
+{"id":6670,"utt":"do you know of any good free knitting patterns","annot_utt":"do you know of any good free knitting patterns"}
+{"id":10076,"utt":"can you substitute baking soda for baking powder","annot_utt":"can you substitute [ingredient : baking soda for baking powder]"}
+{"id":2298,"utt":"put the lights off now","annot_utt":"put the lights off now"}
+{"id":9457,"utt":"play the song let it go","annot_utt":"play the song [song_name : let it go]"}
+{"id":3489,"utt":"play music now please","annot_utt":"play music now please"}
+{"id":6926,"utt":"is it friday","annot_utt":"is it [date : friday]"}
+{"id":10970,"utt":"delete the last phrase","annot_utt":"delete the last phrase"}
+{"id":17138,"utt":"please archive my read messages","annot_utt":"please archive my read messages"}
+{"id":2914,"utt":"tell me what the date is today","annot_utt":"tell me what the date is [date : today]"}
+{"id":14214,"utt":"find the ways of travel for the same","annot_utt":"find the ways of travel for the same"}
+{"id":1617,"utt":"once a new topic on politics comes up alert me","annot_utt":"once a new topic on [news_topic : politics] comes up alert me"}
+{"id":189,"utt":"mute volume","annot_utt":"mute volume"}
+{"id":4547,"utt":"start the dogwalking playlist","annot_utt":"start the [playlist_name : dogwalking playlist]"}
+{"id":8904,"utt":"information of recent events","annot_utt":"information of recent events"}
+{"id":1474,"utt":"what are today's sports news","annot_utt":"what are [date : today's] [news_topic : sports] news"}
+{"id":12240,"utt":"what is the traffic like on my commute home at five","annot_utt":"what is the traffic like on my commute [place_name : home] at [time : five]"}
+{"id":12329,"utt":"call yellow cab","annot_utt":"call [transport_type : yellow cab]"}
+{"id":17144,"utt":"hey check email","annot_utt":"hey check email"}
+{"id":2271,"utt":"please play songs i've purchased and favorited","annot_utt":"please play songs i've purchased and favorited"}
+{"id":7863,"utt":"remind me to start supper this afternoon at five","annot_utt":"remind me to start [event_name : supper] this [time : afternoon at five]"}
+{"id":5396,"utt":"please turn socket off","annot_utt":"please turn socket off"}
+{"id":15794,"utt":"where seth lives","annot_utt":"where [person : seth] [personal_info : lives]"}
+{"id":13252,"utt":"what was george eliot's first november el","annot_utt":"what was [person : george eliot's] first november el"}
+{"id":16002,"utt":"check for new email","annot_utt":"check for new email"}
+{"id":738,"utt":"how cold is it outside today","annot_utt":"how [weather_descriptor : cold] is it outside [date : today]"}
+{"id":2917,"utt":"weekly weather report","annot_utt":"weekly weather report"}
+{"id":9651,"utt":"play netflix on my p. s. four","annot_utt":"play [app_name : netflix] on my [device_type : p. s. four]"}
+{"id":8165,"utt":"one thousand two hundred and thirty p. m. already you will have a meeting in ten mins","annot_utt":"[time : one thousand two hundred and thirty p. m.] already you will have a [event_name : meeting] in [time : ten mins]"}
+{"id":1308,"utt":"get todays climate forecast here","annot_utt":"get [date : todays] climate forecast here"}
+{"id":10954,"utt":"how many lists do i have in contacts","annot_utt":"how many lists do i have in contacts"}
+{"id":10960,"utt":"scratch that one from the list","annot_utt":"scratch that one from the list"}
+{"id":1249,"utt":"how is the weather likely to be this week","annot_utt":"how is the weather likely to be [date : this week]"}
+{"id":13035,"utt":"what is two hundred divided by ten","annot_utt":"what is two hundred divided by ten"}
+{"id":13869,"utt":"please google location and information of mount rushmore","annot_utt":"please google location and information of mount rushmore"}
+{"id":6059,"utt":"play rap music","annot_utt":"play [music_genre : rap] music"}
+{"id":16276,"utt":"do i have new emails","annot_utt":"do i have new emails"}
+{"id":10125,"utt":"what is the difference between bake and broil","annot_utt":"what is the difference between bake and broil"}
+{"id":11437,"utt":"please play the podcast for me","annot_utt":"please play the podcast for me"}
+{"id":1202,"utt":"present time in new york","annot_utt":"present time in [place_name : new york]"}
+{"id":15693,"utt":"tweet that there was an insect in the chocolate packet","annot_utt":"[media_type : tweet] that there was an insect in the chocolate packet"}
+{"id":9384,"utt":"play c. n. n. radio","annot_utt":"play [radio_name : c. n. n. radio]"}
+{"id":6517,"utt":"history","annot_utt":"history"}
+{"id":6294,"utt":"olly i just cleaned my car","annot_utt":"olly i just cleaned my car"}
+{"id":920,"utt":"please remove my alarm","annot_utt":"please remove my alarm"}
+{"id":13506,"utt":"can you tell me the time it is","annot_utt":"can you tell me the time it is"}
+{"id":13738,"utt":"what's the exchange rates between u. s. a. and china","annot_utt":"what's the exchange rates between [place_name : u. s. a.] and [place_name : china]"}
+{"id":411,"utt":"can you tell me a joke","annot_utt":"can you tell me a joke"}
+{"id":14599,"utt":"currency exchange","annot_utt":"currency exchange"}
+{"id":10049,"utt":"tell me how to make a poor boy sandwich","annot_utt":"tell me how to make a [food_type : poor boy sandwich]"}
+{"id":13166,"utt":"spell and define oscillate","annot_utt":"spell and define [definition_word : oscillate]"}
+{"id":9471,"utt":"turn on a country music station","annot_utt":"turn on a [music_genre : country] music station"}
+{"id":2870,"utt":"olly tell me my alarms","annot_utt":"olly tell me my alarms"}
+{"id":17113,"utt":"create email to yulia","annot_utt":"create email to [person : yulia]"}
+{"id":1336,"utt":"i like the songs of yeshudas please play it","annot_utt":"i like the songs of [artist_name : yeshudas] please play it"}
+{"id":13297,"utt":"who is celebrity","annot_utt":"who is celebrity"}
+{"id":3207,"utt":"stream poker face by lady gaga","annot_utt":"stream [song_name : poker face] by [artist_name : lady gaga]"}
+{"id":13451,"utt":"i would like my robot to feed and pet my dog when i'm not home","annot_utt":"i would like my robot to feed and pet my dog when i'm not home"}
+{"id":11767,"utt":"olly what events are happening in pondichery this weekend","annot_utt":"olly what events are happening in [place_name : pondichery] [date : this weekend]"}
+{"id":6213,"utt":"hey tell me more about my meetings today","annot_utt":"hey tell me more about my [event_name : meetings] [date : today]"}
+{"id":3175,"utt":"turn off the speakers","annot_utt":"turn off the speakers"}
+{"id":9746,"utt":"play pride and prejudice","annot_utt":"play [audiobook_name : pride and prejudice]"}
+{"id":7467,"utt":"give me the time of the events","annot_utt":"give me the time of the events"}
+{"id":5579,"utt":"can you change the volume at","annot_utt":"can you change the volume at"}
+{"id":6060,"utt":"please start the coffee pot","annot_utt":"please start the [device_type : coffee pot]"}
+{"id":5671,"utt":"what is the time in las vegas","annot_utt":"what is the time in [place_name : las vegas]"}
+{"id":3127,"utt":"how many tornadoes have there been this month","annot_utt":"how many [news_topic : tornadoes] have there been [date : this month]"}
+{"id":4994,"utt":"please mute my speaker","annot_utt":"please mute my speaker"}
+{"id":15789,"utt":"olly do i have any new emails","annot_utt":"olly do i have any new emails"}
+{"id":1124,"utt":"get sia's cheap thrills ready to play next","annot_utt":"get [artist_name : sia's] [song_name : cheap thrills] ready to play next"}
+{"id":3605,"utt":"what's the latest news on c. n. n.","annot_utt":"what's the latest news on [media_type : c. n. n.]"}
+{"id":13639,"utt":"what is the increase in stock value over the past week of disney","annot_utt":"what is the increase in stock value over the past week of [business_name : disney]"}
+{"id":4132,"utt":"tell me the percentage of the chance of rain in seattle washington for today","annot_utt":"tell me the percentage of the chance of [weather_descriptor : rain] in [place_name : seattle washington] for [date : today]"}
+{"id":11467,"utt":"play the most recent podcast for this american life","annot_utt":"play the [podcast_descriptor : most recent podcast] for this [podcast_name : american life]"}
+{"id":6500,"utt":"social media","annot_utt":"social media"}
+{"id":11841,"utt":"are there any crafts fairs happening in this area","annot_utt":"are there any [event_name : crafts fairs] happening in this area"}
+{"id":2408,"utt":"search for more songs from the band","annot_utt":"search for more songs from the band"}
+{"id":8774,"utt":"is my schedule for july seventh completely open","annot_utt":"is my schedule for [date : july seventh] completely open"}
+{"id":11502,"utt":"next button","annot_utt":"next button"}
+{"id":11335,"utt":"play and shuffle all slow music songs","annot_utt":"[player_setting : play and shuffle] all slow music songs"}
+{"id":7570,"utt":"what is the plan today","annot_utt":"what is the plan today"}
+{"id":2208,"utt":"wooo","annot_utt":"wooo"}
+{"id":5661,"utt":"should i take my raincoat with me now","annot_utt":"should i take my [weather_descriptor : raincoat] with me now"}
+{"id":286,"utt":"light up the lights in the kitchen","annot_utt":"light up the lights in the [house_place : kitchen]"}
+{"id":2983,"utt":"remove set alarm","annot_utt":"remove set alarm"}
+{"id":6561,"utt":"searching information online","annot_utt":"searching information online"}
+{"id":3784,"utt":"give me a weather report for las vegas","annot_utt":"give me a weather report for [place_name : las vegas]"}
+{"id":10353,"utt":"bring up papa pear saga","annot_utt":"bring up [game_name : papa pear saga]"}
+{"id":9754,"utt":"olly let's listen to hunt for read october","annot_utt":"olly let's listen to [audiobook_name : hunt for read october]"}
+{"id":15626,"utt":"please tweet a complaint to comcast for bad customer service","annot_utt":"please [media_type : tweet] a complaint to [business_name : comcast] for bad customer service"}
+{"id":9402,"utt":"play nine hundred and eighty nine the radio station","annot_utt":"play [radio_name : nine hundred and eighty nine] the radio station"}
+{"id":5027,"utt":"when is the next friday the thirteenth","annot_utt":"when is the next [date : friday the thirteenth]"}
+{"id":7117,"utt":"get rid of the events on the nineteenth from my calendar","annot_utt":"get rid of the events on the [date : nineteenth] from my calendar"}
+{"id":13181,"utt":"check for all the movie theater prices and availability for a newly released movie in my location","annot_utt":"check for all the movie theater prices and availability for a newly released movie in my location"}
+{"id":9352,"utt":"play the radio please","annot_utt":"play the radio please"}
+{"id":8900,"utt":"set repeating reminder for every sunday","annot_utt":"set repeating reminder for [general_frequency : every sunday]"}
+{"id":9112,"utt":"do add this on my calendar","annot_utt":"do add this on my calendar"}
+{"id":11273,"utt":"play next episode of harry potter by j. k. rowling","annot_utt":"play next episode of [audiobook_name : harry potter] by [audiobook_author : j. k. rowling]"}
+{"id":15672,"utt":"tweet to apple about non receipt of iphone i sent for repairs last week","annot_utt":"[media_type : tweet] to [business_name : apple] about non receipt of iphone i sent for repairs last week"}
+{"id":3361,"utt":"what is the date for next tuesday","annot_utt":"what is the date for next [date : tuesday]"}
+{"id":14564,"utt":"explain how is u. s. a. better than other countries","annot_utt":"explain how is [place_name : u. s. a.] better than other countries"}
+{"id":12526,"utt":"what is the fastest way to get to starbucks","annot_utt":"what is the fastest way to get to [business_name : starbucks]"}
+{"id":9952,"utt":"give me a cooking tutorial","annot_utt":"give me a cooking tutorial"}
+{"id":8732,"utt":"delete all dates","annot_utt":"delete all dates"}
+{"id":5219,"utt":"please reduce the speaker volume","annot_utt":"please reduce the speaker volume"}
+{"id":11172,"utt":"give me all available lists","annot_utt":"give me all available lists"}
+{"id":8585,"utt":"remind me that i have a birthday party on the thirtieth","annot_utt":"remind me that i have a [event_name : birthday party] on the [date : thirtieth]"}
+{"id":1684,"utt":"yes or no tomorrow's temperature is to be hot","annot_utt":"yes or no [date : tomorrow's] [weather_descriptor : temperature] is to be [weather_descriptor : hot]"}
+{"id":5948,"utt":"play some good song from my play list","annot_utt":"play some [music_descriptor : good song] from my play list"}
+{"id":6958,"utt":"make sure there is no events on my calendar","annot_utt":"make sure there is no events on my calendar"}
+{"id":12004,"utt":"olly please list the best clothing shops near me","annot_utt":"olly please list the best [business_type : clothing shops] near me"}
+{"id":13404,"utt":"what store is having sales tomorrow","annot_utt":"what store is having sales [date : tomorrow]"}
+{"id":3146,"utt":"play track one from my david bowie playlist","annot_utt":"play track one from my [artist_name : david bowie] playlist"}
+{"id":6672,"utt":"go on sweet talk me","annot_utt":"go on sweet talk me"}
+{"id":8853,"utt":"clear my next activity","annot_utt":"clear my next activity"}
+{"id":8824,"utt":"what do i have scheduled for the nineteenth at two p. m.","annot_utt":"what do i have scheduled for [date : the nineteenth] at [time : two p. m.]"}
+{"id":13567,"utt":"currency converter please","annot_utt":"currency converter please"}
+{"id":1812,"utt":"please make me coffee without sweetener","annot_utt":"please make me coffee [coffee_type : without sweetener]"}
+{"id":10827,"utt":"delete list for groceries","annot_utt":"delete list for [list_name : groceries]"}
+{"id":668,"utt":"i want two burgers and one coke order it fast","annot_utt":"i want two [food_type : burgers] and one [food_type : coke] order it fast"}
+{"id":17015,"utt":"start reply","annot_utt":"start reply"}
+{"id":6892,"utt":"can you give me the movie schedule","annot_utt":"can you give me the [event_name : movie] schedule"}
+{"id":4992,"utt":"turn off sockets","annot_utt":"turn off sockets"}
+{"id":10197,"utt":"show me the best recipe for spaghetti","annot_utt":"show me the best recipe for [food_type : spaghetti]"}
+{"id":2551,"utt":"change the lights in my home to green","annot_utt":"change the lights in my [house_place : home] to [color_type : green]"}
+{"id":1719,"utt":"set alarm of only monday morning six am","annot_utt":"set alarm of only [date : monday] [timeofday : morning] [time : six am]"}
+{"id":16791,"utt":"compose a new email but i got a new address this time brandon at example dot com","annot_utt":"compose a new email but i got a new address this time [email_address : brandon at example dot com]"}
+{"id":3829,"utt":"please remove the alarm that is set for weekdays at nine","annot_utt":"please remove the alarm that is set for [date : weekdays] at [time : nine]"}
+{"id":11339,"utt":"play my most watched podcast","annot_utt":"play my [podcast_descriptor : most watched] podcast"}
+{"id":2564,"utt":"please set the alarm for next friday at six thirty am","annot_utt":"please set the alarm for next [date : friday] at [time : six thirty am]"}
+{"id":7314,"utt":"what's for today","annot_utt":"what's for [date : today]"}
+{"id":12376,"utt":"what is the first metro to d. c.","annot_utt":"what is the first [transport_type : metro] to [place_name : d. c.]"}
+{"id":16758,"utt":"any new email since last time","annot_utt":"any new email since last time"}
+{"id":14241,"utt":"how much is the euro worth versus u. s. dollar","annot_utt":"how much is the [currency_name : euro] worth versus [currency_name : u. s. dollar]"}
+{"id":6050,"utt":"will i need sunscreen later","annot_utt":"will i need [weather_descriptor : sunscreen] later"}
+{"id":527,"utt":"do you know any jokes","annot_utt":"do you know any jokes"}
+{"id":15199,"utt":"what going on","annot_utt":"what going on"}
+{"id":5627,"utt":"play for me music by the beatles","annot_utt":"play for me music by the [artist_name : beatles]"}
+{"id":13223,"utt":"why does sofia vergara look so young","annot_utt":"why does [person : sofia vergara] look so young"}
+{"id":16559,"utt":"send a reply to mike with the answer four hundred and thirty from his email he sent this morning","annot_utt":"send a reply to [person : mike] with the answer four hundred and thirty from his email he sent this [timeofday : morning]"}
+{"id":2647,"utt":"could you please create a pandora channel for adele","annot_utt":"could you please create a pandora channel for [artist_name : adele]"}
+{"id":9815,"utt":"please play this playback on audiobook","annot_utt":"please play this playback on [media_type : audiobook]"}
+{"id":3162,"utt":"show me my alarms i have set","annot_utt":"show me my alarms i have set"}
+{"id":442,"utt":"what's happening in the news","annot_utt":"what's happening in the news"}
+{"id":11451,"utt":"i want to listen to the latest mike and mike podcast","annot_utt":"i want to listen to the latest [podcast_name : mike and mike] podcast"}
+{"id":4882,"utt":"what time is it in a city","annot_utt":"what time is it in [place_name : a city]"}
+{"id":8251,"utt":"i need next week's lunch put on the calendar","annot_utt":"i need [date : next week's] [meal_type : lunch] put on the calendar"}
+{"id":9629,"utt":"could you please help me in listening to the radio","annot_utt":"could you please help me in listening to the radio"}
+{"id":8126,"utt":"schedule a meeting event in my calendar","annot_utt":"schedule a [event_name : meeting] event in my calendar"}
+{"id":6722,"utt":"is there anything i should be reminded about","annot_utt":"is there anything i should be reminded about"}
+{"id":3329,"utt":"i want to see the news","annot_utt":"i want to see the news"}
+{"id":14963,"utt":"internet please","annot_utt":"internet please"}
+{"id":15618,"utt":"tweet esurance and tell them they suck","annot_utt":"[media_type : tweet] [business_name : esurance] and tell them they suck"}
+{"id":4283,"utt":"increase the brightness in this room","annot_utt":"increase the brightness in [house_place : this room]"}
+{"id":5378,"utt":"s.","annot_utt":"s."}
+{"id":11442,"utt":"please play the latest bill simmons podcast","annot_utt":"please play the latest [person : bill simmons] podcast"}
+{"id":1247,"utt":"i need to know if mr. pizza delivers","annot_utt":"i need to know if [business_name : mr. pizza] [order_type : delivers]"}
+{"id":14071,"utt":"tell me what i wore yesterday","annot_utt":"tell me what i wore [date : yesterday]"}
+{"id":5758,"utt":"how's the weather in the capital city","annot_utt":"how's the weather in [place_name : the capital city]"}
+{"id":7598,"utt":"please set a meeting to discuss terrorism with fred on the next available meeting day","annot_utt":"please set a [event_name : meeting] to [event_name : discuss terrorism] with [person : fred] on the [date : next available] meeting day"}
+{"id":2717,"utt":"i want to hear purple haze","annot_utt":"i want to hear [song_name : purple haze]"}
+{"id":12308,"utt":"book me a train ticket","annot_utt":"book me a [transport_type : train] ticket"}
+{"id":11633,"utt":"what movies are showing in cinema today","annot_utt":"what movies are showing in [business_type : cinema] [date : today]"}
+{"id":10355,"utt":"play chess","annot_utt":"play [game_name : chess]"}
+{"id":1360,"utt":"please raise the light i am not comfortable at this","annot_utt":"please raise the light i am not comfortable at this"}
+{"id":16385,"utt":"please read new emails","annot_utt":"please read new emails"}
+{"id":14553,"utt":"tell me if global warming is true","annot_utt":"tell me if global warming is true"}
+{"id":9528,"utt":"turn on some n. p. r. and play them out of my speakers","annot_utt":"turn on some [radio_name : n. p. r.] and play them out of my [device_type : speakers]"}
+{"id":11628,"utt":"where is the pharmacy in leavenworth","annot_utt":"where is the [business_type : pharmacy] in [place_name : leavenworth]"}
+{"id":8670,"utt":"remove events from calendar","annot_utt":"remove events from calendar"}
+{"id":14033,"utt":"tell me when obama was born","annot_utt":"tell me when [person : obama] was born"}
+{"id":2225,"utt":"play ella fitzgerals get happy","annot_utt":"play [artist_name : ella fitzgerals] [song_name : get happy]"}
+{"id":16271,"utt":"refresh my inbox and inform me about new emails","annot_utt":"refresh my [email_folder : inbox] and inform me about new emails"}
+{"id":13908,"utt":"can you tell me what flabbergasted means","annot_utt":"can you tell me what [definition_word : flabbergasted] means"}
+{"id":11947,"utt":"what are some restaurants near me","annot_utt":"what are some [business_type : restaurants] near me"}
+{"id":10080,"utt":"let's cook meatballs together","annot_utt":"let's cook [food_type : meatballs] together"}
+{"id":4659,"utt":"do not talk","annot_utt":"do not talk"}
+{"id":16356,"utt":"did i email tom on the subject of gun control","annot_utt":"did i email [person : tom] on the subject of gun control"}
+{"id":15321,"utt":"has anyone commented on my status","annot_utt":"has anyone commented on my status"}
+{"id":2167,"utt":"get me up in half an hour","annot_utt":"get me up in [time : half an hour]"}
+{"id":11279,"utt":"go to the podcast and play the next episode in friends","annot_utt":"go to the podcast and play the [podcast_descriptor : next episode] in [podcast_name : friends]"}
+{"id":3570,"utt":"please turn off the lights in patio","annot_utt":"please turn off the lights in [house_place : patio]"}
+{"id":348,"utt":"will it rain tomorrow","annot_utt":"will it [weather_descriptor : rain] [date : tomorrow]"}
+{"id":2166,"utt":"set an alarm for tomorrow at six in the morning","annot_utt":"set an alarm for [date : tomorrow] at [time : six] in the [timeofday : morning]"}
+{"id":1404,"utt":"can i please have the weather for tomorrow here in costa mesa","annot_utt":"can i please have the weather for [date : tomorrow] here in [place_name : costa mesa]"}
+{"id":585,"utt":"show latest news","annot_utt":"show latest news"}
+{"id":10525,"utt":"remove my car payment on my calendar","annot_utt":"remove my car payment on my calendar"}
+{"id":7289,"utt":"get rid of all events with jeff","annot_utt":"get rid of all events with [person : jeff]"}
+{"id":5590,"utt":"open temperature","annot_utt":"open [weather_descriptor : temperature]"}
+{"id":891,"utt":"play some christian music","annot_utt":"play some [music_descriptor : christian] music"}
+{"id":11904,"utt":"what's going on around here this weekend","annot_utt":"what's going on around here [date : this weekend]"}
+{"id":12281,"utt":"please book a train ticket from london to manchester","annot_utt":"please book a [transport_type : train] ticket from [place_name : london] to [place_name : manchester]"}
+{"id":7927,"utt":"what do i have to do this week","annot_utt":"what do i have to do [date : this week]"}
+{"id":8967,"utt":"remind me two days before my wife birthday","annot_utt":"remind me two days before my [relation : wife] [event_name : birthday]"}
+{"id":15987,"utt":"add this new email with contact","annot_utt":"add this new email with contact"}
+{"id":5043,"utt":"set my alarm for twelve p. m.","annot_utt":"set my alarm for [time : twelve p. m.]"}
+{"id":16170,"utt":"open inbox to check unread mails","annot_utt":"open [email_folder : inbox] to check unread mails"}
+{"id":9706,"utt":"play jingle bells","annot_utt":"play [song_name : jingle bells]"}
+{"id":2709,"utt":"olly i need to hear some sad songs today","annot_utt":"olly i need to hear some [music_genre : sad songs] [date : today]"}
+{"id":5127,"utt":"here's the truth about meals on wheels in someone's budget","annot_utt":"here's the truth about meals on wheels in someone's budget"}
+{"id":15670,"utt":"send a complaint tweet","annot_utt":"send a complaint [media_type : tweet]"}
+{"id":11858,"utt":"movies with good reviews","annot_utt":"movies with good reviews"}
+{"id":2798,"utt":"alexa play song over the rainbow","annot_utt":"alexa play song [song_name : over the rainbow]"}
+{"id":10381,"utt":"start a competitive crossword for us","annot_utt":"start a [game_name : competitive crossword] for us"}
+{"id":9924,"utt":"tell me the recipe of","annot_utt":"tell me the recipe of"}
+{"id":12532,"utt":"lead the way to the place","annot_utt":"lead the way to the place"}
+{"id":2174,"utt":"who is the singer of hotel california","annot_utt":"who is the singer of [song_name : hotel california]"}
+{"id":178,"utt":"tell me international news","annot_utt":"tell me [place_name : international] news"}
+{"id":15723,"utt":"set feeling happy status on facebook","annot_utt":"set feeling happy status on [media_type : facebook]"}
+{"id":8679,"utt":"is today saint patricks day","annot_utt":"is [date : today] [event_name : saint patricks day]"}
+{"id":9138,"utt":"when does the super bowl officially start","annot_utt":"when does the [event_name : super bowl] officially start"}
+{"id":6663,"utt":"vacation spots","annot_utt":"vacation spots"}
+{"id":7730,"utt":"i need you to mark next monday","annot_utt":"i need you to mark next [date : monday]"}
+{"id":14817,"utt":"his hardword is properly quead","annot_utt":"his hardword is properly quead"}
+{"id":16749,"utt":"are their any new emails for me today","annot_utt":"are their any new emails for me [date : today]"}
+{"id":13714,"utt":"what is a mango","annot_utt":"what is a [definition_word : mango]"}
+{"id":15487,"utt":"tweet kohls about the cleanliness of their store","annot_utt":"[media_type : tweet] [business_name : kohls] about the cleanliness of their store"}
+{"id":11664,"utt":"olly i'm looking for a bar do you know a good one","annot_utt":"olly i'm looking for a [business_type : bar] do you know a good one"}
+{"id":13780,"utt":"is steph curry married","annot_utt":"is [person : steph curry] married"}
+{"id":7569,"utt":"plan for tomorrow","annot_utt":"plan for [date : tomorrow]"}
+{"id":16354,"utt":"check for emails from my employer","annot_utt":"check for emails from my [relation : employer]"}
+{"id":16880,"utt":"email jerry regarding the meeting","annot_utt":"email [person : jerry] regarding the [event_name : meeting]"}
+{"id":9930,"utt":"how long should i boil the egg","annot_utt":"how long should i [cooking_type : boil] the [food_type : egg]"}
+{"id":15456,"utt":"i want to send a tweet to united airlines i'm angry you lost my bags","annot_utt":"i want to send a [media_type : tweet] to [business_name : united airlines] i'm angry you lost my bags"}
+{"id":4667,"utt":"current time in","annot_utt":"current time in"}
+{"id":11920,"utt":"what movies are out this week","annot_utt":"what movies are out [date : this week]"}
+{"id":7500,"utt":"can you delete the next event","annot_utt":"can you delete the next event"}
+{"id":16050,"utt":"check gmail","annot_utt":"check gmail"}
+{"id":6550,"utt":"i got promoted today it feels so good","annot_utt":"i got promoted [date : today] it feels so good"}
+{"id":11505,"utt":"replay my last played podcast","annot_utt":"[player_setting : replay] my last played podcast"}
+{"id":5196,"utt":"i want to know about the brexit","annot_utt":"i want to know about [news_topic : the brexit]"}
+{"id":4934,"utt":"what time is my domino's order expected to arrive","annot_utt":"what time is my [business_name : domino's] order expected to arrive"}
+{"id":4043,"utt":"run the vacuum","annot_utt":"run the [device_type : vacuum]"}
+{"id":651,"utt":"turn off room lights","annot_utt":"turn off [house_place : room] lights"}
+{"id":6434,"utt":"can you tell me a little about yourself","annot_utt":"can you tell me a little about yourself"}
+{"id":9254,"utt":"please tune nine hundred and thirty eight f. m. radio mirchi","annot_utt":"please tune [radio_name : nine hundred and thirty eight f. m.] radio mirchi"}
+{"id":11261,"utt":"next","annot_utt":"next"}
+{"id":8857,"utt":"remind upcoming meeting with eminem","annot_utt":"remind upcoming [event_name : meeting] with [person : eminem]"}
+{"id":8828,"utt":"is calendar event true","annot_utt":"is calendar event true"}
+{"id":10640,"utt":"add detergent to the list of things i need to buy","annot_utt":"add detergent to the list of [list_name : things i need to buy]"}
+{"id":7808,"utt":"remind me i take mom to the hairdresser's thursday at one thousand one hundred am","annot_utt":"remind me i take [relation : mom] to the [relation : hairdresser's] [date : thursday] at [time : one thousand one hundred am]"}
+{"id":15457,"utt":"i had a problem with my burger can you tweet bk","annot_utt":"i had a problem with my burger can you [media_type : tweet] [business_name : bk]"}
+{"id":12343,"utt":"check time of ten thousand eight hundred and eighty seven train from luni station on tuesday","annot_utt":"check time of [transport_name : ten thousand eight hundred and eighty seven] [transport_type : train] from [place_name : luni station] on [date : tuesday]"}
+{"id":11903,"utt":"search for local shops","annot_utt":"search for local shops"}
+{"id":3401,"utt":"play the most popular elton john song","annot_utt":"play the most popular [artist_name : elton john] song"}
+{"id":1144,"utt":"i need some rap","annot_utt":"i need some [music_genre : rap]"}
+{"id":4673,"utt":"please list all my alarms","annot_utt":"please list all my alarms"}
+{"id":1238,"utt":"pandora","annot_utt":"pandora"}
+{"id":3936,"utt":"what is the temperature","annot_utt":"what is the [weather_descriptor : temperature]"}
+{"id":9896,"utt":"start chapter five of physics for future presidents","annot_utt":"[player_setting : start chapter five] of [audiobook_name : physics for future presidents]"}
+{"id":6410,"utt":"what's happening in france today","annot_utt":"what's happening in [place_name : france] [date : today]"}
+{"id":1833,"utt":"can you loop the playlist themes","annot_utt":"can you loop the playlist [playlist_name : themes]"}
+{"id":17156,"utt":"check my email for any new email from joe","annot_utt":"check my email for any new email from [person : joe]"}
+{"id":6093,"utt":"should i open the sun roof","annot_utt":"should i [weather_descriptor : open the sun roof]"}
+{"id":14040,"utt":"how tall is hulk hogan","annot_utt":"how tall is hulk hogan"}
+{"id":5014,"utt":"can you make the room brighter","annot_utt":"can you make the [house_place : room] brighter"}
+{"id":4119,"utt":"i want to know everything that breaks about the dam breaking in california","annot_utt":"i want to know everything that breaks about the dam breaking in [place_name : california]"}
+{"id":16399,"utt":"have i gotten any new email","annot_utt":"have i gotten any new email"}
+{"id":4998,"utt":"add this song for the next playing song","annot_utt":"add this song for the next playing song"}
+{"id":5358,"utt":"update to current time","annot_utt":"update to current time"}
+{"id":16529,"utt":"check mom's number","annot_utt":"check [relation : mom's] number"}
+{"id":6353,"utt":"i need to buy gas","annot_utt":"i need to buy gas"}
+{"id":15467,"utt":"tell comcast i hate them","annot_utt":"tell [business_name : comcast] i hate them"}
+{"id":2795,"utt":"silence speakers","annot_utt":"silence speakers"}
+{"id":4272,"utt":"my coffee is cold please make more coffee","annot_utt":"my coffee is cold please make more coffee"}
+{"id":3513,"utt":"play only my list","annot_utt":"play only my list"}
+{"id":6923,"utt":"set reminder to print the documents on tuesday morning","annot_utt":"set reminder to [event_name : print the documents] on [date : tuesday] [timeofday : morning]"}
+{"id":14101,"utt":"what's jlo up to","annot_utt":"what's [person : jlo] up to"}
+{"id":5797,"utt":"should i wear raincoat before getting out","annot_utt":"should i wear [weather_descriptor : raincoat] before getting out"}
+{"id":14857,"utt":"could you explain the meaning of exorbitant for me please","annot_utt":"could you explain the meaning of [definition_word : exorbitant] for me please"}
+{"id":10600,"utt":"please update my grocery list with one gallon of two percent milk","annot_utt":"please update my [list_name : grocery] list with one gallon of two percent milk"}
+{"id":6542,"utt":"is soft cheese better than hard","annot_utt":"is [food_type : soft cheese] better than hard"}
+{"id":8276,"utt":"remove my next scheduled appointment please","annot_utt":"remove my next scheduled [event_name : appointment] please"}
+{"id":2354,"utt":"which type of music it is","annot_utt":"which type of music it is"}
+{"id":7609,"utt":"remove meeting reminder for tuesday","annot_utt":"remove [event_name : meeting] reminder for [date : tuesday]"}
+{"id":2198,"utt":"what day of the week was december four one thousand nine hundred and eighty two","annot_utt":"what day of the week was [date : december four one thousand nine hundred and eighty two]"}
+{"id":5678,"utt":"august fifteenth is what day of the week","annot_utt":"[date : august fifteenth] is what day of the week"}
+{"id":1593,"utt":"set notification from world news","annot_utt":"set notification from [media_type : world news]"}
+{"id":1778,"utt":"please dim the lights","annot_utt":"please dim the lights"}
+{"id":4692,"utt":"play me a song by van halen","annot_utt":"play me a song by [artist_name : van halen]"}
+{"id":10772,"utt":"remove my dentist's appointment from today's schedule","annot_utt":"remove my [event_name : dentist's appointment] from [date : today's] schedule"}
+{"id":8116,"utt":"during the timeframe of february one and march sixteen what meetings occurred","annot_utt":"during the timeframe of [date : february one and march sixteen] what [event_name : meetings] occurred"}
+{"id":15707,"utt":"lets send a tweet","annot_utt":"lets send a [media_type : tweet]"}
+{"id":10579,"utt":"reset my locations list","annot_utt":"reset my [list_name : locations] list"}
+{"id":3029,"utt":"i hate this song","annot_utt":"i hate this song"}
+{"id":11969,"utt":"is there anything special going on nearby","annot_utt":"is there anything special going on nearby"}
+{"id":9943,"utt":"how long does it take to make vegetable lasagna","annot_utt":"how long does it take to make [food_type : vegetable lasagna]"}
+{"id":12957,"utt":"define elaborate","annot_utt":"define [definition_word : elaborate]"}
+{"id":3780,"utt":"play my midnight love playlist","annot_utt":"play my [playlist_name : midnight love] playlist"}
+{"id":15109,"utt":"siri please check exchange rates","annot_utt":"siri please check exchange rates"}
+{"id":8426,"utt":"tell me current events between yesterday and this morning","annot_utt":"tell me current events between [date : yesterday] and this [timeofday : morning]"}
+{"id":2094,"utt":"what is the music playing right now","annot_utt":"what is the music playing right now"}
+{"id":1076,"utt":"do not play rock metal","annot_utt":"do not play [music_genre : rock metal]"}
+{"id":10081,"utt":"tell me how to cook meatballs","annot_utt":"tell me how to cook [food_type : meatballs]"}
+{"id":6562,"utt":"math","annot_utt":"math"}
+{"id":15137,"utt":"become a helicopter","annot_utt":"become a helicopter"}
+{"id":5279,"utt":"please play only sad song in music player","annot_utt":"please play only [music_descriptor : sad] song in [device_type : music player]"}
+{"id":3915,"utt":"this is a good tune please notate file accordingly","annot_utt":"this is a good tune please notate file accordingly"}
+{"id":14592,"utt":"give me the description of a smartphone circuit","annot_utt":"give me the description of a [definition_word : smartphone circuit]"}
+{"id":533,"utt":"set an alarm for nine am","annot_utt":"set an alarm for [time : nine am]"}
+{"id":15946,"utt":"find john smith in contacts","annot_utt":"find [person : john smith] in contacts"}
+{"id":4232,"utt":"play sleepyhead by passion pit","annot_utt":"play [song_name : sleepyhead] by [artist_name : passion pit]"}
+{"id":5732,"utt":"shall i change my car tires to snow tires soon","annot_utt":"shall i change my car tires to [weather_descriptor : snow tires] soon"}
+{"id":12054,"utt":"what's happening around town","annot_utt":"what's happening [place_name : around town]"}
+{"id":13102,"utt":"how much is one plus one","annot_utt":"how much is one plus one"}
+{"id":16938,"utt":"reply to johns email","annot_utt":"reply to [person : johns] email"}
+{"id":12162,"utt":"can you book a train ticket","annot_utt":"can you book a [transport_type : train] ticket"}
+{"id":7777,"utt":"do i have an appointment today","annot_utt":"do i have an [event_name : appointment] [date : today]"}
+{"id":8085,"utt":"i'd like to set a date for this week","annot_utt":"i'd like to set a date for [date : this week]"}
+{"id":8289,"utt":"set a reminder about todays faculty meeting at four","annot_utt":"set a reminder about [date : todays] [event_name : faculty meeting] at [time : four]"}
+{"id":12159,"utt":"can you book an uber for me","annot_utt":"can you book an [transport_agency : uber] for me"}
+{"id":15652,"utt":"help complaint to consumer service","annot_utt":"help complaint to [business_name : consumer service]"}
+{"id":14889,"utt":"please describe that object for me","annot_utt":"please describe that object for me"}
+{"id":4449,"utt":"is it going to rain at one p. m. today","annot_utt":"is it [weather_descriptor : going to rain] at [time : one p. m.] [date : today]"}
+{"id":2711,"utt":"shut the lights off","annot_utt":"shut the lights off"}
+{"id":15459,"utt":"send a twitter complaint","annot_utt":"send a [media_type : twitter] complaint"}
+{"id":12717,"utt":"what is the traffic like now","annot_utt":"what is the traffic like now"}
+{"id":6426,"utt":"technology","annot_utt":"technology"}
+{"id":15304,"utt":"has anyone follow me today on twitter today","annot_utt":"has anyone follow me today on [media_type : twitter] [date : today]"}
+{"id":14053,"utt":"what year did george clooney start acting","annot_utt":"what year did [person : george clooney] start acting"}
+{"id":15333,"utt":"anything new on insta","annot_utt":"anything new on [media_type : insta]"}
+{"id":10166,"utt":"look for apple pie recipe","annot_utt":"look for [food_type : apple pie] recipe"}
+{"id":4767,"utt":"is there any new information regarding the mexican american border wall","annot_utt":"is there any new information regarding [news_topic : the mexican american border wall]"}
+{"id":4241,"utt":"please stop talking","annot_utt":"please stop talking"}
+{"id":9961,"utt":"what is the best oven temperature to roast potatoes","annot_utt":"what is the best oven temperature to [cooking_type : roast] [ingredient : potatoes]"}
+{"id":2403,"utt":"give me more light","annot_utt":"give me more light"}
+{"id":5970,"utt":"i want you to play bohemian raphsody for me","annot_utt":"i want you to play [song_name : bohemian raphsody] for me"}
+{"id":8694,"utt":"the event will include walter and gemma","annot_utt":"the event will include [person : walter] and [person : gemma]"}
+{"id":13863,"utt":"what is the definition of logic","annot_utt":"what is the definition of [definition_word : logic]"}
+{"id":10105,"utt":"how long should i cook a steak to achieve medium rare","annot_utt":"how long should i cook a [food_type : steak] to achieve medium rare"}
+{"id":3993,"utt":"can you make the lights go out","annot_utt":"can you make the lights go out"}
+{"id":7295,"utt":"please clear my calendar","annot_utt":"please [time : clear] my calendar"}
+{"id":8985,"utt":"ok google delete eric's b. day from the calendar","annot_utt":"ok google delete [event_name : eric's b. day] from the calendar"}
+{"id":1043,"utt":"call the nearest thai restaurant with delivery","annot_utt":"call the nearest [food_type : thai] [business_type : restaurant] with [order_type : delivery]"}
+{"id":391,"utt":"play a random song from my playlist","annot_utt":"play a random song from my playlist"}
+{"id":3321,"utt":"please make me a cup of coffee","annot_utt":"please make me a cup of coffee"}
+{"id":12824,"utt":"list all train times to ny","annot_utt":"list all [transport_type : train] times to [place_name : ny]"}
+{"id":974,"utt":"what time is it in new york now","annot_utt":"what time is it in [place_name : new york] now"}
+{"id":14223,"utt":"answer for three times four","annot_utt":"answer for three times four"}
+{"id":12413,"utt":"what is the current traffic situation","annot_utt":"what is the current traffic situation"}
+{"id":16297,"utt":"send an email to jake to tell him thank you","annot_utt":"send an email to [person : jake] to tell him thank you"}
+{"id":17151,"utt":"my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id","annot_utt":"my [relation : friend] [person : john] has sent me a invitation card to his newly bought home say thanks to him in his mail id"}
+{"id":3714,"utt":"play my playlist starting from the bottom","annot_utt":"play my playlist starting from the bottom"}
+{"id":10843,"utt":"remove milk from my grocery list","annot_utt":"remove milk from my [list_name : grocery] list"}
+{"id":9202,"utt":"play my radio station","annot_utt":"play my radio station"}
+{"id":1581,"utt":"what is the current day month and year","annot_utt":"what is the current day month and year"}
+{"id":564,"utt":"change light color","annot_utt":"change light color"}
+{"id":17157,"utt":"do i have any new email from joe","annot_utt":"do i have any new email from [person : joe]"}
+{"id":13186,"utt":"i need to talk to mom","annot_utt":"i need to talk to [relation : mom]"}
+{"id":1108,"utt":"my desire is to listen to some country music","annot_utt":"my desire is to listen to some [music_genre : country] music"}
+{"id":14706,"utt":"where does sophia vergara live","annot_utt":"where does [person : sophia vergara] live"}
+{"id":5245,"utt":"set environmental news notification","annot_utt":"set [news_topic : environmental] news notification"}
+{"id":10097,"utt":"i would like a cheeseburger","annot_utt":"i would like a [food_type : cheeseburger]"}
+{"id":11140,"utt":"set list","annot_utt":"set list"}
+{"id":16045,"utt":"send mail to ismail for office opening time table","annot_utt":"send mail to [person : ismail] for office opening time table"}
+{"id":10171,"utt":"what's the recipe for fish soup","annot_utt":"what's the recipe for [food_type : fish soup]"}
+{"id":299,"utt":"what is the weather","annot_utt":"what is the weather"}
+{"id":15214,"utt":"what is the news today","annot_utt":"what is the news [date : today]"}
+{"id":491,"utt":"is it cold outside","annot_utt":"is it [weather_descriptor : cold] outside"}
+{"id":6194,"utt":"how's the weather today","annot_utt":"how's the weather [date : today]"}
+{"id":5157,"utt":"olly turn the light off in the living room","annot_utt":"olly turn the light off in the [house_place : living room]"}
+{"id":11426,"utt":"most viewed list","annot_utt":"most viewed list"}
+{"id":8791,"utt":"more information on this event","annot_utt":"more information on this event"}
+{"id":17098,"utt":"show me any emails received in the last hour","annot_utt":"show me any emails received in the [time : last hour]"}
+{"id":5840,"utt":"i need to order some food from papa john's","annot_utt":"i need to order some food from [business_name : papa john's]"}
+{"id":13383,"utt":"how many states have the death penalty","annot_utt":"how many states have the death penalty"}
+{"id":4813,"utt":"what is the time in another city","annot_utt":"what is the time in [place_name : another city]"}
+{"id":11695,"utt":"do you have any suggestion action movies","annot_utt":"do you have any suggestion [movie_type : action] movies"}
+{"id":11922,"utt":"please look up local restaurants that are open now","annot_utt":"please look up local [business_type : restaurants] that are open now"}
+{"id":6964,"utt":"can you remind my next meeting with my boss one hour before it will happen","annot_utt":"can you remind my next [event_name : meeting] with my [relation : boss] [time : one hour] before it will happen"}
+{"id":4953,"utt":"news of the train wreck","annot_utt":"news of the [news_topic : train wreck]"}
+{"id":12759,"utt":"driving time to los angeles","annot_utt":"driving time to [place_name : los angeles]"}
+{"id":14668,"utt":"describe item xy","annot_utt":"describe item xy"}
+{"id":8822,"utt":"info of the upcoming events","annot_utt":"info of the upcoming events"}
+{"id":13867,"utt":"where is yosemite park","annot_utt":"where is [place_name : yosemite park]"}
+{"id":2781,"utt":"please play some jazz music","annot_utt":"please play some [music_genre : jazz music]"}
+{"id":6295,"utt":"i hate how long the traffic jams get","annot_utt":"i hate how [time : long] the traffic jams get"}
+{"id":16401,"utt":"text an email to donna hey what are you doing today","annot_utt":"text an email to [person : donna] hey what are you doing [date : today]"}
+{"id":3426,"utt":"what degree is it outside","annot_utt":"what [weather_descriptor : degree] is it outside"}
+{"id":16061,"utt":"have i received any emails in the last ten minutes","annot_utt":"have i received any emails in the [time : last ten minutes]"}
+{"id":12051,"utt":"i need to find a gift what stores are within a one mile radius","annot_utt":"i need to find [business_type : a gift] what [business_type : stores] are [place_name : within a one mile radius]"}
+{"id":10366,"utt":"we should play nfs at high speed","annot_utt":"we should play [game_name : nfs] at high speed"}
+{"id":951,"utt":"what's the weather like right now in new york","annot_utt":"what's the weather like right now in [place_name : new york]"}
+{"id":12430,"utt":"tell me the train arrival time to new york","annot_utt":"tell me the [transport_type : train] arrival time to [place_name : new york]"}
+{"id":7219,"utt":"did you place the reminder about the meeting for tomorrow","annot_utt":"did you place the reminder about the [event_name : meeting] for [date : tomorrow]"}
+{"id":15337,"utt":"post this video to facebook","annot_utt":"post this video to [media_type : facebook]"}
+{"id":11554,"utt":"i want you to play the podcast","annot_utt":"i want you to play the podcast"}
+{"id":9977,"utt":"please search the internet and display the suitable youtube videos for cooking italian foods","annot_utt":"please search the internet and display the suitable [media_type : youtube videos] for cooking [food_type : italian] foods"}
+{"id":6301,"utt":"what's shakin bacon","annot_utt":"what's [food_type : shakin bacon]"}
+{"id":11514,"utt":"olly can we listen to reply all podcast","annot_utt":"olly can we listen to reply all podcast"}
+{"id":12873,"utt":"train ticket","annot_utt":"[transport_type : train] ticket"}
+{"id":16263,"utt":"did i receive any new email from robert","annot_utt":"did i receive any new email from [person : robert]"}
+{"id":6045,"utt":"add selected song","annot_utt":"add selected song"}
+{"id":5051,"utt":"make a new alarm","annot_utt":"make a new alarm"}
+{"id":1786,"utt":"switch off the master's bedroom","annot_utt":"switch off the [house_place : master's bedroom]"}
+{"id":8343,"utt":"is it wednesday","annot_utt":"is it [date : wednesday]"}
+{"id":437,"utt":"open bad religion folder","annot_utt":"open [artist_name : bad religion] folder"}
+{"id":4145,"utt":"what alarms did i set today","annot_utt":"what alarms did i set [date : today]"}
+{"id":12392,"utt":"tell me today's direction","annot_utt":"tell me [date : today's] direction"}
+{"id":10938,"utt":"please add sugar to my grocery list","annot_utt":"please add sugar to my [list_name : grocery] list"}
+{"id":10497,"utt":"may i have a list of five star hotels in paris","annot_utt":"may i have a list of [list_name : five star hotels] in [place_name : paris]"}
+{"id":9897,"utt":"playback tom clancy splinter cell","annot_utt":"[player_setting : playback] [audiobook_author : tom clancy] [audiobook_name : splinter cell]"}
+{"id":4710,"utt":"what day is halloween this year","annot_utt":"what day is [event_name : halloween] [date : this year]"}
+{"id":5250,"utt":"title of song","annot_utt":"title of song"}
+{"id":15280,"utt":"facebook","annot_utt":"[media_type : facebook]"}
+{"id":12608,"utt":"schedule taxi pickup for monday at noon","annot_utt":"schedule [transport_type : taxi] pickup for [date : monday] at [timeofday : noon]"}
+{"id":9895,"utt":"keep playing secret garden","annot_utt":"[player_setting : keep playing] [audiobook_name : secret garden]"}
+{"id":11570,"utt":"what's happening around my town","annot_utt":"what's happening around my [place_name : town]"}
+{"id":1351,"utt":"will it be nice outside this week","annot_utt":"will it be [weather_descriptor : nice] outside [date : this week]"}
+{"id":10673,"utt":"please remove the following list","annot_utt":"please remove the following list"}
+{"id":15829,"utt":"go to contacts and enter a new email address","annot_utt":"go to contacts and enter a new email address"}
+{"id":1252,"utt":"tell me the current time","annot_utt":"tell me the current time"}
+{"id":5577,"utt":"i will require full cover jacket if it is too stormy in evening","annot_utt":"i will require [weather_descriptor : full cover jacket] if it is [weather_descriptor : too stormy] in [timeofday : evening]"}
+{"id":1831,"utt":"order one pizza from pizza hut","annot_utt":"order one [food_type : pizza] from [business_name : pizza hut]"}
+{"id":1090,"utt":"can you increase the brightness in the room","annot_utt":"can you increase the brightness in the [house_place : room]"}
+{"id":85,"utt":"tell me today's date","annot_utt":"tell me [date : today's] date"}
+{"id":1266,"utt":"if it's five am in berlin what time is it here","annot_utt":"if it's [time : five am] in [place_name : berlin] what time is it here"}
+{"id":9506,"utt":"olly let's hear wgrr one hundred and three point five","annot_utt":"olly let's hear [radio_name : wgrr one hundred and three point five]"}
+{"id":8535,"utt":"will you remind me of the dentist appointment i have in two hours","annot_utt":"will you remind me of the [event_name : dentist appointment] i have in [time : two hours]"}
+{"id":16713,"utt":"please check my emails and notify me if exists any new email","annot_utt":"please check my emails and notify me if exists any new email"}
+{"id":10792,"utt":"i need to make a list","annot_utt":"i need to make a list"}
+{"id":5038,"utt":"what is the weather for this week","annot_utt":"what is the weather for [date : this week]"}
+{"id":1589,"utt":"is it going to be sunny next tuesday","annot_utt":"is it going to be [weather_descriptor : sunny] next [date : tuesday]"}
+{"id":5243,"utt":"siri please turn the lights off in the bathroom","annot_utt":"siri please turn the lights off in the [house_place : bathroom]"}
+{"id":10357,"utt":"play game","annot_utt":"play game"}
+{"id":8846,"utt":"do i have anything set for the fourth of july this year","annot_utt":"do i have anything set for [date : the fourth of july this year]"}
+{"id":16983,"utt":"do we have morgan's office's number","annot_utt":"do we have [person : morgan's] [personal_info : office's number]"}
+{"id":10568,"utt":"remove the old music list","annot_utt":"remove the [list_name : old music] list"}
+{"id":11306,"utt":"play that podcast i was listening to yesterday","annot_utt":"play that podcast i was [podcast_descriptor : listening to yesterday]"}
+{"id":14601,"utt":"for how many years was abraham lincoln president of united states","annot_utt":"for how many years was abraham lincoln president of united states"}
+{"id":5324,"utt":"hey do you have home delivery","annot_utt":"hey do you have home [order_type : delivery]"}
+{"id":5349,"utt":"olly give me some dim light","annot_utt":"olly give me some dim light"}
+{"id":177,"utt":"tell me some business news","annot_utt":"tell me some [news_topic : business] news"}
+{"id":11409,"utt":"please skip to the next podcast episode","annot_utt":"please skip to the [podcast_descriptor : next podcast episode]"}
+{"id":1692,"utt":"find some smooth jazz for me","annot_utt":"find some [music_genre : smooth jazz] for me"}
+{"id":14029,"utt":"what is the us dollar and euro exchange rate","annot_utt":"what is the [currency_name : us dollar] and [currency_name : euro] exchange rate"}
+{"id":1123,"utt":"next play justin bieber's sorry","annot_utt":"next play [artist_name : justin bieber's] [song_name : sorry]"}
+{"id":5347,"utt":"play techno music","annot_utt":"play [music_genre : techno] music"}
+{"id":1042,"utt":"open the folder app please","annot_utt":"open the folder app please"}
+{"id":13554,"utt":"how tall is brad pitt","annot_utt":"how tall is [person : brad pitt]"}
+{"id":16627,"utt":"check most current emails","annot_utt":"check most current emails"}
+{"id":7726,"utt":"i need to something every monday set a reminder for it","annot_utt":"i need to something [general_frequency : every monday] set a reminder for it"}
+{"id":8345,"utt":"let me know when the meeting is gonna happen","annot_utt":"let me know when the [event_name : meeting] is gonna happen"}
+{"id":7912,"utt":"alexa remove dinner with mike from my calendar","annot_utt":"alexa remove [meal_type : dinner] with [person : mike] from my calendar"}
+{"id":3631,"utt":"hey google play some jazz music for me","annot_utt":"hey google play some [music_genre : jazz] music for me"}
+{"id":11959,"utt":"tell me what shops are nearby","annot_utt":"tell me what [business_type : shops] are nearby"}
+{"id":8992,"utt":"show meetings","annot_utt":"show [event_name : meetings]"}
+{"id":4249,"utt":"house can you make all the lights in the house blue","annot_utt":"house can you make all the lights in the [house_place : house] [color_type : blue]"}
+{"id":4428,"utt":"identify song","annot_utt":"identify song"}
+{"id":16851,"utt":"email notifications","annot_utt":"email notifications"}
+{"id":5650,"utt":"ask for the weather today evening","annot_utt":"ask for the weather [date : today] [timeofday : evening]"}
+{"id":10224,"utt":"it must be taste","annot_utt":"it must be taste"}
+{"id":16357,"utt":"has tom emailed me about ammunition","annot_utt":"has [person : tom] emailed me about ammunition"}
+{"id":2578,"utt":"turn off the porch light","annot_utt":"turn off the [house_place : porch] light"}
+{"id":6116,"utt":"info on this week weather","annot_utt":"info on [date : this week] weather"}
+{"id":13115,"utt":"what is the capital of nigeria","annot_utt":"what is the capital of [place_name : nigeria]"}
+{"id":4336,"utt":"what is the time in china","annot_utt":"what is the time in [place_name : china]"}
+{"id":15995,"utt":"email karen about the budget meeting","annot_utt":"email [person : karen] about the [event_name : budget meeting]"}
+{"id":50,"utt":"olly tell me the time in g. m. t. plus five","annot_utt":"olly tell me the time in [time_zone : g. m. t. plus five]"}
+{"id":6909,"utt":"what is happening after one and before three p. m.","annot_utt":"what is happening [time : after one] and [time : before three p. m.]"}
+{"id":6411,"utt":"what's the weather next wednesday","annot_utt":"what's the weather next [date : wednesday]"}
+{"id":12453,"utt":"book train best deal","annot_utt":"book [transport_type : train] best deal"}
+{"id":6533,"utt":"are you happy","annot_utt":"are you happy"}
+{"id":13348,"utt":"i need to ask you how many angels can dance on a pinhead","annot_utt":"i need to ask you how many angels can dance on a pinhead"}
+{"id":10759,"utt":"read me my list for shopping","annot_utt":"read me my list for [list_name : shopping]"}
+{"id":13591,"utt":"what is the capitol of west virginia","annot_utt":"what is the capitol of [place_name : west virginia]"}
+{"id":940,"utt":"turn my morning alarm on","annot_utt":"turn my [timeofday : morning] alarm on"}
+{"id":7046,"utt":"add tal meeting on twenty first at seven","annot_utt":"add [event_name : tal meeting] on [date : twenty first] at [time : seven]"}
+{"id":4589,"utt":"set a notification for sports game","annot_utt":"set a notification for [event_name : sports game]"}
+{"id":6578,"utt":"love","annot_utt":"love"}
+{"id":451,"utt":"get me the latest stock price for costco","annot_utt":"get me the latest [news_topic : stock price for costco]"}
+{"id":4152,"utt":"please play the song every time i see you","annot_utt":"please play the song [song_name : every time i see you]"}
+{"id":7844,"utt":"what reminders did i set","annot_utt":"what reminders did i set"}
+{"id":14761,"utt":"give me the definition for the word pontificate","annot_utt":"give me the definition for the word [definition_word : pontificate]"}
+{"id":448,"utt":"run coffee maker","annot_utt":"run [device_type : coffee maker]"}
+{"id":13206,"utt":"location","annot_utt":"location"}
+{"id":14505,"utt":"who is the current prime minister of russia","annot_utt":"who is the current prime minister of [place_name : russia]"}
+{"id":9363,"utt":"let's play hits on the radio","annot_utt":"let's play hits on the radio"}
+{"id":2062,"utt":"i want some jazz music to play","annot_utt":"i want some [music_genre : jazz] music to play"}
+{"id":14473,"utt":"open stock price for name","annot_utt":"open stock price for name"}
+{"id":13819,"utt":"what happened to the dow jones today","annot_utt":"what happened to the dow jones [date : today]"}
+{"id":12672,"utt":"how is traffic in city","annot_utt":"how is traffic in city"}
+{"id":11636,"utt":"what movies are going around me","annot_utt":"what movies are going around me"}
+{"id":6967,"utt":"can you check the facts on this issue","annot_utt":"can you check the facts on this issue"}
+{"id":7353,"utt":"just let me know next weeks weather in california","annot_utt":"just let me know [time : next weeks] weather in [place_name : california]"}
+{"id":1513,"utt":"what's the temperature outside","annot_utt":"what's the [weather_descriptor : temperature] outside"}
+{"id":6438,"utt":"today i searched all over for my phone and couldn't find it","annot_utt":"[date : today] i searched all over for my phone and couldn't find it"}
+{"id":7080,"utt":"cancel everything on my calendar","annot_utt":"cancel everything on my calendar"}
+{"id":8004,"utt":"dorothy needs to talk to me about our divorce can you please set up a meeting as soon as i am available","annot_utt":"[person : dorothy] needs to talk to me about our [event_name : divorce] can you please set up a [event_name : meeting] as soon as i am available"}
+{"id":17095,"utt":"what's leon's email","annot_utt":"what's [person : leon's] [personal_info : email]"}
+{"id":4253,"utt":"what's the current time in eastern standard","annot_utt":"what's the current time in [time_zone : eastern] standard"}
+{"id":16605,"utt":"write and send email to my boss","annot_utt":"write and send email to my [relation : boss]"}
+{"id":5047,"utt":"alexa please turn down the lights in the house","annot_utt":"alexa please turn down the lights in the [house_place : house]"}
+{"id":12409,"utt":"where is the nearest gas station","annot_utt":"where is the nearest [business_type : gas station]"}
+{"id":12468,"utt":"find a train ticket to philadelphia","annot_utt":"find a [transport_type : train] ticket to [place_name : philadelphia]"}
+{"id":6243,"utt":"i'm so happy today i got tickets for the concert","annot_utt":"i'm so happy [date : today] i got tickets for the [event_name : concert]"}
+{"id":1653,"utt":"when is the next time it will rain","annot_utt":"when is the next time it will [weather_descriptor : rain]"}
+{"id":3228,"utt":"what day of the week does christmas fall on this year","annot_utt":"what day of the week does [event_name : christmas] fall on [date : this year]"}
+{"id":10757,"utt":"what items are on my shopping list","annot_utt":"what items are on my [list_name : shopping] list"}
+{"id":4764,"utt":"is it going to rain on monday","annot_utt":"is it going to [weather_descriptor : rain] on [date : monday]"}
+{"id":6147,"utt":"find funny jokes","annot_utt":"find [joke_type : funny] jokes"}
+{"id":16930,"utt":"show latest email","annot_utt":"show latest email"}
+{"id":969,"utt":"news articles on a particular subject","annot_utt":"news articles on a particular subject"}
+{"id":11529,"utt":"hey play my favorite podcast from list","annot_utt":"hey play my [podcast_descriptor : favorite] podcast from list"}
+{"id":3280,"utt":"lower the lights please","annot_utt":"lower the lights please"}
+{"id":15593,"utt":"tweet complain at comcast","annot_utt":"[media_type : tweet] complain [business_name : at comcast]"}
+{"id":15166,"utt":"post my business on twitter","annot_utt":"post my business on [media_type : twitter]"}
+{"id":8741,"utt":"set an alert for two p. m.","annot_utt":"set an alert for [time : two p. m.]"}
+{"id":12675,"utt":"is traffic light","annot_utt":"is traffic light"}
+{"id":16873,"utt":"email naty for her birthday","annot_utt":"email [person : naty] for her [event_name : birthday]"}
+{"id":11124,"utt":"list items on my work list","annot_utt":"list items on my [list_name : work] list"}
+{"id":15661,"utt":"post my latest entry to twitter at n.s.a.","annot_utt":"post my latest entry to [media_type : twitter] [business_name : at n.s.a.]"}
+{"id":6162,"utt":"delete alarm","annot_utt":"delete alarm"}
+{"id":11685,"utt":"i would be happy if you update me the events going on our area","annot_utt":"i would be happy if you update me the events going on our area"}
+{"id":14981,"utt":"iphone seven description","annot_utt":"[definition_word : iphone seven] description"}
+{"id":15841,"utt":"compose a new email to ray","annot_utt":"compose a new email to [person : ray]"}
+{"id":13684,"utt":"what is the dollar price in inr","annot_utt":"what is the [currency_name : dollar] price in [currency_name : inr]"}
+{"id":6282,"utt":"lets have a chat","annot_utt":"lets have a chat"}
+{"id":2265,"utt":"tell me what the weather is doing in grand rapids mi right now","annot_utt":"tell me what the weather is doing in [place_name : grand rapids mi] right now"}
+{"id":11764,"utt":"cisco system","annot_utt":"cisco system"}
+{"id":2975,"utt":"please change the light colors to red","annot_utt":"please change the light colors to [color_type : red]"}
+{"id":14117,"utt":"where are pyramids located","annot_utt":"where are [place_name : pyramids] located"}
+{"id":1993,"utt":"can you turn up the lights","annot_utt":"can you turn up the lights"}
+{"id":362,"utt":"play the second song from anirudh's song","annot_utt":"play the second song from [artist_name : anirudh's] song"}
+{"id":1777,"utt":"next song","annot_utt":"next song"}
+{"id":4930,"utt":"turn on an alarm for three thirty p. m. today","annot_utt":"turn on an alarm for [time : three thirty p. m.] [date : today]"}
+{"id":5406,"utt":"does pings do takeaway","annot_utt":"does [business_name : pings] do [order_type : takeaway]"}
+{"id":12866,"utt":"what is the timing of bagmati express","annot_utt":"what is the timing of [transport_name : bagmati express]"}
+{"id":13391,"utt":"what's ten percent off forty dollars","annot_utt":"what's ten percent off forty dollars"}
+{"id":8013,"utt":"show me my meeting for the next month","annot_utt":"show me my [event_name : meeting] for the [date : next month]"}
+{"id":3727,"utt":"play best friends by yelawolf","annot_utt":"play [song_name : best friends] by [artist_name : yelawolf]"}
+{"id":16924,"utt":"please check my gmail for new mail","annot_utt":"please check my gmail for new mail"}
+{"id":2591,"utt":"turn up the brightness","annot_utt":"turn up the brightness"}
+{"id":6069,"utt":"are storms likely today","annot_utt":"are [weather_descriptor : storms] likely [date : today]"}
+{"id":3717,"utt":"please play my nineties rap hits","annot_utt":"please play my [music_genre : nineties rap] hits"}
+{"id":13165,"utt":"what does oscillate mean","annot_utt":"what does [definition_word : oscillate] mean"}
+{"id":5465,"utt":"can i wear my sandals today","annot_utt":"can i wear my [weather_descriptor : sandals] [date : today]"}
+{"id":14879,"utt":"meaning of","annot_utt":"meaning of"}
+{"id":5333,"utt":"time difference between u. k. and us","annot_utt":"time difference between [place_name : u. k.] and [place_name : us]"}
+{"id":14822,"utt":"to compare in people","annot_utt":"to compare in people"}
+{"id":15554,"utt":"please tweet on dell service for delay services","annot_utt":"please [media_type : tweet] on [business_name : dell service] for delay services"}
+{"id":14339,"utt":"tell me about economy and g. d. p. about india versus china","annot_utt":"tell me about economy and g. d. p. about [place_name : india] versus [place_name : china]"}
+{"id":10072,"utt":"baking times for chicken in the oven","annot_utt":"baking times for [food_type : chicken] in the [device_type : oven]"}
+{"id":13705,"utt":"what is an electronic emissions system","annot_utt":"what is an [definition_word : electronic emissions system]"}
+{"id":14622,"utt":"describe what a sphere is","annot_utt":"describe what a [definition_word : sphere] is"}
+{"id":2311,"utt":"alexa turn the lights down to seven","annot_utt":"alexa turn the lights down [change_amount : to seven]"}
+{"id":6227,"utt":"i am going to work today","annot_utt":"i am going to work [date : today]"}
+{"id":1428,"utt":"i'd like some red lighting","annot_utt":"i'd like some [color_type : red] lighting"}
+{"id":10731,"utt":"read what is on my list","annot_utt":"read what is on my list"}
+{"id":9718,"utt":"resume animal farm","annot_utt":"[player_setting : resume] [audiobook_name : animal farm]"}
+{"id":967,"utt":"can i get take-out from pf changs","annot_utt":"can i get [order_type : take-out] from [business_name : pf changs]"}
+{"id":12814,"utt":"please book a ticket form jaipur to mumbai on tuesday","annot_utt":"please book a ticket form [place_name : jaipur] to [place_name : mumbai] on [date : tuesday]"}
+{"id":11582,"utt":"is there anything happening on jazz scene around edinburgh","annot_utt":"is there anything happening on [movie_type : jazz scene] around [place_name : edinburgh]"}
+{"id":9110,"utt":"exhibition two thousand and seventeen mass on mar twenty five make a note of it on the corresponding date","annot_utt":"[event_name : exhibition two thousand and seventeen mass] on [date : mar twenty five] make a note of it on the corresponding date"}
+{"id":5974,"utt":"did i set an alarm to have tablets in the noon","annot_utt":"did i set an alarm [event_name : to have tablets] in the [timeofday : noon]"}
+{"id":9263,"utt":"open the radio app","annot_utt":"open the radio app"}
+{"id":2108,"utt":"next play summer lovin","annot_utt":"next play [song_name : summer lovin]"}
+{"id":9061,"utt":"what information do i have on reminders","annot_utt":"what information do i have on reminders"}
+{"id":16413,"utt":"show all emails sent to me from my boss","annot_utt":"show all emails sent to me from my [relation : boss]"}
+{"id":5159,"utt":"could you please play the song from the artist madonna","annot_utt":"could you please play the song from the artist [artist_name : madonna]"}
+{"id":16733,"utt":"show me the latest emails from amazon","annot_utt":"show me the latest emails from [business_name : amazon]"}
+{"id":12986,"utt":"check definition of capricious","annot_utt":"check definition of [definition_word : capricious]"}
+{"id":17111,"utt":"contact detail of paul","annot_utt":"[personal_info : contact detail] of [person : paul]"}
+{"id":5122,"utt":"check if default alarm is set","annot_utt":"check if default alarm is set"}
+{"id":14597,"utt":"what is the population of new york","annot_utt":"what is the population of [place_name : new york]"}
+{"id":4189,"utt":"what would you call this kind of music that we're listening to","annot_utt":"what would you call this kind of music that we're listening to"}
+{"id":13178,"utt":"remind me to contact old friends that i have not talked with in six months before they pass","annot_utt":"remind me to contact old friends that i have not talked with in six months before they pass"}
+{"id":16098,"utt":"check unread emails from amy","annot_utt":"check unread emails from [person : amy]"}
+{"id":16883,"utt":"send an email to jerry ask what time will he be home tonight","annot_utt":"send an email to [person : jerry] ask what time will he be home [timeofday : tonight]"}
+{"id":12419,"utt":"fastest route to turiellos","annot_utt":"fastest route to [place_name : turiellos]"}
+{"id":7660,"utt":"cancel all my appointments after three p. m. today and inform me the details","annot_utt":"cancel all my [event_name : appointments] after [time : three p. m.] [date : today] and inform me the details"}
+{"id":2315,"utt":"what's the news for today","annot_utt":"what's the news for [date : today]"}
+{"id":8888,"utt":"delete it","annot_utt":"delete it"}
+{"id":3671,"utt":"can i carry out with this restaurant","annot_utt":"can i carry out with this [business_type : restaurant]"}
+{"id":14917,"utt":"when's mark lanegan's next album out","annot_utt":"when's [person : mark lanegan's] next album out"}
+{"id":15587,"utt":"open gallery post picture name","annot_utt":"open [media_type : gallery] post picture name"}
+{"id":13172,"utt":"calculate two multiplied by two","annot_utt":"calculate two multiplied by two"}
+{"id":4496,"utt":"what did vogue post today","annot_utt":"what did [media_type : vogue] post [date : today]"}
+{"id":13222,"utt":"where does kate middleton buy her kids clothes","annot_utt":"where does [person : kate middleton] buy her kids clothes"}
+{"id":1527,"utt":"remind me that i like that song","annot_utt":"remind me that i like that song"}
+{"id":5427,"utt":"what is the time in canada now","annot_utt":"what is the time in [place_name : canada] now"}
+{"id":5952,"utt":"say a good joke for me right now","annot_utt":"say a [joke_type : good] joke for me right now"}
+{"id":10055,"utt":"what's the recipe for fried chicken","annot_utt":"what's the recipe for [food_type : fried chicken]"}
+{"id":6902,"utt":"set a reminder up next month to get my oil changed","annot_utt":"set a reminder up [date : next month] to get my [event_name : oil changed]"}
+{"id":16296,"utt":"send an email to mom to tell her wyatt's birthday party is on sunday","annot_utt":"send an email to [relation : mom] to tell her [person : wyatt's] [event_name : birthday party] is on [date : sunday]"}
+{"id":12987,"utt":"can you track my emotions based on the way i speak","annot_utt":"can you track my emotions based on the way i speak"}
+{"id":15792,"utt":"who am i meeting today","annot_utt":"who am i [event_name : meeting] [date : today]"}
+{"id":16780,"utt":"send an email to juanpedro at gmail dot com","annot_utt":"send an email to [email_address : juanpedro at gmail dot com]"}
+{"id":4909,"utt":"play songs by barenaked ladies","annot_utt":"play songs by [artist_name : barenaked ladies]"}
+{"id":169,"utt":"can they do delivery","annot_utt":"can they do [order_type : delivery]"}
+{"id":15763,"utt":"please check for new emails","annot_utt":"please check for new emails"}
+{"id":6643,"utt":"best paid jobs in digital marketing in my area","annot_utt":"best paid jobs in digital marketing in my area"}
+{"id":1048,"utt":"lower the speaker volume","annot_utt":"lower the speaker volume"}
+{"id":9326,"utt":"please play radio station one right now","annot_utt":"please play [radio_name : radio station one] right now"}
+{"id":3870,"utt":"what is the wake up time for my alarm i have set for the flight this weekend","annot_utt":"what is the [alarm_type : wake up] time for my alarm i have set for the flight [date : this weekend]"}
+{"id":11812,"utt":"what movies are playing tonight","annot_utt":"what movies are playing [timeofday : tonight]"}
+{"id":15890,"utt":"check to see if i have any new emails from my dad","annot_utt":"check to see if i have any new emails from my [relation : dad]"}
+{"id":9197,"utt":"what do i have planned for this week","annot_utt":"what do i have planned for [date : this week]"}
+{"id":14958,"utt":"look up","annot_utt":"look up"}
+{"id":1276,"utt":"i want a coffee","annot_utt":"i want a coffee"}
+{"id":2540,"utt":"make the room light blue","annot_utt":"make the [house_place : room] light [color_type : blue]"}
+{"id":2777,"utt":"should i bring an umbrella today","annot_utt":"should i bring an umbrella [date : today]"}
+{"id":4887,"utt":"save my opinion on adele's song","annot_utt":"save my opinion on [artist_name : adele's] song"}
+{"id":12905,"utt":"please reserve the next taxi a nine am","annot_utt":"please reserve the next [transport_type : taxi] a [time : nine am]"}
+{"id":14,"utt":"and the darkness has fallen","annot_utt":"and the darkness has fallen"}
+{"id":8430,"utt":"cancel all my appointments","annot_utt":"cancel all my [event_name : appointments]"}
+{"id":7655,"utt":"add a reminder for april twenty as my bro's birthday","annot_utt":"add a reminder for [date : april twenty] as my [relation : bro's] [event_name : birthday]"}
+{"id":3205,"utt":"play poker face by lady gaga","annot_utt":"play [song_name : poker face] by [artist_name : lady gaga]"}
+{"id":12104,"utt":"kung fu panda three","annot_utt":"[movie_name : kung fu panda three]"}
+{"id":7993,"utt":"delete all events from my calendar","annot_utt":"delete all events from my calendar"}
+{"id":14762,"utt":"dollar to euro exchange rate","annot_utt":"[currency_name : dollar] to [currency_name : euro] exchange rate"}
+{"id":2165,"utt":"is dinner ready yet","annot_utt":"is [meal_type : dinner] ready yet"}
+{"id":16765,"utt":"what is the interview time from yesterday's email","annot_utt":"what is the interview time from [date : yesterday's] email"}
+{"id":11470,"utt":"play my favorite podcast please","annot_utt":"play my favorite podcast please"}
+{"id":12779,"utt":"reserve the closest uber","annot_utt":"reserve the closest [transport_agency : uber]"}
+{"id":3835,"utt":"i want to order chinese take-out","annot_utt":"i want to order [food_type : chinese] [order_type : take-out]"}
+{"id":14620,"utt":"foreign exchange rates","annot_utt":"foreign exchange rates"}
+{"id":11644,"utt":"show me events in sacramento","annot_utt":"show me events in [place_name : sacramento]"}
+{"id":8410,"utt":"remove my dinner event for monday","annot_utt":"remove my [meal_type : dinner] event for [date : monday]"}
+{"id":10868,"utt":"olly anything else left on the list","annot_utt":"olly anything else left on the list"}
+{"id":11616,"utt":"are there any events going on downtown tonight","annot_utt":"are there any events going on [place_name : downtown] [timeofday : tonight]"}
+{"id":6015,"utt":"decrease brightness of lights","annot_utt":"decrease brightness of lights"}
+{"id":15968,"utt":"if it is from a very familiar place mark it as important","annot_utt":"if it is from a very familiar place mark it as important"}
+{"id":635,"utt":"please start vacuum cleaner","annot_utt":"please start [device_type : vacuum cleaner]"}
+{"id":13907,"utt":"define flabbergasted","annot_utt":"define [definition_word : flabbergasted]"}
+{"id":4116,"utt":"play my shuffled playlist please","annot_utt":"play my [playlist_name : shuffled playlist] please"}
+{"id":9103,"utt":"is there a meeting on my calendar this afternoon","annot_utt":"is there a [event_name : meeting] on my calendar [timeofday : this afternoon]"}
+{"id":2959,"utt":"initialize the robot vacuum","annot_utt":"initialize the [device_type : robot vacuum]"}
+{"id":11875,"utt":"is there a food festival in the area","annot_utt":"is there a [event_name : food festival] in the area"}
+{"id":15075,"utt":"olly where did the first americans settle","annot_utt":"olly where did the first americans settle"}
+{"id":8631,"utt":"erase that from my calendar","annot_utt":"erase that from my calendar"}
+{"id":15413,"utt":"get me a person a. s. a. p.","annot_utt":"get me a person a. s. a. p."}
+{"id":1098,"utt":"what day of the week does the fifteenth of march fall on","annot_utt":"what day of the week does the [date : fifteenth of march] fall on"}
+{"id":2007,"utt":"please play thirteen","annot_utt":"please play [song_name : thirteen]"}
+{"id":4601,"utt":"tell me when it is five p. m.","annot_utt":"tell me when it is [time : five p. m.]"}
+{"id":508,"utt":"what alarms are set","annot_utt":"what alarms are set"}
+{"id":12263,"utt":"california","annot_utt":"[place_name : california]"}
+{"id":15563,"utt":"clear out the problem","annot_utt":"clear out the problem"}
+{"id":2480,"utt":"call for take-out","annot_utt":"call for [order_type : take-out]"}
+{"id":12846,"utt":"please book train ticket from mumbai to sangli for tomorrow morning","annot_utt":"please book [transport_type : train] ticket from [place_name : mumbai] to [place_name : sangli] for [date : tomorrow] [timeofday : morning]"}
+{"id":9912,"utt":"olly how long should i boil the eggs","annot_utt":"olly how long should i [cooking_type : boil] the [food_type : eggs]"}
+{"id":10981,"utt":"let me know the list","annot_utt":"let me know the list"}
+{"id":15208,"utt":"post hey everyone on facebook","annot_utt":"post hey everyone on [media_type : facebook]"}
+{"id":3080,"utt":"it's time for junk food","annot_utt":"it's time for [food_type : junk food]"}
+{"id":9979,"utt":"cook me some oats","annot_utt":"cook me some [ingredient : oats]"}
+{"id":8290,"utt":"open a reminder about next weeks managers meeting on tuesday","annot_utt":"open a reminder about [date : next weeks] [event_name : managers meeting] on [date : tuesday]"}
+{"id":8042,"utt":"how many people are attending my next meeting","annot_utt":"how many people are attending my next [event_name : meeting]"}
+{"id":5721,"utt":"show me tomorrows weather in this area","annot_utt":"show me [date : tomorrows] weather in [place_name : this area]"}
+{"id":5158,"utt":"please play the latest song from the album abbas","annot_utt":"please play the latest song from the album [music_album : abbas]"}
+{"id":3864,"utt":"who sings the song that i am listening to right now","annot_utt":"who sings the song that i am listening to right now"}
+{"id":1458,"utt":"how hot is it in quebec","annot_utt":"how [weather_descriptor : hot] is it in [place_name : quebec]"}
+{"id":16496,"utt":"send a replay email","annot_utt":"send a replay email"}
+{"id":1115,"utt":"coordinate all pop song genres","annot_utt":"coordinate all [music_genre : pop] song genres"}
+{"id":6878,"utt":"schedule a meeting with the accounting department on two thirty p. m. on friday","annot_utt":"schedule a [event_name : meeting] with the [business_name : accounting department] on [time : two thirty p. m.] on [date : friday]"}
+{"id":14457,"utt":"find route","annot_utt":"find route"}
+{"id":5820,"utt":"comfort my ears with arijit singh","annot_utt":"[song_name : comfort my ears] with [artist_name : arijit singh]"}
+{"id":13411,"utt":"show me the answer for this problem two hundred and forty six plus six hundred and fifty four","annot_utt":"show me the answer for this problem two hundred and forty six plus six hundred and fifty four"}
+{"id":292,"utt":"turn on the vacuum cleaner","annot_utt":"turn on the [device_type : vacuum cleaner]"}
+{"id":11154,"utt":"check recent to do list","annot_utt":"check recent [list_name : to do] list"}
+{"id":7141,"utt":"is this program is scheduled","annot_utt":"is this program is scheduled"}
+{"id":7061,"utt":"give me a reminder twenty four hours before my friday meeting with edg","annot_utt":"give me a reminder [time : twenty four hours before] my [date : friday] [event_name : meeting] with [person : edg]"}
+{"id":13934,"utt":"how is the stock going in general","annot_utt":"how is the stock going in general"}
+{"id":10406,"utt":"open parcheese game for you and i","annot_utt":"open [game_name : parcheese game] for you and i"}
+{"id":1745,"utt":"you like the song","annot_utt":"you like the song"}
+{"id":10442,"utt":"remove events from my list","annot_utt":"remove events from my list"}
+{"id":5578,"utt":"i will need warm socks in winter in morning","annot_utt":"i will need [weather_descriptor : warm socks] in [weather_descriptor : winter] in [timeofday : morning]"}
+{"id":15445,"utt":"tell me what's happening on instagram","annot_utt":"tell me what's happening on [media_type : instagram]"}
+{"id":14243,"utt":"details on person","annot_utt":"details on person"}
+{"id":2296,"utt":"keep me up to date with today's n. b. a. scores","annot_utt":"keep me up to date with [date : today's] [news_topic : n. b. a. scores]"}
+{"id":4988,"utt":"prepare a cup of coffee for me","annot_utt":"prepare a cup of coffee for me"}
+{"id":3723,"utt":"i would like to hear aretha franklin's call me after this song","annot_utt":"i would like to hear [artist_name : aretha franklin's] call me after this song"}
+{"id":13741,"utt":"what's the currency exchange rate for china","annot_utt":"what's the currency exchange rate for [place_name : china]"}
+{"id":4638,"utt":"change volume settings in the negative alexa","annot_utt":"change volume settings in the negative alexa"}
+{"id":10053,"utt":"how do i make pizza","annot_utt":"how do i make [food_type : pizza]"}
+{"id":10045,"utt":"can you give me a recipe for homemade chicken noodle soup","annot_utt":"can you give me a recipe for homemade [food_type : chicken noodle soup]"}
+{"id":6997,"utt":"remove succeeding event","annot_utt":"remove succeeding event"}
+{"id":15933,"utt":"what new emails do i have","annot_utt":"what new emails do i have"}
+{"id":4502,"utt":"hey what time is it in london now","annot_utt":"hey what time is it in [place_name : london] now"}
+{"id":4620,"utt":"turn on new smart socket","annot_utt":"turn on new [device_type : smart socket]"}
+{"id":2447,"utt":"i feel like having soup for lunch order from wangs kitchen restaurant a chicken manchow soup","annot_utt":"i feel like having [food_type : soup] for [meal_type : lunch] order from [business_name : wangs kitchen] [business_type : restaurant] a chicken manchow soup"}
+{"id":16944,"utt":"send an email to grandma saying we are dropping by on saturday see you then","annot_utt":"send an email to [relation : grandma] saying we are dropping by on saturday see you then"}
+{"id":17075,"utt":"are there any new emails received after four o'clock today","annot_utt":"are there any new emails received [time : after four] o'clock [date : today]"}
+{"id":5812,"utt":"set the default audio setting","annot_utt":"set the default audio setting"}
+{"id":7539,"utt":"do i have anything going on","annot_utt":"do i have anything going on"}
+{"id":13192,"utt":"what is the root of six hundred and twenty five","annot_utt":"what is the root of six hundred and twenty five"}
+{"id":6968,"utt":"i need to confirm all meetings for today can the invite person","annot_utt":"i need to confirm all [event_name : meetings] for [date : today] can the invite person"}
+{"id":15187,"utt":"share in friends post","annot_utt":"share in friends post"}
+{"id":14268,"utt":"can you do nine plus two","annot_utt":"can you do nine plus two"}
+{"id":13467,"utt":"it would be great if can give you law consultations","annot_utt":"it would be great if can give you law consultations"}
+{"id":7000,"utt":"new event","annot_utt":"new event"}
+{"id":1866,"utt":"weather report now","annot_utt":"weather report now"}
+{"id":8916,"utt":"what is my schedule for the day","annot_utt":"what is my schedule for [date : the day]"}
+{"id":5619,"utt":"play previous song","annot_utt":"play [music_descriptor : previous] [song_name : song]"}
+{"id":12235,"utt":"please purchase a train ticket for this weekend","annot_utt":"please purchase a [transport_type : train] ticket for this [time : weekend]"}
+{"id":15055,"utt":"which pole is colder south or north","annot_utt":"which pole is colder south or north"}
+{"id":11366,"utt":"go back to previous episode of podcast","annot_utt":"go back to [podcast_descriptor : previous episode] of podcast"}
+{"id":3037,"utt":"front page news articles please","annot_utt":"front page news articles please"}
+{"id":17051,"utt":"get me new email","annot_utt":"get me new email"}
+{"id":5475,"utt":"i need you to get me up at six am","annot_utt":"i need you to get me up at [time : six am]"}
+{"id":10790,"utt":"delete item from list","annot_utt":"delete item from list"}
+{"id":5988,"utt":"adjust the lights to a lower setting please","annot_utt":"adjust the lights to a lower setting please"}
+{"id":16029,"utt":"please compose a new email to coworker","annot_utt":"please compose a new email to [relation : coworker]"}
+{"id":12982,"utt":"what does turbulence mean","annot_utt":"what does [definition_word : turbulence] mean"}
+{"id":7266,"utt":"what are my pending tasks","annot_utt":"what are my pending tasks"}
+{"id":12736,"utt":"road traffic","annot_utt":"road traffic"}
+{"id":6652,"utt":"sticking to diet","annot_utt":"sticking to diet"}
+{"id":11174,"utt":"list all the lists on this device","annot_utt":"list all the lists on this device"}
+{"id":3542,"utt":"change the lights in the living room to green and red","annot_utt":"change the lights in the [house_place : living room] to [color_type : green and red]"}
+{"id":6376,"utt":"what is a good iranian film from two thousand and sixteen","annot_utt":"what is a good iranian film from [date : two thousand and sixteen]"}
+{"id":3118,"utt":"what is eastern standard time right noe","annot_utt":"what is [time_zone : eastern] standard time right noe"}
+{"id":10430,"utt":"delete the first item on the list","annot_utt":"delete the first item on the list"}
+{"id":13580,"utt":"how tall is mount everest","annot_utt":"how tall is mount [place_name : everest]"}
+{"id":4477,"utt":"play song next","annot_utt":"play song next"}
+{"id":1635,"utt":"what times do my alarms go off","annot_utt":"what times do my alarms go off"}
+{"id":1960,"utt":"change the light to pink color","annot_utt":"change the light to [color_type : pink] color"}
+{"id":1830,"utt":"i want to eat some spicy thing","annot_utt":"i want to eat some [food_type : spicy] thing"}
+{"id":12693,"utt":"what does the traffic look like on my usual route to work","annot_utt":"what does the traffic look like on my usual route to work"}
+{"id":15203,"utt":"new updates","annot_utt":"new updates"}
+{"id":8,"utt":"pink is all we need","annot_utt":"[color_type : pink] is all we need"}
+{"id":512,"utt":"by get marks","annot_utt":"by get marks"}
+{"id":10563,"utt":"can you create a list for me","annot_utt":"can you create a list for me"}
+{"id":6439,"utt":"have you heard any good music lately","annot_utt":"have you heard any good music lately"}
+{"id":10286,"utt":"please begin clash of clans","annot_utt":"please begin [game_name : clash of clans]"}
+{"id":6325,"utt":"my day was extremely hard","annot_utt":"my day was extremely hard"}
+{"id":8110,"utt":"please add supervision to my calendar","annot_utt":"please add [event_name : supervision] to my calendar"}
+{"id":8880,"utt":"set a reminder about tomorrow's meeting at nine am","annot_utt":"set a reminder about [date : tomorrow's] [event_name : meeting] at [time : nine am]"}
+{"id":7892,"utt":"delete the next event today","annot_utt":"delete the next event [date : today]"}
+{"id":8148,"utt":"did i leave myself any reminders","annot_utt":"did i leave myself any reminders"}
+{"id":322,"utt":"enable my plug","annot_utt":"enable my [device_type : plug]"}
+{"id":5006,"utt":"what times are my alarms set for","annot_utt":"what times are my alarms set for"}
+{"id":15532,"utt":"olly tweet walmart and tell them their customer service is horrible","annot_utt":"olly [media_type : tweet] [business_name : walmart] and tell them their customer service is horrible"}
+{"id":11164,"utt":"away off from list","annot_utt":"away off from list"}
+{"id":15399,"utt":"forward a complaint to aircel for network related issues","annot_utt":"forward a complaint to [business_name : aircel] for network related issues"}
+{"id":1594,"utt":"can you tell me the latest news","annot_utt":"can you tell me the latest news"}
+{"id":4154,"utt":"turn off my wifi","annot_utt":"turn off my wifi"}
+{"id":14644,"utt":"stock price","annot_utt":"stock price"}
+{"id":13135,"utt":"when is the birth date of taylor lautner","annot_utt":"when is the birth date of [person : taylor lautner]"}
+{"id":8598,"utt":"remind me to pick up mark at the airport at six p. m.","annot_utt":"remind me to [event_name : pick up mark] at the [place_name : airport] at [time : six p. m.]"}
+{"id":12381,"utt":"book a train ticket from baltimore maryland to new york new york","annot_utt":"book a [transport_type : train] ticket from [place_name : baltimore maryland] to [place_name : new york new york]"}
+{"id":17042,"utt":"write an email for john at gmail dot com","annot_utt":"write an email for [email_address : john at gmail dot com]"}
+{"id":17107,"utt":"check new emails","annot_utt":"check new emails"}
+{"id":1318,"utt":"start music app and play a song for me","annot_utt":"start music app and play a song for me"}
+{"id":16438,"utt":"i need this email sent now","annot_utt":"i need this email sent now"}
+{"id":4896,"utt":"lower the overhead lights","annot_utt":"lower the [house_place : overhead] lights"}
+{"id":1059,"utt":"turn on the robot vacuum cleaner","annot_utt":"turn on the [device_type : robot vacuum cleaner]"}
+{"id":4166,"utt":"change volume level to maximum","annot_utt":"change volume level [change_amount : to maximum]"}
+{"id":5902,"utt":"check if alarm is set for six am","annot_utt":"check if alarm is set for [time : six am]"}
+{"id":7004,"utt":"add a reminder to my calendar every year on this date","annot_utt":"add a reminder to my calendar [general_frequency : every year] on this date"}
+{"id":3096,"utt":"how's the weather like in new jersey","annot_utt":"how's the weather like in [place_name : new jersey]"}
+{"id":9408,"utt":"start radio play","annot_utt":"start radio play"}
+{"id":4653,"utt":"set the speakers to mute","annot_utt":"set the speakers to mute"}
+{"id":5985,"utt":"show me the latest news from the un","annot_utt":"show me the latest news from the [media_type : un]"}
+{"id":3253,"utt":"should we expect rain this afternoon","annot_utt":"should we expect rain this [timeofday : afternoon]"}
+{"id":10350,"utt":"play racing","annot_utt":"play [game_name : racing]"}
+{"id":15911,"utt":"prepare email for susan","annot_utt":"prepare email for [person : susan]"}
+{"id":6248,"utt":"how old are you","annot_utt":"how old are you"}
+{"id":870,"utt":"opinion save","annot_utt":"opinion save"}
+{"id":6402,"utt":"give me some health tips","annot_utt":"give me some health tips"}
+{"id":10260,"utt":"play scrabble with me","annot_utt":"play [game_name : scrabble] with me"}
+{"id":4112,"utt":"convert current time from g. m. t. to e. s. t.","annot_utt":"convert current time from [time_zone : g. m. t.] to [time_zone : e. s. t.]"}
+{"id":7956,"utt":"can you make this event repetitive","annot_utt":"can you make this event repetitive"}
+{"id":10346,"utt":"start a game and play with me","annot_utt":"start a game and play with me"}
+{"id":3039,"utt":"what's new in the news","annot_utt":"what's new in the news"}
+{"id":12813,"utt":"please book a ticket of rajdhani express train from jaipur","annot_utt":"please book a ticket of [transport_name : rajdhani express] [transport_type : train] from [place_name : jaipur]"}
