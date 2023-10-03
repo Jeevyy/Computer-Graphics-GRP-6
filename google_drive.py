@@ -7,15 +7,12 @@ from google.oauth2 import service_account
 translations_file_path = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/translations.json'
 jsonl_output_dir = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/JSONL_Output'
 excel_files_dir = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/Excel_Files'
-
-"""Path to your Google API credentials JSON file"""
 credentials_file_path = 'C:/Users/User/Downloads/group-5-400916-b4f38ed28334.json'
 
-"""Load Google API credentials"""
+
 credentials = service_account.Credentials.from_service_account_file(credentials_file_path,
                                                                     scopes=['https://www.googleapis.com/auth/drive'])
 
-"""Build the Google Drive API service"""
 drive_service = build('drive', 'v3', credentials=credentials)
 
 
@@ -36,7 +33,6 @@ def get_folder_id_by_name(folder_name):
         return folder.get('id')
 
 
-# Get the ID of the "group6" folder or create it if it doesn't exist
 group6_folder_id = get_folder_id_by_name("group6")
 
 
