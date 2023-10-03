@@ -56,6 +56,7 @@ def upload_to_drive(local_file_path, drive_folder_id=None):
     return file_id
 
 
+
 """translations.json file to "group6" folder"""
 translations_file_id = upload_to_drive(translations_file_path, group6_folder_id)
 
