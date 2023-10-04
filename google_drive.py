@@ -14,7 +14,7 @@ File_paths = [
 """Path to your Google API credentials JSON file"""
 credentials_file_path = 'C:/Users/User/Downloads/group-5-400916-b4f38ed28334.json'
 
-"""Load Google API credentials"""
+"""Load the Google API credentials"""
 credentials = service_account.Credentials.from_service_account_file(
     credentials_file_path, scopes=['https://www.googleapis.com/auth/drive']
 )
