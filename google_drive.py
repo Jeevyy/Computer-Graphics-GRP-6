@@ -1,21 +1,25 @@
 import os
+import zipfile
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 from google.oauth2 import service_account
 
+"""Paths to your local files"""
+File_paths = [
+    'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/translations.json',
+    'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/JSONL_Output',
+    'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/Excel_Files'
+]
 
-translations_file_path = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/translations.json'
-jsonl_output_dir = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/JSONL_Output'
-excel_files_dir = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/Excel_Files'
-
-"""This is the Path to the Google API credentials JSON file in the local computer"""
+"""Path to your Google API credentials JSON file"""
 credentials_file_path = 'C:/Users/User/Downloads/group-5-400916-b4f38ed28334.json'
 
-"""Load the Google API credentials"""
-credentials = service_account.Credentials.from_service_account_file(credentials_file_path,
-                                                                    scopes=['https://www.googleapis.com/auth/drive'])
+"""Load Google API credentials"""
+credentials = service_account.Credentials.from_service_account_file(
+    credentials_file_path, scopes=['https://www.googleapis.com/auth/drive']
+)
 
-"""The below code builds the Google Drive API service"""
+"""Build the Google Drive API service"""
 drive_service = build('drive', 'v3', credentials=credentials)
 
 
@@ -36,15 +40,17 @@ def get_folder_id_by_name(folder_name):
         return folder.get('id')
 
 
-"""Get the ID of the "group6" folder or create it if it doesn't exist"""
-group6_folder_id = get_folder_id_by_name("group6")
+def create_zip_file(file_paths, zip_filename):
+    with zipfile.ZipFile(zip_filename, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        for file_path in file_paths:
+            file_name = os.path.basename(file_path)
+            zipf.write(file_path, arcname=file_name)
 
 
 def upload_to_drive(local_file_path, drive_folder_id=None):
     # Define the file metadata
     file_metadata = {
-        """Name of the file on Google Drive"""
-        'name': os.path.basename(local_file_path),
+        'name': os.path.basename(local_file_path),  # Name of the file on Google Drive
     }
 
     if drive_folder_id:
@@ -61,19 +67,17 @@ def upload_to_drive(local_file_path, drive_folder_id=None):
     return file_id
 
 
-"""translations.json file to the "group6" folder"""
-translations_file_id = upload_to_drive(translations_file_path, group6_folder_id)
+# temporary zip folder
+zip_folder_name = 'temp.zip'
+create_zip_file(File_paths, zip_folder_name)
 
-"""files in the JSONL_Output directory """
-for filename in os.listdir(jsonl_output_dir):
-    if filename.endswith('.jsonl'):
-        jsonl_file_path = os.path.join(jsonl_output_dir, filename)
-        upload_to_drive(jsonl_file_path, group6_folder_id)
+# Get the drive folder
+group6_folder_id = get_folder_id_by_name("group6")
 
-""" Excel_Files directory """
-for filename in os.listdir(excel_files_dir):
-    if filename.endswith('.xlsx'):
-        excel_file_path = os.path.join(excel_files_dir, filename)
-        upload_to_drive(excel_file_path, group6_folder_id)
+# Upload the zipped folder to Google Drive
+zip_file_id = upload_to_drive(zip_folder_name, group6_folder_id)
 
-print("Files uploaded to the 'group6' folder in Google Drive successfully.")
+
+os.remove(zip_folder_name)
+
+print(f"Files zipped and uploaded to Google Drive successfully as '{zip_folder_name}'")
