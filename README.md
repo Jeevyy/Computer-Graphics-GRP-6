@@ -32,10 +32,12 @@ This Python3 development project establishes an environment for data processing 
 4. Check Output: After running the script, find the generated files in the project directory, including Excel, JSON, and CSV files, depending on the tasks completed.
 
 ## Dependencies
-- `os`: Provides functions for interacting with the operating system, used for file path operations and directory management.
-- `shutil`: Offers high-level file operations, used for copying, moving, and deleting files and directories.
-- `pandas as pd`: A popular data manipulation library, used for data analysis and working with structured data.
-- `json`: Allows encoding and decoding of JSON data, used for reading and writing JSON files.
+- `os`
+- `json`
+- `pandas`
+- `shutil`
+- `googleapi`
+- `zipfile`
   
 ## Authors
 
