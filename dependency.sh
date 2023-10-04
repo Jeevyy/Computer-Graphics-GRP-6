@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# Install pandas, scikit-learn, openpyxl, shutil, os, and json
-pip install pandas scikit-learn openpyxl
+
+pip install pandas scikit-learn openpyxl google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib
+
+
 
 
