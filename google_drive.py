@@ -8,6 +8,7 @@ translations_file_path = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/
 jsonl_output_dir = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/JSONL_Output'
 excel_files_dir = 'C:/Users/User/PycharmProjects/Computer-Graphics-GRP-6/Excel_Files'
 
+
 """This is the Path to the Google API credentials JSON file in the local computer"""
 credentials_file_path = 'C:/Users/User/Downloads/group-5-400916-b4f38ed28334.json'
 
@@ -16,6 +17,13 @@ credentials = service_account.Credentials.from_service_account_file(credentials_
                                                                     scopes=['https://www.googleapis.com/auth/drive'])
 
 """The below code builds the Google Drive API service"""
+
+credentials_file_path = 'C:/Users/User/Downloads/group-5-400916-b4f38ed28334.json'
+
+
+credentials = service_account.Credentials.from_service_account_file(credentials_file_path,
+                                                                    scopes=['https://www.googleapis.com/auth/drive'])
+
 drive_service = build('drive', 'v3', credentials=credentials)
 
 
@@ -37,6 +45,7 @@ def get_folder_id_by_name(folder_name):
 
 
 """Get the ID of the "group6" folder or create it if it doesn't exist"""
+
 group6_folder_id = get_folder_id_by_name("group6")
 
 
@@ -62,6 +71,9 @@ def upload_to_drive(local_file_path, drive_folder_id=None):
 
 
 """translations.json file to the "group6" folder"""
+
+
+"""translations.json file to "group6" folder"""
 translations_file_id = upload_to_drive(translations_file_path, group6_folder_id)
 
 """files in the JSONL_Output directory """
